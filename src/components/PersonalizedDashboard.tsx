@@ -154,13 +154,80 @@ export const PersonalizedDashboard: React.FC<PersonalizedDashboardProps> = ({
 
   // Extract key insights
   const keyInsights = useMemo(() => {
-    return filteredPages
-      .filter((page: any) => page.key_insight && typeof page.key_insight === 'string')
-      .map((page: any) => ({
-        insight: page.key_insight,
-        headline: page.page_headline,
-      }))
-      .slice(0, 5); // Top 5 insights
+    const insights: Array<{ insight: string; headline?: string }> = [];
+
+    // 1) Prefer explicit page key_insight, but skip title-like or short placeholders
+    filteredPages.forEach((page: any) => {
+      const ki = page.key_insight && typeof page.key_insight === 'string' ? page.key_insight.trim() : '';
+      if (!ki) return;
+      const lower = ki.toLowerCase();
+      const isTitleLike = ki.length < 35 || lower.includes('rundown') || lower.includes('tl;dr') || ki === (page.page_headline || '');
+      if (!isTitleLike) {
+        insights.push({ insight: ki, headline: page.page_headline });
+      }
+    });
+
+    // 2) Next, use KPI card descriptions (TL;DR style pages)
+    filteredPages.forEach((page: any) => {
+      if (insights.length >= 5) return;
+      if (page.charts && Array.isArray(page.charts)) {
+        page.charts.forEach((chart: any) => {
+          if (insights.length >= 5) return;
+          if (chart.chart_type === 'kpi_cards' && Array.isArray(chart.data)) {
+            chart.data.forEach((kpi: any) => {
+              if (insights.length >= 5) return;
+              const desc = (kpi.description || kpi.additional_description || '').toString().trim();
+              if (desc) {
+                insights.push({ insight: desc, headline: page.page_headline });
+              } else if (kpi.label && kpi.value !== undefined) {
+                // Compose analytical sentence from label and value
+                let valueStr = kpi.value;
+                if (typeof valueStr === 'number') {
+                  valueStr = valueStr.toLocaleString();
+                }
+                let unit = kpi.unit ? ` ${kpi.unit.replace('_', ' ')}` : '';
+                let insightSentence = `There are ${valueStr}${unit} ${kpi.label.toLowerCase()} in the banking sector.`;
+                insights.push({ insight: insightSentence, headline: page.page_headline });
+              }
+            });
+          }
+        });
+      }
+    });
+
+    // 3) Then, use chart-level analyst_note values
+    filteredPages.forEach((page: any) => {
+      if (insights.length >= 5) return;
+      if (page.charts && Array.isArray(page.charts)) {
+        page.charts.forEach((chart: any) => {
+          if (insights.length >= 5) return;
+          if (chart.analyst_note && typeof chart.analyst_note === 'string' && chart.analyst_note.trim()) {
+            insights.push({ insight: chart.analyst_note.trim(), headline: page.page_headline });
+          }
+        });
+      }
+    });
+
+    // 4) Finally, use executive summaries or verbatim text as fallback
+    filteredPages.forEach((page: any) => {
+      if (insights.length >= 5) return;
+      if (page.executive_summary && page.executive_summary.text) {
+        insights.push({ insight: page.executive_summary.text.trim(), headline: page.page_headline });
+      } else if (page.verbatim_text) {
+        const vt = typeof page.verbatim_text === 'string' ? page.verbatim_text : Array.isArray(page.verbatim_text) ? page.verbatim_text.join(' ') : JSON.stringify(page.verbatim_text);
+        if (vt && vt.trim()) insights.push({ insight: vt.trim().slice(0, 400), headline: page.page_headline });
+      }
+    });
+
+    // Deduplicate and limit to 5
+    const seen = new Set<string>();
+    const unique = insights.filter(i => {
+      const key = i.insight.slice(0, 200);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+    return unique.slice(0, 5);
   }, [filteredPages]);
 
   // Extract all key trends

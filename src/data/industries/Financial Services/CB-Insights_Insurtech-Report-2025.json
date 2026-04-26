@@ -32,7 +32,6 @@
       "P&C Insurance 69",
       "Geographic Trends 80",
       "US 81",
-      "Silicon Valley 89",
       "Europe 93",
       "State of Insurtech",
       "© 2026 CB Insights | 10"
@@ -45,6 +44,7 @@
         "data": [
           {
             "section_title": "Global Trends",
+                "analyst_note": "In 2025, 70% of insurtech deals targeted companies in the 'deploying' or 'scaling' stages, compared to just 48% in the broader venture market. Investors are clearly prioritizing proven traction and market fit, while appetite for early-stage risk has diminished. The few emerging insurtechs that do attract capital are likely to be true outliers, but the dominant flow is toward those with established momentum.",
             "section_key": "global_trends",
             "start_page": 11
           },
@@ -220,6 +220,7 @@
               "chart_title": "TL;DR highlights",
               "chart_type": "kpi_cards",
               "suggested_chart_type": "kpi_cards",
+              "analyst_note": "Insurtech funding reached $5.3B in 2025, driven by a 28% rise in P&C funding and a near doubling of $100M+ mega-rounds to 11. Average deal size also increased, but the overall investor base narrowed sharply, concentrating capital among fewer repeat backers. Together these KPIs point to a market where select winners capture outsized capital — founders should emphasize clear commercial traction and partnership-readiness.",
               "data": [
                 {
                   "kpi_key": "insurtech_funding",
@@ -298,6 +299,7 @@
               "chart_title": "Annual equity funding and deal count",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+              "analyst_note": "Annual equity funding rebounded to $5.3B in 2025 after several years of decline, while deal counts fell to 405, signaling capital concentration into fewer, larger rounds. The divergence between funding recovery and lower deal volume suggests investors prioritized scale and later-stage opportunities. Companies should demonstrate defensible growth and unit economics to access the renewed but selective funding pool.",
               "data": [
                 {
                   "year": 2016,
@@ -385,6 +387,7 @@
               "chart_title": "The number of investors that made 4+ equity insurtech investments in a given year",
               "chart_type": "bar_chart",
               "suggested_chart_type": "bar_chart",
+                "analyst_note": "The number of investors making 4+ insurtech investments fell to just 15 in 2025, a steep decline from the 2021 peak of 86. This signals a more selective funding environment, where only the most compelling startups attract repeat backers. For founders, differentiation and clear commercial traction are now prerequisites for standing out in a crowded field. Investors are consolidating bets, and creative partnership strategies may be needed to unlock new capital sources.",
               "data": [
                 {
                   "year": 2016,
@@ -442,6 +445,7 @@
               "chart_title": "The top 3 most active investors in insurtech in 2025",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "General Catalyst, American Family Ventures, and Clocktower Technology Ventures led insurtech deal activity in 2025, with 13, 10, and 7 investments respectively. Their continued engagement highlights the importance of experienced, sector-focused investors in driving the market forward, even as overall investor participation contracts. Startups should note which investors remain active and tailor outreach accordingly.",
               "data": [
                 {
                   "rank": 1,
@@ -493,6 +497,7 @@
               "chart_title": "Distribution of Commercial Maturity for 2025 equity deals across insurtech and venture",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+              "analyst_note": "In 2025, 70% of insurtech deals targeted companies in the 'deploying' or 'scaling' stages, compared to just 48% in the broader venture market. Investors are clearly prioritizing proven traction and market fit, while appetite for early-stage risk has diminished. The few emerging insurtechs that do attract capital are likely to be true outliers, but the dominant flow is toward those with established momentum.",
               "data": [
                 {
                   "group": "insurtech",
@@ -548,6 +553,7 @@
               "chart_title": "Carriers and MGAs with at least 3 disclosed insurtech business relationships in 2025",
               "chart_type": "kpi_plus_relationship_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Sixteen business relationships were formed between leading carriers/MGAs and insurtech startups in 2025, with an average Mosaic Score of 662—placing these startups among the top 7% for company health. Notably, half of these relationships involved insurtechs that have since exited, highlighting partnerships as a powerful signal of both commercial viability and future liquidity. The landscape increasingly favors those able to secure strategic alliances with established industry players.",
               "data": {
                 "summary_kpis": [
                   {
@@ -693,6 +699,7 @@
               "chart_title": "Insurtech startups with an IPO Probability of at least 10% within the next 2 years",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Alan and Coalition top the 2026 IPO pipeline with a 58.3% probability of going public in the next two years, followed by Devoted, Cover Genius, and others. The presence of multiple high-probability candidates across categories like Health, Cyber, and Embedded signals a maturing insurtech sector with diverse exit opportunities. Investors should monitor these frontrunners for signals on broader market appetite and timing.",
               "data": [
                 {
                   "rank": 1,
@@ -826,6 +833,7 @@
               "chart_title": "Annual equity funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "After a multi-year decline, annual insurtech funding stabilized at $5.3B in 2025, while deal count continued to fall. This signals a market where capital is consolidating around fewer, more mature companies. Investors are prioritizing scale and proven models, making it critical for startups to demonstrate resilience and clear value to attract funding.",
               "data": [
                 {
                   "year": 2021,
@@ -884,6 +892,7 @@
               "chart_title": "Quarterly equity funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Quarterly data shows funding volatility but a clear downward trend in deal count, especially from 2023 onward. The market is rewarding quality over quantity, with larger checks going to fewer companies. Startups should focus on metrics that demonstrate traction and capital efficiency to stand out.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -1015,6 +1024,7 @@
               "chart_title": "Funding & deals by global region in Q4’25",
               "chart_type": "choropleth_or_bubble_map",
               "suggested_chart_type": "choropleth_or_bubble_map",
+                "analyst_note": "In Q4’25, the US dominated insurtech funding and deal activity, capturing $1B across 52 deals. Europe and Asia trailed with $0.3B and $0.1B, respectively. Regional disparities highlight the importance of local market dynamics and investor networks in shaping funding outcomes.",
               "data": [
                 {
                   "region": "us",
@@ -1095,6 +1105,7 @@
               "chart_title": "Percent of quarterly deals by global region",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "The US consistently accounts for around half of all insurtech deals each quarter, with Europe and other regions sharing the remainder. This geographic concentration suggests that US-based startups may have an edge in accessing capital, but also face stiffer competition.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -1257,6 +1268,7 @@
               "chart_title": "Percent of quarterly deals by investor group",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "VCs remain the dominant investor group in insurtech, but the share of angels, corporates, and CVCs fluctuates quarter to quarter. Startups should tailor their fundraising strategies to target the most active investor segments in each period.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -1515,6 +1527,7 @@
               "chart_title": "Annual average deal size",
               "chart_type": "bar_chart",
               "suggested_chart_type": "bar_chart",
+                "analyst_note": "Average deal size increased to $15.2M in 2025, reversing a multi-year decline. This uptick reflects renewed confidence in select insurtechs and a willingness among investors to back larger, later-stage rounds.",
               "data": [
                 {
                   "year": 2021,
@@ -1544,6 +1557,7 @@
               "chart_title": "Annual median deal size",
               "chart_type": "bar_chart",
               "suggested_chart_type": "bar_chart",
+                "analyst_note": "Median deal size also rose in 2025, reaching $4.8M. The increase in both average and median deal sizes suggests a healthier funding environment for companies able to clear higher diligence bars.",
               "data": [
                 {
                   "year": 2021,
@@ -1591,6 +1605,7 @@
               "chart_title": "Annual median deal size by global region",
               "chart_type": "grouped_small_multiples",
               "suggested_chart_type": "bar_chart",
+                "analyst_note": "US insurtechs consistently secure higher median deal sizes than their European peers, with the gap widening in 2025. This underscores the premium placed on US market access and growth potential.",
               "data": [
                 {
                   "region": "us",
@@ -1661,6 +1676,7 @@
               "chart_title": "Annual median deal size by investor group",
               "chart_type": "grouped_small_multiples",
               "suggested_chart_type": "bar_chart",
+                "analyst_note": "Private equity and asset managers led with the largest median deal sizes in 2025, while angels and corporates trailed. Understanding which investor groups are writing the biggest checks can help startups target their outreach more effectively.",
               "data": [
                 {
                   "investor_group": "angel",
@@ -1786,6 +1802,7 @@
               "chart_title": "Annual mega-round funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Mega-round activity rebounded in 2025, with $1.4B raised across 11 deals. This marks a shift back toward large, late-stage financings, even as overall deal volume remains subdued.",
               "data": [
                 {
                   "year": 2021,
@@ -1846,6 +1863,7 @@
               "chart_title": "Quarterly funding & deals from mega-rounds (deals worth $100m+)",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Mega-rounds remain lumpy, with some quarters seeing significant spikes. Timing and readiness for large rounds are critical for companies aiming to break out in this environment.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -1990,6 +2008,7 @@
               "chart_title": "Mega-round funding & deals by global region in Q4’25",
               "chart_type": "choropleth_or_bubble_map",
               "suggested_chart_type": "choropleth_or_bubble_map",
+                "analyst_note": "In Q4’25, the US led mega-round activity with $0.4B across 3 deals, while Europe and LatAm saw smaller but notable participation. Regional mega-rounds can signal emerging hubs and shifting investor focus.",
               "data": [
                 {
                   "region": "us",
@@ -2040,6 +2059,7 @@
               "chart_title": "Quarterly mega-round deals by global region",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "The US continues to dominate mega-round deal counts, but Europe and other regions are increasingly present in the later quarters. This diversification may offer new opportunities for cross-border syndication.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -2199,6 +2219,7 @@
               "chart_title": "Quarterly mega-rounds as percent of funding",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "Mega-rounds accounted for as much as 64% of quarterly funding in some periods, but dropped to just 10% in others. This volatility highlights the importance of timing and market sentiment for large fundraising events.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -2340,6 +2361,7 @@
               "chart_title": "Global: Top equity deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "The largest Q4’25 deals—CyberCube, ICEYE, Creditas, Federato, and Nirvana—reflect investor appetite for scale, innovation, and geographic diversity. Notably, ICEYE’s $175M Series E and Nirvana’s $100M Series D highlight continued interest in insurtechs with differentiated technology and strong growth prospects.",
               "data": [
                 {
                   "rank": 1,
@@ -2541,6 +2563,7 @@
               "chart_title": "Annual percent of deals by deal stage",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "Early-stage deals still make up the majority, but their share is declining as investors shift toward mid- and late-stage opportunities. Startups should be prepared for more rigorous evaluation as they progress through funding rounds.",
               "data": [
                 {
                   "year": 2021,
@@ -2616,6 +2639,7 @@
               "chart_title": "Regional deal share by deal stage in Q4’25",
               "chart_type": "grouped_bar_chart",
               "suggested_chart_type": "bar_chart",
+                "analyst_note": "The US saw a more balanced distribution across deal stages in Q4’25, while Europe and other regions skewed heavily toward early-stage deals. This suggests that later-stage capital is more accessible in the US, with Europe and other regions still nurturing earlier-stage ecosystems.",
               "data": [
                 {
                   "region": "us",
@@ -2675,6 +2699,7 @@
               "chart_title": "Annual median funding by deal stage",
               "chart_type": "grouped_small_multiples",
               "suggested_chart_type": "bar_chart",
+                "analyst_note": "Median funding rises sharply with deal stage: $3M for early-stage, $27.7M for mid-stage, and $37.5M for late-stage in 2025. This underscores the value placed on traction and maturity, and the importance of progressing through funding milestones.",
               "data": [
                 {
                   "deal_stage": "early_stage",
@@ -2786,6 +2811,7 @@
               "chart_title": "Global: Top seed/angel deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Top seed and angel deals in Q4’25, such as ClaimSorted and Irys at $13M each, show that early-stage capital is still available for compelling teams and ideas. However, the bar for investor syndicate quality and market fit remains high.",
               "data": [
                 {
                   "rank": 1,
@@ -2974,6 +3000,7 @@
               "chart_title": "Global: Top Series A deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Meanwhile’s $82M Series A stands out as a major outlier, with most other top Series A rounds in the $12–25M range. Large early rounds are rare and typically reserved for companies with exceptional growth signals or strategic backers.",
               "data": [
                 {
                   "rank": 1,
@@ -3152,6 +3179,7 @@
               "chart_title": "Global: Top Series B deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Series B activity in Q4’25 was led by Liberate ($50M) and Stand ($35M), with a strong showing from both US and international companies. The diversity of investors highlights the global competition for promising insurtechs.",
               "data": [
                 {
                   "rank": 1,
@@ -3336,6 +3364,7 @@
               "chart_title": "Global: Top Series C deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Roojai’s $60M Series C and Codoxo’s $35M round reflect continued investor appetite for scaling insurtechs, especially those with differentiated offerings and international reach.",
               "data": [
                 {
                   "rank": 1,
@@ -3435,6 +3464,7 @@
               "chart_title": "Global: Top Series D deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Federato and Nirvana each raised $100M Series D rounds, signaling strong late-stage investor confidence. These deals set a high bar for peers seeking similar capital infusions.",
               "data": [
                 {
                   "rank": 1,
@@ -3537,6 +3567,7 @@
               "chart_title": "Global: Top Series E+ deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "ICEYE’s $175M Series E and Creditas’s $108M Series G demonstrate that the largest checks are still being written for insurtechs with proven scale and global ambitions.",
               "data": [
                 {
                   "rank": 1,
@@ -3632,6 +3663,7 @@
               "chart_title": "Fastest-growing markets by YoY headcount change",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+              "analyst_note": "Markets such as Insurtech MGAs (cyber) and commercial-lines MGAs showed the highest YoY headcount growth, with top segments growing in the mid-teens. This hiring pattern indicates where commercial momentum and customer demand are expanding fastest within insurtech. Investors and job-seeking talent should watch these segments for increasing activity and partnership opportunities.",
               "data": [
                 {
                   "rank": 1,
@@ -3712,6 +3744,7 @@
               "chart_title": "Annual share of M&A exits by number of employees",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+              "analyst_note": "A majority of M&A exits are concentrated among smaller companies: firms with fewer than 50 employees account for roughly half to two-thirds of exits in recent years. That trend suggests strategic acquirers favor bolt-on capabilities and nimble teams over large, fully scaled targets. Founders seeking exit should prioritize operational integrations and clear product-market fit that appeal to acquirers.",
               "data": [
                 {
                   "year": 2021,
@@ -3793,6 +3826,7 @@
               "chart_title": "Quarterly equity deal share by number of employees",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+              "analyst_note": "Quarterly deal share is dominated by smaller companies (under 50 employees), often representing 55–65% of activity in recent quarters. This persistent bias toward smaller teams highlights where early-stage innovation is most active. Startups should focus on demonstrating rapid customer acquisition and retention to convert investor interest into funding.",
               "data": [
                 {
                   "period": "2024_q4",
@@ -3874,6 +3908,7 @@
               "chart_title": "Top deals this quarter by valuation per employee",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Liberate and Nirvana lead in valuation per employee, at $6.4M and $6.1M respectively. High valuation efficiency often signals strong unit economics and operational leverage—key metrics for investors.",
               "data": [
                 {
                   "rank": 1,
@@ -3974,6 +4009,7 @@
               "chart_title": "Quarterly new & total unicorns (private companies valued at $1b+)",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+              "analyst_note": "Total unicorn counts have been stable rather than rapidly expanding, with only occasional quarters contributing new entries. That stability indicates that while flagship insurtechs reach the $1B mark, new unicorn births remain scarce. Investors remain selective; companies seeking breakout valuations must show clear paths to rapid international scale.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -4115,6 +4151,7 @@
               "chart_title": "New & total unicorns by global region in Q4’25",
               "chart_type": "choropleth_or_bubble_map",
               "suggested_chart_type": "choropleth_or_bubble_map",
+              "analyst_note": "The US accounts for the largest share of unicorns (21 total) with Europe trailing and other regions making smaller contributions. This concentration underscores the depth of later-stage capital and exit pathways in the US market. International founders aiming for unicorn outcomes should plan for cross-border expansion and strategic capital raises.",
               "data": [
                 {
                   "region": "us",
@@ -4170,6 +4207,7 @@
               "chart_title": "Quarterly new unicorns by global region",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+              "analyst_note": "Quarterly new-unicorn counts are sparse and inconsistently reported across periods, with occasional new entrants in the US and Europe. The limited quarterly cadence means unicorn births are episodic rather than systematic. Founders should target sustained growth and strategic partnerships to become candidates for these rare, high-impact rounds.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -4330,6 +4368,7 @@
               "chart_title": "Global: Top unicorn births in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "ICEYE and Nirvana emerged as the newest unicorns in Q4’25, reflecting investor confidence in their business models and growth prospects. Their ascent highlights the ongoing evolution of the insurtech landscape.",
               "data": [
                 {
                   "rank": 1,
@@ -4378,6 +4417,7 @@
               "chart_title": "Global: Top unicorns by valuation in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Devoted Health, Gusto, and Coalition top the unicorn valuation leaderboard, each exceeding $5B. The presence of multiple high-value companies across geographies signals a robust and maturing insurtech sector.",
               "data": [
                 {
                   "rank": 1,
@@ -4499,6 +4539,7 @@
               "chart_title": "Annual exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "Annual exits surged in 2025, with 6 IPOs and 74 M&A deals, but no SPACs. The dominance of M&A as an exit route highlights ongoing consolidation and the importance of strategic positioning for acquisition.",
               "data": [
                 {
                   "year": 2021,
@@ -4568,6 +4609,7 @@
               "chart_title": "Quarterly exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "Quarterly exit activity peaked in early 2025, with 2 IPOs and 14 M&A deals in Q1. Timing exits to market windows remains critical for maximizing outcomes.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -4728,6 +4770,7 @@
               "chart_title": "Percent of quarterly exits by global region",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "Exit activity is increasingly global, with Europe capturing 38% of Q4’25 exits, nearly matching the US at 31%. Startups should consider cross-border M&A and IPO opportunities as the market globalizes.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -4887,6 +4930,7 @@
               "chart_title": "Global: Top M&A exits in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Bamboo Insurance and Newfront led Q4’25 M&A exits with valuations of $1.8B and $1.3B, respectively. High-value exits remain concentrated among US companies, but international deals are present as well.",
               "data": [
                 {
                   "rank": 1,
@@ -4945,6 +4989,7 @@
               "chart_title": "Global: Top IPOs in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Neptune Flood’s $2.8B IPO in Q4’25 demonstrates that public market appetite for insurtechs persists, especially for companies with differentiated offerings and strong fundamentals.",
               "data": [
                 {
                   "rank": 1,
@@ -5004,6 +5049,7 @@
               "chart_title": "Global: Top investors by company count in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "General Catalyst and Andreessen Horowitz led Q4’25 by company count, reflecting their continued conviction in the sector. Asset managers like Bpifrance are also increasingly active, signaling a broadening investor base.",
               "data": [
                 {
                   "rank": 1,
@@ -5059,6 +5105,7 @@
               "chart_title": "Global: Top VCs by company count in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "The top VCs by company count are dominated by US-based firms, but notable participation from UK and German investors highlights the internationalization of insurtech capital.",
               "data": [
                 {
                   "rank": 1,
@@ -5153,6 +5200,7 @@
               "chart_title": "Global: Top corporate VCs (CVCs) by company count in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "American Family Ventures and Greenlight Re Innovations each backed two companies in Q4’25, showing that corporate VCs remain important players in the insurtech ecosystem.",
               "data": [
                 {
                   "rank": 1,
@@ -5219,6 +5267,7 @@
                   "chart_title": "Annual equity funding & deals",
                   "chart_type": "dual_axis_composed_chart",
                   "suggested_chart_type": "dual_axis_composed_chart",
+                    "analyst_note": "Annual funding for P&C Insurance rebounded to $3.7B in 2025, with deal volume steady at 295. The sector’s resilience signals ongoing investor confidence despite market volatility.",
                   "data": [
                     {
                       "year": 2021,
@@ -5277,6 +5326,7 @@
                   "chart_title": "Quarterly equity funding & deals",
                   "chart_type": "dual_axis_composed_chart",
                   "suggested_chart_type": "dual_axis_composed_chart",
+                    "analyst_note": "Quarterly funding and deal counts for P&C Insurance show a stable pipeline, with Q4’25 seeing $1.3B raised across 77 deals. Consistent deal flow supports sector innovation.",
                   "data": [
                     {
                       "period": "2021_q1",
@@ -5408,6 +5458,7 @@
                   "chart_title": "Funding & deals by global region in Q4’25",
                   "chart_type": "choropleth_or_bubble_map",
                   "suggested_chart_type": "choropleth_or_bubble_map",
+                    "analyst_note": "US and Europe led Q4’25 P&C Insurance funding, but notable rounds in Canada, Oceania, and Africa highlight the sector’s expanding global reach.",
                   "data": [
                     {
                       "region": "us",
@@ -5488,6 +5539,7 @@
                   "chart_title": "Percent of quarterly deals by global region",
                   "chart_type": "100_percent_stacked_bar_chart",
                   "suggested_chart_type": "100_percent_stacked_bar_chart",
+                    "analyst_note": "The US consistently accounts for around half of P&C Insurance deals each quarter, but Europe and other regions maintain a strong presence, reflecting broad-based sector growth.",
                   "data": [
                     {
                       "period": "2021_q1",
@@ -5908,6 +5960,7 @@
                   "chart_title": "Annual average deal size",
                   "chart_type": "bar_chart",
                   "suggested_chart_type": "bar_chart",
+                    "analyst_note": "Average deal size in P&C Insurance remained steady in 2025 at $14.5M, suggesting stable investor appetite for mid-sized rounds.",
                   "data": [
                     {
                       "year": 2021,
@@ -5937,6 +5990,7 @@
                   "chart_title": "Annual median deal size",
                   "chart_type": "bar_chart",
                   "suggested_chart_type": "bar_chart",
+                    "analyst_note": "Median deal size in 2025 was $4.6M, indicating that while large rounds occur, most deals remain in the single-digit millions.",
                   "data": [
                     {
                       "year": 2021,
@@ -6934,6 +6988,7 @@
                   "chart_title": "Annual percent of deals by deal stage",
                   "chart_type": "100_percent_stacked_bar_chart",
                   "suggested_chart_type": "100_percent_stacked_bar_chart",
+                    "analyst_note": "Early-stage deals made up 62% of P&C Insurance activity in 2025, but mid- and late-stage rounds are also well represented, supporting a healthy funding continuum.",
                   "data": [
                     {
                       "year": 2021,
@@ -9648,6 +9703,7 @@
               "chart_title": "Annual equity funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+              "analyst_note": "Annual funding for Life & Health Insurance fell from $6.6B in 2021 to $1.6B in 2025 while deal counts dropped from 262 to 110. This indicates capital is consolidating around fewer, more mature companies rather than broad-based early-stage activity. Companies should focus on demonstrating clear unit economics and pathway to profitability to attract the limited available funding.",
               "data": [
                 {
                   "year": 2021,
@@ -9706,6 +9762,7 @@
               "chart_title": "Quarterly equity funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+              "analyst_note": "Quarterly funding shows lumpy but downward-trending activity with peaks in early 2021 and more muted volumes by 2025. Deal counts have also softened, suggesting investors are writing fewer checks per quarter. Founders should plan for longer fundraising cycles and emphasize metrics that signal defensibility and growth.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -9843,6 +9900,7 @@
               "chart_title": "Funding & deals by global region in Q4’25",
               "chart_type": "choropleth_or_bubble_map",
               "suggested_chart_type": "choropleth_or_bubble_map",
+              "analyst_note": "In Q4’25 the US led Life & Health funding with roughly $0.2B across 12 deals, while Europe and Asia remained smaller contributors. Regional concentration underscores the importance of local market dynamics and investor networks for deal flow. Companies outside top hubs may need stronger cross-border strategies to access larger rounds.",
               "data": [
                 {
                   "region": "us",
@@ -9914,6 +9972,7 @@
               "chart_title": "Percent of quarterly deals by global region",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+              "analyst_note": "The US consistently represents a plurality of Life & Health deals each quarter, often above 50%, with Europe and other regions sharing the remainder. This geographic skew suggests that US-based teams continue to capture disproportionate investor attention. Non-US startups should prioritize clear localization or global distribution plans to close larger rounds.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -10070,6 +10129,7 @@
               "chart_title": "Annual average deal size",
               "chart_type": "bar_chart",
               "suggested_chart_type": "bar_chart",
+              "analyst_note": "Average deal size in Life & Health moved from $31.4M in 2021 to $17.1M in 2025, showing both volatility and a long-term decline from the 2021 peak. That gap suggests fewer mega-checks but still meaningful sized rounds for select winners. Teams should demonstrate scaled revenue or unique IP to justify higher ticket sizes.",
               "data": [
                 {
                   "year": 2021,
@@ -10099,6 +10159,7 @@
               "chart_title": "Annual median deal size",
               "chart_type": "bar_chart",
               "suggested_chart_type": "bar_chart",
+              "analyst_note": "Median deal size fell from $7.5M in 2021 to $6.0M in 2025 with a trough in 2023, indicating continued pressure on mid-market pricing. The divergence between average and median suggests a small number of large rounds have outsized influence. Founders should focus on unit economics and milestones that attract mid-to-late-stage investors.",
               "data": [
                 {
                   "year": 2021,
@@ -10148,6 +10209,7 @@
               "chart_title": "Annual percent of deals by deal stage",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+              "analyst_note": "Early-stage deals remain the majority but declined by 2025 as mid-stage share rose slightly, reflecting a shift of capital toward more proven companies. This pattern signals that investors prefer to back de-risked business models amid tighter markets. Early-stage founders should therefore prepare stronger go-to-market signals when fundraising.",
               "data": [
                 {
                   "year": 2021,
@@ -10222,6 +10284,7 @@
               "chart_title": "Life & Health Insurance: Top equity deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Meanwhile’s $82M Series A and Bennie’s $50M private equity round led the Life & Health Insurance sector in Q4’25, underscoring investor appetite for innovation in core insurance verticals.",
               "data": [
                 {
                   "rank": 1,
@@ -10418,6 +10481,7 @@
               "chart_title": "Quarterly new & total unicorns",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+              "analyst_note": "Unicorn births in Life & Health are rare and uneven, with only occasional quarters showing new entrants. Total counts are stable but not growing rapidly, indicating that while standout companies still emerge, scaling to unicorn status remains challenging. Investors are selective, favoring firms with clear paths to large market share.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -10557,6 +10621,7 @@
               "chart_title": "Annual exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+              "analyst_note": "Annual exits in Life & Health show M&A as the dominant outcome, with IPOs appearing only sporadically through 2025. The prevalence of M&A suggests strategic buyers remain the most reliable exit route for founders. Companies seeking liquidity should prioritize building acquisition-aligned capabilities and strategic partnerships.",
               "data": [
                 {
                   "year": 2021,
@@ -10626,6 +10691,7 @@
               "chart_title": "Quarterly exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+              "analyst_note": "Quarterly exit activity is lumpy and concentrated in a few quarters, consistent with acquisition-driven exits rather than steady IPO markets. Recent quarters show elevated M&A counts, signaling continued strategic interest in select insurtech targets. Founders should document acquisition synergies and customer retention to improve exit prospects.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -10801,6 +10867,7 @@
               "chart_title": "Annual equity funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+              "analyst_note": "P&C Insurance funding declined from $10.2B in 2021 to $3.7B in 2025 while deal counts dropped from 592 to 295, reflecting a broad market contraction. The relative resilience in 2025 compared with 2024 suggests selective investor appetite returned for certain subsectors. P&C startups should emphasize margin expansion and distribution advantages to capture renewed capital.",
               "data": [
                 {
                   "year": 2021,
@@ -10859,6 +10926,7 @@
               "chart_title": "Quarterly equity funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+              "analyst_note": "Quarterly P&C funding shows early-period spikes with more consistent but lower volumes post-2022; deal counts also moderated. This pattern points to a maturing market where fewer but larger strategic rounds occur. Founders should align product roadmaps with measurable commercial KPIs to attract follow-on funding.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -10997,6 +11065,7 @@
               "chart_title": "Funding & deals by global region in Q4’25",
               "chart_type": "choropleth_or_bubble_map",
               "suggested_chart_type": "choropleth_or_bubble_map",
+              "analyst_note": "In P&C, the US accounted for the largest share of Q4’25 funding (~$0.8B across 40 deals), with Europe and LatAm contributing smaller but meaningful volumes. Regional leadership in P&C underscores differences in distribution models and regulatory environments. International expansion requires adapting to local underwriting and distribution norms.",
               "data": [
                 {
                   "region": "us",
@@ -11074,6 +11143,7 @@
               "chart_title": "Percent of quarterly deals by global region",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+              "analyst_note": "P&C deal share is concentrated in the US and Europe, with the US share often near or above 40–50% across quarters. The persistent regional split highlights where investor networks and distribution channels are strongest. Startups targeting cross-border growth should invest early in partnerships and regulatory expertise.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -11230,6 +11300,7 @@
               "chart_title": "Annual average deal size",
               "chart_type": "bar_chart",
               "suggested_chart_type": "bar_chart",
+              "analyst_note": "Average P&C deal size fell from $21.4M in 2021 to $14.5M in 2025, with material volatility across the period. This decline suggests fewer very large checks and more modest rounds for mid-market companies. Teams seeking larger rounds must demonstrate clear growth levers and scalable distribution.",
               "data": [
                 {
                   "year": 2021,
@@ -11259,6 +11330,7 @@
               "chart_title": "Annual median deal size",
               "chart_type": "bar_chart",
               "suggested_chart_type": "bar_chart",
+              "analyst_note": "Median deal size in P&C was roughly stable but modest, moving from $5.0M in 2021 to $4.6M in 2025, indicating most rounds remain in the lower-middle market. The stability of the median versus a declining average suggests a smaller number of outsized rounds. Founders should prioritize unit economics to access higher-ticket investors.",
               "data": [
                 {
                   "year": 2021,
@@ -11308,6 +11380,7 @@
               "chart_title": "Annual percent of deals by deal stage",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+              "analyst_note": "P&C deal-stage mix skews heavily toward early-stage, though mid- and late-stage shares persist, especially in 2025. This indicates a pipeline of early innovation alongside selective later-stage activity. Early-stage founders should highlight traction and distribution for fundraising readiness.",
               "data": [
                 {
                   "year": 2021,
@@ -11382,6 +11455,7 @@
               "chart_title": "P&C Insurance: Top equity deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "CyberCube’s $180M and ICEYE’s $175M rounds led Q4’25, with significant capital also flowing to Brazil’s Creditas and Thailand’s Roojai, showing global investor interest in P&C innovation.",
               "data": [
                 {
                   "rank": 1,
@@ -11583,6 +11657,7 @@
               "chart_title": "Quarterly new & total unicorns",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Two new unicorns emerged in Q4’25, bringing the P&C Insurance total to 24. The steady unicorn count since 2022 signals a maturing market with fewer but larger winners.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -11722,6 +11797,7 @@
               "chart_title": "Annual exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "Annual exits in P&C Insurance hit 59 in 2025, with M&A dominating and 4 IPOs. The sector’s exit environment remains robust for well-positioned companies.",
               "data": [
                 {
                   "year": 2021,
@@ -11791,6 +11867,7 @@
               "chart_title": "Quarterly exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "Q1’25 saw 1 IPO and 12 M&A exits in P&C Insurance, with earlier quarters showing strong M&A activity. Timing and readiness for exit remain key for founders.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -14316,6 +14393,7 @@
               "chart_title": "Annual funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "US insurtech funding reached $3.4B in 2025, with 222 deals. While funding is down from 2021, deal activity remains robust, indicating sustained innovation and investor interest.",
               "data": [
                 {
                   "year": 2021,
@@ -14374,6 +14452,7 @@
               "chart_title": "Quarterly funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Quarterly funding in the US fluctuated but ended 2025 with $1.0B in Q4 and 52 deals, showing resilience despite market headwinds.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -14509,6 +14588,7 @@
               "chart_title": "Annual percent of deals by deal stage",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "Early-stage deals comprised 56% of US activity in 2025, but mid- and late-stage rounds are also significant, supporting a healthy pipeline for future growth.",
               "data": [
                 {
                   "year": 2021,
@@ -14582,6 +14662,7 @@
               "chart_title": "US: Top equity deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "CyberCube’s $180M and Federato’s $100M rounds led US insurtech in Q4’25, with strong support from both traditional VCs and private equity investors.",
               "data": [
                 {
                   "rank": 1,
@@ -14774,6 +14855,7 @@
               "chart_title": "Annual exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "US insurtech saw 3 IPOs and 38 M&A exits in 2025, with M&A remaining the dominant exit route. Strategic buyers continue to drive liquidity in the market.",
               "data": [
                 {
                   "year": 2021,
@@ -14843,6 +14925,7 @@
               "chart_title": "Quarterly exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "Q1’25 saw 1 IPO and 4 M&A exits in the US, with earlier quarters showing strong M&A activity. Founders should prepare for exit opportunities as market windows open.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -15003,6 +15086,7 @@
               "chart_title": "US: Top investors by company count in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "General Catalyst and Andreessen Horowitz led US insurtech investing in Q4’25, with a diverse mix of CVCs and private equity also active.",
               "data": [
                 {
                   "rank": 1,
@@ -15123,6 +15207,7 @@
               "chart_title": "Quarterly funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Silicon Valley’s insurtech funding was led by CyberCube’s $180M round in Q4’25, with deal counts remaining steady across quarters.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -15258,6 +15343,7 @@
               "chart_title": "Annual percent of deals by deal stage",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "Early-stage deals made up 57% of Silicon Valley insurtech activity in 2025, but mid- and late-stage rounds are also well represented, supporting a healthy funding continuum.",
               "data": [
                 {
                   "year": 2021,
@@ -15334,6 +15420,7 @@
               "chart_title": "Silicon Valley: Top equity deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "CyberCube’s $180M and Federato’s $100M rounds highlight Silicon Valley’s continued leadership in insurtech innovation and capital formation.",
               "data": [
                 {
                   "rank": 1,
@@ -15462,6 +15549,7 @@
               "chart_title": "Annual funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Europe insurtech funding reached $1.2B in 2025, with 100 deals. While funding is down from 2021, deal activity remains steady, reflecting ongoing sector resilience.",
               "data": [
                 {
                   "year": 2021,
@@ -15520,6 +15608,7 @@
               "chart_title": "Quarterly funding & deals",
               "chart_type": "dual_axis_composed_chart",
               "suggested_chart_type": "dual_axis_composed_chart",
+                "analyst_note": "Quarterly funding in Europe fluctuated, with Q4’25 seeing $337M raised across 25 deals. The region continues to attract significant capital despite macroeconomic uncertainty.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -15657,6 +15746,7 @@
               "chart_title": "Annual percent of deals by deal stage",
               "chart_type": "100_percent_stacked_bar_chart",
               "suggested_chart_type": "100_percent_stacked_bar_chart",
+                "analyst_note": "Early-stage deals made up 68% of European insurtech activity in 2025, but mid- and late-stage rounds are also present, supporting a healthy pipeline.",
               "data": [
                 {
                   "year": 2021,
@@ -15734,6 +15824,7 @@
               "chart_title": "Europe: Top equity deals in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "ICEYE’s $175M Series E led Europe in Q4’25, with notable rounds for Ben, Eir Forsakring, and others, showing investor appetite for both growth and early-stage opportunities.",
               "data": [
                 {
                   "rank": 1,
@@ -15970,6 +16061,7 @@
               "chart_title": "Annual exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "Europe saw 24 M&A exits in 2025, with no IPOs or SPACs. The exit environment remains active for strategic buyers.",
               "data": [
                 {
                   "year": 2021,
@@ -16039,6 +16131,7 @@
               "chart_title": "Quarterly exits",
               "chart_type": "stacked_bar_chart",
               "suggested_chart_type": "stacked_bar_chart",
+                "analyst_note": "Q1’25 saw 6 M&A exits in Europe, with earlier quarters showing a steady pace of activity. Strategic exits remain the primary path for European insurtechs.",
               "data": [
                 {
                   "period": "2021_q1",
@@ -16199,6 +16292,7 @@
               "chart_title": "Europe: Top investors by company count in Q4’25",
               "chart_type": "ranking_table",
               "suggested_chart_type": "ranking_table",
+                "analyst_note": "Bpifrance led Europe in Q4’25 by company count, with Atomico, BOOOM, and Portfolio Ventures also active, reflecting a diverse investor landscape.",
               "data": [
                 {
                   "rank": 1,
@@ -18512,6 +18606,8 @@
           "chart_title": "Annual equity funding and deal count",
           "chart_type": "dual_axis_composed_chart",
           "suggested_chart_type": "dual_axis_composed_chart",
+          "analyst_note": "After three years of decline, insurtech funding rebounded to $5.3B in 2025, even as deal count dropped to 405. This divergence points to a market where capital is increasingly concentrated in fewer, more mature companies. The environment rewards scale and proven business models, while early-stage ventures face a tougher path. Those able to demonstrate resilience and clear value are best positioned to capture the available capital, but the shrinking deal count also hints at a more selective, less forgiving market overall."
+           ,
           "data": [
             {
               "year": 2016,
@@ -18599,6 +18695,8 @@
           "chart_title": "The number of investors that made 4+ equity insurtech investments in a given year",
           "chart_type": "bar_chart",
           "suggested_chart_type": "bar_chart",
+          "analyst_note": "Only 15 investors made 4 or more insurtech investments in 2025, a dramatic drop from the 86 seen at the 2021 peak. This contraction signals a flight of capital and a more competitive landscape for startups seeking funding. The bar for repeat investment is higher than ever, and those who stand out do so through clear differentiation and commercial traction. At the same time, a smaller investor pool may mean fewer exit opportunities and a need for creative partnership strategies."
+           ,
           "data": [
             {
               "year": 2016,
@@ -18707,7 +18805,9 @@
           "chart_title": "Distribution of Commercial Maturity for 2025 equity deals across insurtech and venture",
           "chart_type": "100_percent_stacked_bar_chart",
           "suggested_chart_type": "100_percent_stacked_bar_chart",
-          "data": [
+          "analyst_note": "In 2025, 70% of insurtech deals targeted companies in the 'deploying' or 'scaling' stages, compared to just 48% in the broader venture market. Investors are clearly prioritizing proven traction and market fit, while appetite for early-stage risk has diminished. The few emerging insurtechs that do attract capital are likely to be true outliers, but the dominant flow is toward those with established momentum."
+            ,
+            "data": [
             {
               "group": "insurtech",
               "emerging": 9,
@@ -18762,7 +18862,9 @@
           "chart_title": "Carriers and MGAs with at least 3 disclosed insurtech business relationships in 2025",
           "chart_type": "kpi_plus_relationship_table",
           "suggested_chart_type": "ranking_table",
-          "data": {
+          "analyst_note": "Sixteen business relationships were formed between leading carriers/MGAs and insurtech startups in 2025, with an average Mosaic Score of 662—placing these startups among the top 7% for company health. Notably, half of these relationships involved insurtechs that have since exited, highlighting partnerships as a powerful signal of both commercial viability and future liquidity. The landscape increasingly favors those able to secure strategic alliances with established industry players."
+            ,
+            "data": {
             "summary_kpis": [
               {
                 "label": "business relationships with insurtech startups",

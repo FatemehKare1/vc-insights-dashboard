@@ -10,7 +10,8 @@ import europeData from '../data/europe.json';
 import africaData from '../data/africa.json';
 import asiaData from '../data/asia.json';
 
-const OPENROUTER_API_KEY = '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';
+// Use environment variable for OpenRouter API key
+const OPENROUTER_API_KEY = import.meta.env.VITE_OPENROUTER_API_KEY;
 const MODEL_NAME = 'google/gemini-2.0-flash-lite-001';
 
 // Helper to get data for active tab
@@ -82,18 +83,51 @@ const extractKeyInfo = (data: any, pageTitle?: string): any => {
 
 // Helper to create system prompt
 const createSystemPrompt = (activeTab: string, pageTitle?: string): string => {
-  const currentContext = pageTitle 
-    ? `The user is viewing: "${pageTitle}"`
+  // Always use VC Insights as app name if pageTitle is missing or is a generic/incorrect value
+  let safePageTitle = pageTitle;
+  if (!safePageTitle ||
+      safePageTitle.trim().toLowerCase() === 'my google ai studio app' ||
+      safePageTitle.trim() === '' ||
+      safePageTitle.trim().toLowerCase() === 'untitled') {
+    safePageTitle = 'VC Insights';
+  }
+  const currentContext = safePageTitle
+    ? `The user is viewing: "${safePageTitle}"`
     : `The user is currently viewing the '${activeTab}' tab`;
   
   // Get actual data for the current tab (extract key info to keep prompt manageable)
   const tabData = getTabData(activeTab);
   // If pageTitle is available, extract only that page's data
   const keyInfo = tabData ? extractKeyInfo(tabData, pageTitle) : null;
-  const dataContext = keyInfo 
-    ? `\n\nACTUAL PAGE DATA (use this to answer questions):\n${JSON.stringify(keyInfo, null, 2)}`
-    : '';
-    
+  let dataContext = '';
+  let noDataMessage = '';
+  let availableTypes = [];
+  if (keyInfo) {
+    dataContext = `\n\nACTUAL PAGE DATA (use this to answer questions):\n${JSON.stringify(keyInfo, null, 2)}`;
+    // Stricter check for key insights: must be non-empty array or non-empty string, and not just a label
+    let hasKeyInsights = false;
+    if (Array.isArray(keyInfo.key_insights) && keyInfo.key_insights.filter((k:any) => typeof k === 'string' ? k.trim() !== '' : !!k).length > 0) {
+      hasKeyInsights = true;
+    } else if (Array.isArray(keyInfo.key_insight) && keyInfo.key_insight.filter((k:any) => typeof k === 'string' ? k.trim() !== '' : !!k).length > 0) {
+      hasKeyInsights = true;
+    } else if (typeof keyInfo.key_insight === 'string' && keyInfo.key_insight.trim() !== '') {
+      hasKeyInsights = true;
+    }
+    // Check for executive summary
+    const hasExecutiveSummary = typeof keyInfo.executive_summary === 'string' && keyInfo.executive_summary.trim() !== '';
+    // Check for charts
+    const hasCharts = Array.isArray(keyInfo.charts) ? keyInfo.charts.length > 0 : (keyInfo.charts && typeof keyInfo.charts === 'object' && Object.keys(keyInfo.charts).length > 0);
+    if (hasKeyInsights) availableTypes.push('key insights');
+    if (hasExecutiveSummary) availableTypes.push('executive summary');
+    if (hasCharts) availableTypes.push('charts');
+    if (!hasKeyInsights && !hasExecutiveSummary && !hasCharts) {
+      noDataMessage = '\n\nNOTE: There are no key insights, executive summary, or charts available in this section. Politely inform the user that no data is available for this section.';
+    }
+  }
+  let availableTypesMsg = '';
+  if (availableTypes.length > 0) {
+    availableTypesMsg = `\n\nBased on the available data in this section, I can provide information on the following: ${availableTypes.join(', ')}.`;
+  }
   return `You are a helpful, context-aware assistant for a data dashboard application. 
 ${currentContext}
 
@@ -111,7 +145,7 @@ LANGUAGE RULE:
 CRITICAL RULES FOR SUMMARIZATION:
 1. ALWAYS be able to summarize. NEVER say "I cannot summarize" or "there is no summary section".
 2. When asked to summarize or about trends, ACTIVELY EXTRACT information from the ACTUAL PAGE DATA below:
-   - Look for "key_insights" arrays and list them
+   - Look for "key_insights" or "key_insight" arrays/fields and list them
    - Look for "key_trends" arrays and present them
    - Look for "executive_summary" fields and use them
    - Look for chart information
@@ -127,7 +161,7 @@ STRICT CONTEXT LOCKING:
 
 DASHBOARD STRUCTURE (Table of Contents):
 ${JSON.stringify(dashboardStructure, null, 2)}
-${dataContext}
+${dataContext}${availableTypesMsg}${noDataMessage}
 `;
 };
 

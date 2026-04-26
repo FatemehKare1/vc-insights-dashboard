@@ -176,6 +176,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "The leading banks in this ranking have attracted significant funding, with the top company securing $814M and several others raising over $100M each. This concentration of capital among a few players highlights the competitive advantage of established institutions in attracting large investments. The presence of multiple banks with substantial funding also suggests a healthy, yet concentrated, funding environment within the global banking sector."
         },
         {
           "panel_order": 2,
@@ -230,6 +231,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "The key statistics provide a snapshot of the sector's scale, including the number of companies, total funding, and other critical metrics. These figures help contextualize the competitive landscape and highlight the magnitude of capital flows within the banking industry. Such KPIs are essential for benchmarking performance and tracking sectoral trends over time."
         },
         {
           "panel_order": 3,
@@ -256,6 +258,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "This section defines the scope of the report, clarifying which types of banking institutions are included and excluded. By focusing on licensed banks and excluding NBFIs and investment banks, the analysis ensures comparability and relevance of the data. This clarity is essential for interpreting the findings and understanding the boundaries of the insights presented."
         },
         {
           "panel_order": 4,
@@ -304,6 +307,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "This chart highlights the countries with the highest number of banking companies, with the United States leading by a wide margin. The distribution underscores the dominance of certain markets in fostering banking institutions. Such geographic concentration may reflect regulatory environments, market maturity, or economic scale."
         }
       ],
       "notes": []
@@ -422,6 +426,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "The year-over-year funding data reveals a declining trend, with the 3-year CAGR at -63% and the 5-year CAGR at -31%. This sharp contraction indicates a challenging fundraising environment for banks, possibly due to macroeconomic headwinds or shifting investor priorities. Despite the overall decline, the sector still managed to raise $37.6B in total funding, underscoring its resilience and ongoing relevance."
         },
         {
           "panel_order": 3,
@@ -472,6 +477,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "The distribution of funding by country is highly skewed, with the United States accounting for 43.5% of total funding and China and Vietnam together making up an additional 30%. This geographic concentration suggests that a handful of markets dominate capital inflows, likely reflecting the maturity and scale of their banking sectors. Emerging markets, while present, capture a much smaller share, highlighting potential opportunities for future growth."
         },
         {
           "panel_order": 4,
@@ -532,6 +538,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "The top funding rounds in the last two years highlight a mix of private equity and late-stage venture rounds, with the largest single round reaching $160M. The diversity of round types (PE, Series D, Series C, Series E) reflects ongoing investor interest across different stages of bank growth. These large rounds signal confidence in select institutions and provide capital for expansion and innovation."
         },
         {
           "panel_order": 5,
@@ -552,6 +559,7 @@
             },
             {
               "stage": "Seed Stage",
+          
               "investor_name": "Nubank",
               "portfolio_count": 2
             },
@@ -597,6 +605,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "This table showcases the most active investors across seed, early, and late stages, with some investors participating in multiple rounds. The presence of both global venture firms and specialized banking investors indicates a broad spectrum of interest in the sector. Portfolio counts reflect not only activity but also the strategic focus of these investors on banking innovation."
         },
         {
           "panel_order": 6,
@@ -652,6 +661,7 @@
           "estimated": false,
           "dashboard_tab": "overview",
           "dashboard_subtab": "summary"
+          ,"analyst_note": "The top exits include both major acquisitions and IPOs, with values ranging from $17.5B to over $27T. These high-value exits demonstrate the potential for significant returns in the banking sector, especially for institutions that achieve scale or strategic importance. The mix of exit types reflects diverse pathways to liquidity for investors and founders."
         }
       ],
       "notes": []
@@ -691,7 +701,8 @@
           "geo_scope": "global",
           "estimated": false,
           "dashboard_tab": "funding",
-          "dashboard_subtab": "market_map"
+          "dashboard_subtab": "market_map",
+          "analyst_note": "This chart highlights the top business models funded in the last year. Commercial banks dominate, reflecting investor confidence in traditional banking models, while microfinance banks show ongoing interest in financial inclusion and emerging markets."
         },
         {
           "panel_order": 2,
@@ -733,7 +744,7 @@
           "estimated": false,
           "dashboard_tab": "funding",
           "dashboard_subtab": "market_map"
-        }
+          }
       ],
       "notes": [
         "Visible page title suggests a possible legacy or template carryover; preserved exactly as shown."
@@ -831,6 +842,7 @@
           "estimated": false,
           "dashboard_tab": "funding",
           "dashboard_subtab": "funding_funnel"
+          ,"analyst_note": "The funding funnel table provides a detailed view of company progression through funding stages. The average years from first funding increases at later stages, indicating longer maturation periods for banks as they scale. The percentage of companies advancing at each stage underscores the competitive nature of securing follow-on investments."
         }
       ],
       "notes": []
@@ -1125,6 +1137,7 @@
               "rank": 3,
               "city": "New York City",
               "funding_usd_billions": 2.0
+          ,"analyst_note": "This ranking identifies the business models that have attracted the most funding in the past year. Commercial banks lead by a wide margin, indicating continued investor preference for established, scalable models. Microfinance banks also feature, reflecting ongoing interest in financial inclusion."
             },
             {
               "rank": 4,
@@ -1254,6 +1267,7 @@
           "estimated": true,
           "dashboard_tab": "funding",
           "dashboard_subtab": "yoy_stage_wise_funding"
+          ,"analyst_note": "Investment by stage shows that late-stage rounds (Series C+, PE, Pre-IPO) continue to attract the largest share of capital, while seed and early-stage funding remain comparatively modest. The estimated values for 2023 and 2025 YTD suggest a cautious approach by investors toward early-stage ventures. This pattern indicates a preference for established banks with proven business models, as risk appetite appears subdued in the current climate."
         },
         {
           "panel_order": 2,
@@ -1522,6 +1536,7 @@
           "estimated": false,
           "dashboard_tab": "funding",
           "dashboard_subtab": "new_entrants_to_funded_club"
+          ,"analyst_note": "The number of cumulative funded companies has steadily increased from 2,077 to 2,492 over the observed period. This growth reflects ongoing innovation and new market entrants, even as overall funding levels have declined. The consistent addition of new funded banks signals sustained entrepreneurial activity and investor interest in fresh business models within the sector."
         },
         {
           "panel_order": 2,
@@ -1639,7 +1654,8 @@
           "geo_scope": "global",
           "estimated": false,
           "dashboard_tab": "funding",
-          "dashboard_subtab": "funding_by_team_background_college_wise"
+          "dashboard_subtab": "funding_by_team_background_college_wise",
+          "analyst_note": "The distribution of funding by team background reveals that alumni from top global universities such as Stanford and Wharton have raised the most capital. This suggests a strong correlation between elite educational backgrounds and fundraising success in the banking sector."
         },
         {
           "panel_order": 2,
@@ -1768,7 +1784,7 @@
           "estimated": true,
           "dashboard_tab": "funding",
           "dashboard_subtab": "funding_by_team_background_college_wise"
-        }
+          }
       ],
       "notes": []
     },
@@ -1817,7 +1833,8 @@
           "geo_scope": "global",
           "estimated": false,
           "dashboard_tab": "funding",
-          "dashboard_subtab": "funding_by_team_background_company_wise"
+          "dashboard_subtab": "funding_by_team_background_company_wise",
+          "analyst_note": "This chart shows that founders with backgrounds in major financial and tech firms like Morgan Stanley and Google have been able to attract significant funding. Such experience appears to be a valuable asset for raising capital in the banking industry."
         },
         {
           "panel_order": 2,
@@ -1865,7 +1882,7 @@
           "estimated": true,
           "dashboard_tab": "funding",
           "dashboard_subtab": "funding_by_team_background_company_wise"
-        }
+          }
       ],
       "notes": []
     },
@@ -1952,7 +1969,8 @@
           "geo_scope": "global",
           "estimated": false,
           "dashboard_tab": "investors",
-          "dashboard_subtab": "yoy_active_investors"
+          "dashboard_subtab": "yoy_active_investors",
+          "analyst_note": "The year-over-year trend in unique institutional investors shows fluctuating participation, with a notable decline in recent years. This may reflect increased caution or shifting priorities among investors in the banking sector."
         },
         {
           "panel_order": 2,
@@ -2027,7 +2045,7 @@
           "estimated": false,
           "dashboard_tab": "investors",
           "dashboard_subtab": "yoy_active_investors"
-        }
+          }
       ],
       "notes": []
     },
@@ -2139,6 +2157,8 @@
           "estimated": false,
           "dashboard_tab": "investors",
           "dashboard_subtab": "most_active_investors_vc_seed"
+        ,
+        "analyst_note": "The most active VC investors at the seed stage in banks are a mix of regional and international players, with a focus on early bets in emerging markets. The presence of investors from Singapore, Kenya, and the US highlights the global nature of seed funding in banking. Notably, several investors have a relatively small number of investments in the feed, suggesting a broad but shallow engagement at this stage."
         }
       ],
       "notes": []
@@ -2251,6 +2271,8 @@
           "estimated": false,
           "dashboard_tab": "investors",
           "dashboard_subtab": "most_active_investors_vc_early"
+        ,
+        "analyst_note": "Early stage VC activity in banks is dominated by US and Indian investors, with a few European and Asian firms also active. The high number of investments by groups like Endicott and TPG reflects strong institutional interest in scaling banks during their growth phases. The diversity of notable investments indicates a willingness to back banks across different geographies and business models."
         }
       ],
       "notes": []
@@ -2341,6 +2363,8 @@
           "estimated": false,
           "dashboard_tab": "investors",
           "dashboard_subtab": "most_active_investors_vc_late"
+        ,
+        "analyst_note": "Late stage VC investment in banks is more concentrated, with fewer investors making larger, more strategic bets. Chinese and Vietnamese investors are prominent, reflecting the scale and maturity of banking sectors in these countries. The relatively low number of investments per investor suggests a selective approach, focusing on established banks with proven track records."
         }
       ],
       "notes": []
@@ -2453,6 +2477,8 @@
           "estimated": false,
           "dashboard_tab": "investors",
           "dashboard_subtab": "most_active_investors_pe"
+        ,
+        "analyst_note": "PE investors in banks tend to focus on single, high-value deals, often in their home markets. The list is geographically diverse, with South Korea, India, the US, and China all represented. The presence of repeat investments in the same bank (e.g., Kbank) highlights the importance of follow-on capital and long-term relationships in the PE segment."
         }
       ],
       "notes": []
@@ -2565,6 +2591,8 @@
           "estimated": false,
           "dashboard_tab": "investors",
           "dashboard_subtab": "most_active_investors_accelerators_incubators"
+        ,
+        "analyst_note": "Accelerators and incubators play a key role in supporting early-stage banks, especially in markets like the US, Canada, and China. The high number of investments by organizations such as Techstars and MassChallenge demonstrates the value of ecosystem support in fostering innovation and growth in the banking sector."
         }
       ],
       "notes": []
@@ -4257,6 +4285,8 @@
           "estimated": false,
           "dashboard_tab": "business_models",
           "dashboard_subtab": "top_funded_business_models"
+        ,
+        "analyst_note": "Commercial banks continue to dominate funding, reflecting their central role in the financial system and investor preference for scale and stability. Microfinance banks, while attracting less capital, remain important for financial inclusion and serve niche markets that are often underserved by traditional banks."
         }
       ],
       "notes": []
