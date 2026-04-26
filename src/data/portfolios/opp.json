@@ -1,0 +1,343 @@
+[
+  {
+    "data": "opp.mx",
+    "section": "company_name"
+  },
+  {
+    "data": {
+      "city": "Not found",
+      "name": "Not found",
+      "country": "Not found",
+      "founded_year": "Not found"
+    },
+    "section": "company_basic_details"
+  },
+  {
+    "data": {
+      "Team Members": {
+        "value": "2",
+        "details": "Catherine Baltus & more"
+      },
+      "Portfolio IPOs": {
+        "value": "2",
+        "details": "ING & more"
+      },
+      "Portfolio Count": {
+        "value": "11",
+        "details": "ING & more"
+      },
+      "Portfolio Unicorns": {
+        "value": "0",
+        "details": ""
+      },
+      "Top Rounds of Entry": {
+        "value": "-",
+        "details": ""
+      },
+      "Portfolio Soonicorns": {
+        "value": "0",
+        "details": ""
+      },
+      "Portfolio Acquisitions": {
+        "value": "3",
+        "details": "VOO & more"
+      },
+      "Deals in last 12 months": {
+        "value": "0",
+        "details": ""
+      },
+      "Top Sectors in Portfolio": {
+        "value": "Enterprise Applications",
+        "details": "and 8 more"
+      },
+      "Top Locations in Portfolio": {
+        "value": "Belgium",
+        "details": "and 3 more"
+      }
+    },
+    "section": "key_metrics"
+  },
+  {
+    "data": {
+      "sectors": [],
+      "description": null,
+      "subsidiaries": [],
+      "company_details": {
+        "social": [
+          "https://linkedin.com/company/%C3%B8pp-startup-studio",
+          "https://facebook.com/weareopp"
+        ],
+        "website": "http://opp.mx/",
+        "key_people": [],
+        "first_covered_on": null
+      },
+      "mobile_applications": [],
+      "associated_legal_entities": [
+        {
+          "cin": "P",
+          "address": "P",
+          "location": "Belgium",
+          "latest_financials": null,
+          "legal_entity_name": "\u00d8",
+          "associated_company": "\u00d8PP",
+          "incorporation_date": "Oct 13, 2016"
+        }
+      ]
+    },
+    "section": "about"
+  },
+  {
+    "data": [
+      {
+        "rank": 1,
+        "stage": "Public",
+        "location": "Amsterdam",
+        "app_rating": "4.35",
+        "company_name": "ING",
+        "founded_year": 1991,
+        "tracxn_score": 74,
+        "latest_revenue": "-",
+        "mobile_reviews": "1.3M",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "62M",
+        "investment_status": "Active",
+        "news_articles_growth": "500 (15.0%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "69.7K",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "1.05K (2%)",
+        "news_articles_all_time": "4K",
+        "marquee_customer_mentions": "98"
+      },
+      {
+        "rank": 2,
+        "stage": "Public",
+        "location": "France",
+        "app_rating": "4.48",
+        "company_name": "Ubisoft",
+        "founded_year": 1986,
+        "tracxn_score": 71,
+        "latest_revenue": "-",
+        "mobile_reviews": "13M",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "1260M",
+        "investment_status": "Active",
+        "news_articles_growth": "200 (12.9%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "-",
+        "mobile_reviews_growth": "5K",
+        "latest_employee_growth": "-",
+        "news_articles_all_time": "2K",
+        "marquee_customer_mentions": "40"
+      },
+      {
+        "rank": 3,
+        "stage": "Funding Raised",
+        "location": "Paris",
+        "app_rating": "3.10",
+        "company_name": "Macif",
+        "founded_year": 1960,
+        "tracxn_score": 68,
+        "latest_revenue": "-",
+        "mobile_reviews": "8K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "3.1M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (6.7%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "8.08K",
+        "mobile_reviews_growth": "700 (10%)",
+        "latest_employee_growth": "3.05K (61%)",
+        "news_articles_all_time": "100",
+        "marquee_customer_mentions": "7"
+      },
+      {
+        "rank": 4,
+        "stage": "Acquired",
+        "location": "Brussels",
+        "app_rating": "3.00",
+        "company_name": "VOO",
+        "founded_year": 2006,
+        "tracxn_score": 61,
+        "latest_revenue": "$601M",
+        "mobile_reviews": "9K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "400K",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (3.0%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "699",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-265 (-27%)",
+        "news_articles_all_time": "200",
+        "marquee_customer_mentions": "5"
+      },
+      {
+        "rank": 5,
+        "stage": "Acquired",
+        "location": "Liege",
+        "app_rating": "",
+        "company_name": "Lampiris",
+        "founded_year": 2003,
+        "tracxn_score": 41,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "0",
+        "total_equity_funding": "-",
+        "latest_employee_count": "173",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-5 (-3%)",
+        "news_articles_all_time": "100",
+        "marquee_customer_mentions": "-"
+      },
+      {
+        "rank": 6,
+        "stage": "Acquired",
+        "location": "Brussels",
+        "app_rating": "0",
+        "company_name": "Nagelmackers",
+        "founded_year": 1747,
+        "tracxn_score": 24,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "75K",
+        "investment_status": "Active",
+        "news_articles_growth": "0",
+        "total_equity_funding": "-",
+        "latest_employee_count": "-",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-",
+        "news_articles_all_time": "100",
+        "marquee_customer_mentions": "-"
+      },
+      {
+        "rank": 7,
+        "stage": "Funding Raised",
+        "location": "Liege",
+        "app_rating": "0",
+        "company_name": "HUNTERZ",
+        "founded_year": 2016,
+        "tracxn_score": 23,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "9K",
+        "investment_status": "Active",
+        "news_articles_growth": "-",
+        "total_equity_funding": "-",
+        "latest_employee_count": "-",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-",
+        "news_articles_all_time": "-",
+        "marquee_customer_mentions": "-"
+      },
+      {
+        "rank": 8,
+        "stage": "Funding Raised",
+        "location": "Luxembourg",
+        "app_rating": "",
+        "company_name": "Delhaize",
+        "founded_year": 1930,
+        "tracxn_score": 22,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "0",
+        "total_equity_funding": "-",
+        "latest_employee_count": "-",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-",
+        "news_articles_all_time": "100",
+        "marquee_customer_mentions": "3"
+      },
+      {
+        "rank": 9,
+        "stage": "Funding Raised",
+        "location": "Lyon",
+        "app_rating": "",
+        "company_name": "Lavorel Hotels",
+        "founded_year": 2015,
+        "tracxn_score": 20,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "0",
+        "total_equity_funding": "-",
+        "latest_employee_count": "91",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-",
+        "news_articles_all_time": "100",
+        "marquee_customer_mentions": "-"
+      },
+      {
+        "rank": 10,
+        "stage": "Funding Raised",
+        "location": "Liege",
+        "app_rating": "",
+        "company_name": "Business Royale",
+        "founded_year": 2018,
+        "tracxn_score": 20,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "-",
+        "total_equity_funding": "-",
+        "latest_employee_count": "32",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "4 (14%)",
+        "news_articles_all_time": "-",
+        "marquee_customer_mentions": "-"
+      },
+      {
+        "rank": 11,
+        "stage": "Funding Raised",
+        "location": "Brussels",
+        "app_rating": "",
+        "company_name": "Tapptic",
+        "founded_year": 2009,
+        "tracxn_score": 17,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "-",
+        "total_equity_funding": "-",
+        "latest_employee_count": "38",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "0",
+        "news_articles_all_time": "-",
+        "marquee_customer_mentions": "-"
+      }
+    ],
+    "section": "portfolio_leaderboard"
+  },
+  {
+    "data": [],
+    "section": "incubator_programs"
+  },
+  {
+    "data": [
+      {
+        "batch": "Unknown",
+        "program": "OPP Acceleration Program",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "-",
+        "notable_companies": "",
+        "num_incubated_cos": "-"
+      }
+    ],
+    "section": "incubator_batches"
+  }
+]

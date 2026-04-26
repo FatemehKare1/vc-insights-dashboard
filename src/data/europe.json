@@ -1,0 +1,988 @@
+{
+  "report_info": {
+    "title": "Venture Pulse Q4 2025: Europe Regional Analysis",
+    "region": "Europe",
+    "source_document": "Venture Pulse Q4 2025",
+    "processed_pages": "Pages 48-74"
+  },
+  "pages": [
+        {
+      "page_number": 48,
+      "page_headline": "In Q4'25, European VC-backed companies raised $21.1 billion across 1,652 deals",
+      "executive_summary": {
+        "title": "Europe Region Overview"
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 49,
+      "page_headline": "Diversity of sectors attracts attention as VC investment in Europe holds steady",
+      "executive_summary": {
+        "title": "Diversity of sectors attracts attention as VC investment in Europe holds steady",
+        "sections": [
+          {
+            "content": "Venture capital investment in Europe reached $85.3 billion across 8,626 deals for the year, representing the third-strongest annual total by investment value over the past decade. However, this strength in capital deployed contrasted sharply with deal activity, as annual deal volume fell to the second-lowest level seen in ten years. This divergence underscores a market increasingly defined by investor selectivity, with capital concentrated on fewer, larger transactions and a heightened emphasis on scale, profitability, and resilience."
+          },
+          {
+            "content": "Quarterly activity in Q4 reflected these dynamics. European VC investment totaled $20.7 billion across 1,651 deals, remaining solid by historical standards but notably below the record highs reached in Q3. Deal volume declined for the third consecutive quarter, reinforcing the trend of cautious capital deployment amid ongoing macroeconomic uncertainty, geopolitical tensions, and continued scrutiny of valuation and business fundamentals. Despite these headwinds, investors continued to support high-quality companies, particularly those with clear paths to profitability and defensible market positions."
+          },
+          {
+            "subtitle": "Diversity is a major asset for VC market in Europe",
+            "content": "Europe's venture capital market continues to benefit from its geographic and sectoral diversity, with investment activity well distributed across countries and industries. On a country basis, the UK led investment in Q4'25 with $6.8 billion deployed, followed by Germany ($2.4 billion), France ($2.3 billion), and Israel ($1.5 billion), underscoring the depth of the region's innovation ecosystem beyond any single market. This breadth was further reflected in Q4'25 megadeal activity, as a wide range of countries accounted for the largest transactions of the quarter. Six different jurisdictions represented the six largest VC deals, including the UK (Revolut, $3 billion), Finland (Oura, $907.7 million), France (Brevo, $578 million), the Netherlands (Picnic, $498.1 million), Germany (Tubulis, $360.9 million), and Greece (Spotawheel, $348 million). Sector diversity was equally pronounced, with $100 million-plus rounds spanning fintech, healthtech, defense tech, cleantech, and robotics. Across many of these deals, AI served as a foundational enabler, underpinning product innovation and scalability regardless of sector. Together, this geographic and thematic dispersion highlights the resilience and breadth of the European VC market, positioning it well for sustained investment activity despite ongoing macroeconomic uncertainty."
+          },
+          {
+            "subtitle": "European companies focused on AI application layer see increasing interest in Q4'25",
+            "content": "AI was a big ticket for VC investors in Europe in 2025. While LLMs and AI infrastructure attracted attention earlier in the year, Q4'25 saw VC investors increasingly focusing on application layer solutions. During the quarter, France-based AI-enabled digital marketing platform Brevo raised $578 million, Germany-based image and video generative AI firm Black Forest Labs raised $300 million and workflow automation company n8n raised $180 million, and UK-based text-to-video company Synthesia raised $200 million."
+          },
+          {
+            "subtitle": "VC investors continue to see opportunities in defense tech",
+            "content": "Global geopolitical tensions and conflicts kept defense tech high on the radar of VC investors throughout 2025, with investments in the space growing considerably year-over-year. While drones attracted a large share of capital during the year, Q4'25 saw VC investors interested in a broader array of defense tech capabilities, including dual-use capabilities, cybersecurity, and solutions focused on enhancing the defensibility of critical infrastructure. Regional governments and defense alliances are expected to spur investment in defense tech in 2026, with both the NATO Innovation Fund and European Defense Fund (EDF) actively supporting innovation. For 2025, the EU has committed $1.1 billion to the EDF."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 50,
+      "page_headline": "Diversity of sectors attracts attention as VC investment in Europe holds steady, cont'd.",
+      "executive_summary": {
+        "title": "Diversity of sectors attracts attention as VC investment in Europe holds steady, cont'd.",
+        "sections": [
+          {
+            "subtitle": "Oura raises largest healthtech funding round ever in the region as wearables continue to see traction",
+            "content": "Healthtech and biotech continued to attract robust interest from VC investors in Europe during 2025. In Q4'25, Finland-based health wearables company Oura raised a $907.7 million round in the region's largest raise by a healthtech ever. The quarter also saw Germany-based cancer treatment company Tubulis raise $360.9 million, Denmark-based Hemab raise $157 million, and Italy-based Aavantgarde raise $141 million."
+          },
+          {
+            "subtitle": "Germany seeing bigger deals led by consortiums",
+            "content": "VC investment in Germany rose quarter-over-quarter, led by a $360.9 million raise by biotech Tubulis. AI continued to attract significant interest in the country-evidenced by Black Forest Labs' $300 million Series B raise in Q4'25. Quantum computing, semiconductors, battery storage, and battery infrastructure also garnered interest from VC investors in Germany. In recent quarters, Germany has seen solid growth in consortium-led VC deals as VC funds worked together to support high potential companies-with many of these deals including at least one non-European investor. After an extended drought, Germany also saw fundraising activity start to pick up in Q4'25 as several of VC firms began to raise new funds."
+          },
+          {
+            "subtitle": "VC investment in Nordics sees nine-quarter high in Q4'25, including Finland's largest VC raise ever",
+            "content": "During Q4'25, venture capital investment in the Nordics built on the positive momentum established in Q3'25, rising to a nine-quarter high. The quarter was highlighted by a $907 million raise by health monitoring wearables company Oura, marking the largest VC funding round ever completed in Finland. The region also recorded several additional $100 million-plus financings, including rounds for Denmark-based fintech Flatpay ($168 million), biotech company Hemab ($157 million) and Sweden-based AI firms Lovable ($330 million) and Legora ($150 million). Across the region, VC investors concentrated capital on emerging category leaders spanning healthtech, fintech, and legaltech, with AI serving as a common enabling theme across many of the companies attracting funding. This pattern reflects continued investor conviction in scalable, technology-driven platforms with defensible market positions and clear long-term growth potential. Beyond these core sectors, defense tech, spacetech, and companies focused on dual-use technologies also attracted meaningful interest in the Nordics. In particular, firms applying AI to defense-related use cases gained traction, including NestAI, which raised $115 million in Q4'25 to support the development of AI-powered defense tech solutions and new space company Iceye ($232 million). Looking ahead, investor sentiment across the Nordics remains constructive. The strong finish to 2025 has reinforced expectations that VC investment momentum will carry into 2026, while improving market conditions and growing confidence in exit pathways are expected to support increased M&A activity as investors seek liquidity opportunities."
+          },
+          {
+            "subtitle": "Fintech attracts attention in UK in Q4'25, led by $3 billion raise by Revolut",
+            "content": "Following a 13 quarter high in Q3'25, venture capital investment in the UK moderated in Q4'25, even with a $3 billion funding round by Revolut contributing significantly to the quarter's total. The fintech sector continued to attract strong investor interest, with additional notable raises including $200 million for Moniepoint and $177 million for Zilch. AI also remained a key area of focus for VC investors during the quarter. Companies such as generative AI firm Synthesia and legal workflow platform Navys, secured meaningful funding rounds, underscoring sustained appetite for AI-driven innovation. Within the UK, universities continued to play a central role in nurturing the AI ecosystem, serving as important hubs for research, talent development, and the commercialization of next-generation AI solutions."
+          }
+        ]
+      },
+      "charts": {}
+    },
+
+    {
+      "page_number": 51,
+      "page_headline": "Diversity of sectors attracts attention as VC investment in Europe holds steady, cont'd.",
+      "executive_summary": {
+        "title": "Europe Region Insights & Trends",
+        "sections": [
+          {
+            "subtitle": "Despite a lower H2'25, Irish VC investment sentiment remains positive",
+            "content": "Venture capital investment in Ireland was somewhat subdued in Q4'25, although full-year activity in 2025 remained solid and exceeded the total recorded in 2024. Investor sentiment was resilient in the face of geopolitical challenges, with fintech and medtech attracting the greatest share of VC interest. While enthusiasm for AI continues to build in Ireland, investment in the sector has so far skewed towards smaller, more targeted rounds, primarily supporting niche applications and vertical-specific solutions rather than large-scale platforms. Looking ahead to 2026, Ireland appears well positioned for continued growth in VC investment as maturing companies begin to attract larger deal sizes. As confidence in the market strengthens, deal volume is also expected to improve alongside investment values."
+          },
+          {
+            "subtitle": "VC ecosystem in Austria healthy headed into 2026",
+            "content": "VC investors in Austria continued to be selective in Q4'25, continuing a trend seen throughout the year. VC activity remained stable, driven by a small number of high-quality transactions. Entering 2026, Austria's VC market is in a healthier position than seen in previous years; companies raising funds now have had to hone their efficiencies and prove their value-which has helped drive a maturation in the overall VC ecosystem. Within Austria, embedded AI solutions have started to gain traction, particularly in areas like industrial solutions and B2B solutions focused on driving measurable productivity."
+          },
+          {
+            "subtitle": "Trends to watch for in Q1'26",
+            "content": "Heading into Q1'26, investors in Europe are expected to remain focused on high-quality investments - putting more money into startups with proven fundamentals, clear unit economics, and realistic paths to scale. AI and defense tech are expected to be very hot sectors for investment in 2026, while fintech, healthtech, and cleantech will likely continue to attract interest. Quantum computing is also expected to see an increasing level of VC investment over the next year. The exit environment in Europe will be a key area to watch headed into 2026. Should the exit environment show noticeable improvement in Q1'26 and Q2'26, deal volume will likely also start to improve- although any improvement is expected to occur gradually over subsequent quarters."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 52,
+      "page_headline": "2025 finishes strong",
+      "charts": {
+        "venture_financing": {
+          "chart_title": "Venture financing in Europe 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Multi-Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count and stage counts are high-fidelity visual estimates based on the right Y-axis scale (0 to 5,000). Stage counts mathematically sum to the total deal count for each period.",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 12.3, "deal_count": 3200, "pre_seed_seed": 900, "early_vc": 1200, "later_vc": 1000, "venture_growth": 100 },
+            { "period": "2019_q2", "deal_value_billions": 12.2, "deal_count": 2800, "pre_seed_seed": 850, "early_vc": 1050, "later_vc": 800, "venture_growth": 100 },
+            { "period": "2019_q3", "deal_value_billions": 10.8, "deal_count": 2600, "pre_seed_seed": 800, "early_vc": 1000, "later_vc": 700, "venture_growth": 100 },
+            { "period": "2019_q4", "deal_value_billions": 11.6, "deal_count": 2900, "pre_seed_seed": 900, "early_vc": 1100, "later_vc": 800, "venture_growth": 100 },
+            { "period": "2020_q1", "deal_value_billions": 12.0, "deal_count": 3500, "pre_seed_seed": 1100, "early_vc": 1300, "later_vc": 1000, "venture_growth": 100 },
+            { "period": "2020_q2", "deal_value_billions": 11.8, "deal_count": 2700, "pre_seed_seed": 850, "early_vc": 950, "later_vc": 800, "venture_growth": 100 },
+            { "period": "2020_q3", "deal_value_billions": 17.4, "deal_count": 2700, "pre_seed_seed": 900, "early_vc": 950, "later_vc": 750, "venture_growth": 100 },
+            { "period": "2020_q4", "deal_value_billions": 18.4, "deal_count": 3500, "pre_seed_seed": 1250, "early_vc": 1250, "later_vc": 900, "venture_growth": 100 },
+            { "period": "2021_q1", "deal_value_billions": 27.0, "deal_count": 4400, "pre_seed_seed": 1550, "early_vc": 1450, "later_vc": 1250, "venture_growth": 150 },
+            { "period": "2021_q2", "deal_value_billions": 34.9, "deal_count": 3800, "pre_seed_seed": 1300, "early_vc": 1250, "later_vc": 1100, "venture_growth": 150 },
+            { "period": "2021_q3", "deal_value_billions": 30.1, "deal_count": 3400, "pre_seed_seed": 1150, "early_vc": 1150, "later_vc": 950, "venture_growth": 150 },
+            { "period": "2021_q4", "deal_value_billions": 31.3, "deal_count": 4000, "pre_seed_seed": 1450, "early_vc": 1400, "later_vc": 1000, "venture_growth": 150 },
+            { "period": "2022_q1", "deal_value_billions": 37.0, "deal_count": 4500, "pre_seed_seed": 1550, "early_vc": 1500, "later_vc": 1300, "venture_growth": 150 },
+            { "period": "2022_q2", "deal_value_billions": 30.8, "deal_count": 3700, "pre_seed_seed": 1250, "early_vc": 1250, "later_vc": 1050, "venture_growth": 150 },
+            { "period": "2022_q3", "deal_value_billions": 21.4, "deal_count": 3200, "pre_seed_seed": 1050, "early_vc": 1100, "later_vc": 950, "venture_growth": 100 },
+            { "period": "2022_q4", "deal_value_billions": 16.9, "deal_count": 3300, "pre_seed_seed": 1100, "early_vc": 1100, "later_vc": 1000, "venture_growth": 100 },
+            { "period": "2023_q1", "deal_value_billions": 15.1, "deal_count": 3800, "pre_seed_seed": 1350, "early_vc": 1200, "later_vc": 1150, "venture_growth": 100 },
+            { "period": "2023_q2", "deal_value_billions": 16.6, "deal_count": 2900, "pre_seed_seed": 950, "early_vc": 900, "later_vc": 950, "venture_growth": 100 },
+            { "period": "2023_q3", "deal_value_billions": 21.2, "deal_count": 2600, "pre_seed_seed": 850, "early_vc": 800, "later_vc": 850, "venture_growth": 100 },
+            { "period": "2023_q4", "deal_value_billions": 14.8, "deal_count": 2800, "pre_seed_seed": 900, "early_vc": 900, "later_vc": 900, "venture_growth": 100 },
+            { "period": "2024_q1", "deal_value_billions": 17.3, "deal_count": 3200, "pre_seed_seed": 950, "early_vc": 1100, "later_vc": 1050, "venture_growth": 100 },
+            { "period": "2024_q2", "deal_value_billions": 17.8, "deal_count": 2600, "pre_seed_seed": 750, "early_vc": 900, "later_vc": 850, "venture_growth": 100 },
+            { "period": "2024_q3", "deal_value_billions": 15.1, "deal_count": 2300, "pre_seed_seed": 700, "early_vc": 800, "later_vc": 700, "venture_growth": 100 },
+            { "period": "2024_q4", "deal_value_billions": 18.4, "deal_count": 2600, "pre_seed_seed": 750, "early_vc": 950, "later_vc": 800, "venture_growth": 100 },
+            { "period": "2025_q1", "deal_value_billions": 18.6, "deal_count": 2700, "pre_seed_seed": 800, "early_vc": 950, "later_vc": 850, "venture_growth": 100 },
+            { "period": "2025_q2", "deal_value_billions": 15.3, "deal_count": 2200, "pre_seed_seed": 600, "early_vc": 750, "later_vc": 750, "venture_growth": 100 },
+            { "period": "2025_q3", "deal_value_billions": 20.6, "deal_count": 2000, "pre_seed_seed": 500, "early_vc": 700, "later_vc": 700, "venture_growth": 100 },
+            { "period": "2025_q4", "deal_value_billions": 21.1, "deal_count": 1600, "pre_seed_seed": 400, "early_vc": 550, "later_vc": 550, "venture_growth": 100 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 53,
+      "page_headline": "Down rounds stay subdued as deal sizes climb",
+      "charts": {
+        "median_deal_size_by_stage": {
+          "chart_title": "Median deal size ($M) by stage in Europe 2019-2025*",
+          "suggested_chart_type": "Multi-Line Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Values for 2019-2024 are high-fidelity visual estimates based on the $12M Y-axis scale. 2025 values are exact.",
+          "data": [
+            { "year": "2019", "pre_seed_seed": 0.5, "early_vc": 0.8, "later_vc": 1.9, "venture_growth": 4.5 },
+            { "year": "2020", "pre_seed_seed": 0.6, "early_vc": 0.9, "later_vc": 2.1, "venture_growth": 6.5 },
+            { "year": "2021", "pre_seed_seed": 0.9, "early_vc": 1.2, "later_vc": 2.9, "venture_growth": 8.8 },
+            { "year": "2022", "pre_seed_seed": 1.1, "early_vc": 1.2, "later_vc": 3.0, "venture_growth": 7.1 },
+            { "year": "2023", "pre_seed_seed": 1.1, "early_vc": 1.1, "later_vc": 2.8, "venture_growth": 6.0 },
+            { "year": "2024", "pre_seed_seed": 1.3, "early_vc": 1.4, "later_vc": 3.2, "venture_growth": 7.8 },
+            { "year": "2025", "pre_seed_seed": 1.8, "early_vc": 1.8, "later_vc": 4.6, "venture_growth": 10.9 }
+          ]
+        },
+        "up_flat_down_rounds": {
+          "chart_title": "Up, flat or down rounds in Europe 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "down": 18.0, "flat": 6.0, "up": 76.0 },
+            { "year": "2020", "down": 20.0, "flat": 5.0, "up": 75.0 },
+            { "year": "2021", "down": 16.0, "flat": 4.0, "up": 80.0 },
+            { "year": "2022", "down": 13.5, "flat": 3.0, "up": 83.5 },
+            { "year": "2023", "down": 18.0, "flat": 4.0, "up": 78.0 },
+            { "year": "2024", "down": 16.0, "flat": 3.0, "up": 81.0 },
+            { "year": "2025", "down": 13.0, "flat": 3.0, "up": 84.0 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 54,
+      "page_headline": "Across every series, figures remain healthy",
+      "charts": {
+        "median_deal_size_by_series": {
+          "chart_title": "Median deal size ($M) by series in Europe 2019-2025*",
+          "suggested_chart_type": "Multi-Line Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Values for 2019-2024 are high-fidelity visual estimates based on the $140M Y-axis scale. 2025 values are exact.",
+          "data": [
+            { "year": "2019", "pre_seed": 0.5, "seed": 1.0, "angel": 0.5, "series_a": 4.5, "series_b": 17.0, "series_c": 25.0, "series_d_plus": 44.0 },
+            { "year": "2020", "pre_seed": 0.5, "seed": 1.1, "angel": 0.5, "series_a": 5.0, "series_b": 15.0, "series_c": 32.0, "series_d_plus": 52.0 },
+            { "year": "2021", "pre_seed": 0.6, "seed": 1.2, "angel": 0.6, "series_a": 6.8, "series_b": 26.0, "series_c": 64.0, "series_d_plus": 122.0 },
+            { "year": "2022", "pre_seed": 0.6, "seed": 1.4, "angel": 0.6, "series_a": 8.0, "series_b": 24.0, "series_c": 53.0, "series_d_plus": 106.0 },
+            { "year": "2023", "pre_seed": 0.6, "seed": 1.3, "angel": 0.5, "series_a": 8.5, "series_b": 21.0, "series_c": 40.0, "series_d_plus": 54.0 },
+            { "year": "2024", "pre_seed": 0.7, "seed": 1.5, "angel": 0.5, "series_a": 9.5, "series_b": 26.0, "series_c": 46.0, "series_d_plus": 65.0 },
+            { "year": "2025", "pre_seed": 0.8, "seed": 2.4, "angel": 0.6, "series_a": 12.4, "series_b": 32.6, "series_c": 55.6, "series_d_plus": 86.0 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 55,
+      "page_headline": "Latest-stage valuations surge to new highs",
+      "charts": {
+        "median_pre_money_valuation_by_series": {
+          "chart_title": "Median pre-money valuation ($M) by series in Europe 2019-2025*",
+          "suggested_chart_type": "Multi-Line Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026. Note: The 2023-2-24, 2025 Series D+ figure is based on population sizes of n<30.",
+          "note": "Values for 2019-2024 are high-fidelity visual estimates based on the $1,400M Y-axis scale. 2025 values are exact.",
+          "data": [
+            { "year": "2019", "pre_seed": 1.0, "seed": 3.0, "angel": 2.0, "series_a": 10.0, "series_b": 40.0, "series_c": 70.0, "series_d_plus": 180.0 },
+            { "year": "2020", "pre_seed": 1.0, "seed": 3.5, "angel": 2.0, "series_a": 12.0, "series_b": 40.0, "series_c": 100.0, "series_d_plus": 310.0 },
+            { "year": "2021", "pre_seed": 1.5, "seed": 4.5, "angel": 3.0, "series_a": 20.0, "series_b": 70.0, "series_c": 215.0, "series_d_plus": 870.0 },
+            { "year": "2022", "pre_seed": 2.0, "seed": 5.0, "angel": 3.0, "series_a": 22.0, "series_b": 65.0, "series_c": 230.0, "series_d_plus": 670.0 },
+            { "year": "2023", "pre_seed": 1.8, "seed": 4.5, "angel": 2.5, "series_a": 20.0, "series_b": 45.0, "series_c": 155.0, "series_d_plus": 170.0 },
+            { "year": "2024", "pre_seed": 2.0, "seed": 5.0, "angel": 3.0, "series_a": 24.0, "series_b": 65.0, "series_c": 140.0, "series_d_plus": 370.0 },
+            { "year": "2025", "pre_seed": 2.8, "seed": 6.2, "angel": 3.7, "series_a": 30.6, "series_b": 94.4, "series_c": 210.0, "series_d_plus": 1315.0 }
+          ]
+        }
+      }
+    },
+        {
+      "page_number": 56,
+      "page_headline": "Variability continues across VC invested proportions",
+      "charts": {
+        "deal_share_by_series_count": {
+          "chart_title": "Deal share by series in Europe 2019-2025*, number of closed deals",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "pre_seed": 13, "seed": 43, "angel": 20, "series_a": 16, "series_b": 5, "series_c": 2, "series_d_plus": 1 },
+            { "year": "2020", "pre_seed": 13, "seed": 44, "angel": 17, "series_a": 17, "series_b": 5, "series_c": 3, "series_d_plus": 1 },
+            { "year": "2021", "pre_seed": 14, "seed": 46, "angel": 13, "series_a": 17, "series_b": 6, "series_c": 2, "series_d_plus": 2 },
+            { "year": "2022", "pre_seed": 14, "seed": 47, "angel": 12, "series_a": 17, "series_b": 7, "series_c": 2, "series_d_plus": 1 },
+            { "year": "2023", "pre_seed": 13, "seed": 51, "angel": 12, "series_a": 16, "series_b": 5, "series_c": 2, "series_d_plus": 1 },
+            { "year": "2024", "pre_seed": 14, "seed": 48, "angel": 11, "series_a": 18, "series_b": 5, "series_c": 3, "series_d_plus": 1 },
+            { "year": "2025", "pre_seed": 16, "seed": 45, "angel": 10, "series_a": 19, "series_b": 6, "series_c": 3, "series_d_plus": 1 }
+          ]
+        },
+        "deal_share_by_series_value": {
+          "chart_title": "Deal share by series in Europe 2019-2025*, VC invested ($B)",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "pre_seed": 2, "seed": 11, "angel": 3, "series_a": 26, "series_b": 24, "series_c": 17, "series_d_plus": 17 },
+            { "year": "2020", "pre_seed": 1, "seed": 13, "angel": 2, "series_a": 25, "series_b": 22, "series_c": 18, "series_d_plus": 19 },
+            { "year": "2021", "pre_seed": 1, "seed": 8, "angel": 1, "series_a": 19, "series_b": 22, "series_c": 20, "series_d_plus": 29 },
+            { "year": "2022", "pre_seed": 1, "seed": 11, "angel": 1, "series_a": 24, "series_b": 22, "series_c": 18, "series_d_plus": 23 },
+            { "year": "2023", "pre_seed": 1, "seed": 17, "angel": 1, "series_a": 30, "series_b": 26, "series_c": 16, "series_d_plus": 9 },
+            { "year": "2024", "pre_seed": 1, "seed": 11, "angel": 1, "series_a": 22, "series_b": 32, "series_c": 25, "series_d_plus": 8 },
+            { "year": "2025", "pre_seed": 1, "seed": 13, "angel": 1, "series_a": 28, "series_b": 29, "series_c": 14, "series_d_plus": 14 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 57,
+      "page_headline": "Software continues an overwhelming predominance",
+      "charts": {
+        "financings_by_sector_count": {
+          "chart_title": "Venture financings by sector in Europe 2019-2025*, number of closed deals",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "energy": 1, "hc_devices_and_supplies": 6, "hc_services_and_systems": 3, "it_hardware": 7, "media": 3, "other": 6, "pharma_and_biotech": 4, "software": 36, "consumer_goods_and_services": 16, "commercial_products_and_services": 16, "transportation": 2 },
+            { "year": "2020", "energy": 1, "hc_devices_and_supplies": 6, "hc_services_and_systems": 5, "it_hardware": 6, "media": 3, "other": 6, "pharma_and_biotech": 5, "software": 36, "consumer_goods_and_services": 15, "commercial_products_and_services": 15, "transportation": 2 },
+            { "year": "2021", "energy": 1, "hc_devices_and_supplies": 5, "hc_services_and_systems": 6, "it_hardware": 5, "media": 2, "other": 7, "pharma_and_biotech": 4, "software": 38, "consumer_goods_and_services": 14, "commercial_products_and_services": 16, "transportation": 2 },
+            { "year": "2022", "energy": 2, "hc_devices_and_supplies": 5, "hc_services_and_systems": 5, "it_hardware": 4, "media": 3, "other": 7, "pharma_and_biotech": 4, "software": 38, "consumer_goods_and_services": 14, "commercial_products_and_services": 16, "transportation": 2 },
+            { "year": "2023", "energy": 2, "hc_devices_and_supplies": 6, "hc_services_and_systems": 5, "it_hardware": 5, "media": 2, "other": 7, "pharma_and_biotech": 5, "software": 35, "consumer_goods_and_services": 13, "commercial_products_and_services": 18, "transportation": 2 },
+            { "year": "2024", "energy": 2, "hc_devices_and_supplies": 6, "hc_services_and_systems": 5, "it_hardware": 5, "media": 2, "other": 7, "pharma_and_biotech": 5, "software": 36, "consumer_goods_and_services": 12, "commercial_products_and_services": 18, "transportation": 2 },
+            { "year": "2025", "energy": 3, "hc_devices_and_supplies": 5, "hc_services_and_systems": 6, "it_hardware": 5, "media": 2, "other": 6, "pharma_and_biotech": 5, "software": 38, "consumer_goods_and_services": 10, "commercial_products_and_services": 18, "transportation": 2 }
+          ]
+        },
+        "financings_by_sector_value": {
+          "chart_title": "Venture financings by sector in Europe 2019-2025*, VC invested ($B)",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "energy": 1, "hc_devices_and_supplies": 5, "hc_services_and_systems": 5, "it_hardware": 3, "media": 3, "other": 12, "pharma_and_biotech": 11, "software": 32, "consumer_goods_and_services": 11, "commercial_products_and_services": 12, "transportation": 5 },
+            { "year": "2020", "energy": 1, "hc_devices_and_supplies": 4, "hc_services_and_systems": 5, "it_hardware": 6, "media": 1, "other": 12, "pharma_and_biotech": 11, "software": 28, "consumer_goods_and_services": 12, "commercial_products_and_services": 16, "transportation": 4 },
+            { "year": "2021", "energy": 2, "hc_devices_and_supplies": 4, "hc_services_and_systems": 3, "it_hardware": 3, "media": 2, "other": 15, "pharma_and_biotech": 9, "software": 30, "consumer_goods_and_services": 14, "commercial_products_and_services": 14, "transportation": 4 },
+            { "year": "2022", "energy": 3, "hc_devices_and_supplies": 4, "hc_services_and_systems": 3, "it_hardware": 5, "media": 2, "other": 16, "pharma_and_biotech": 8, "software": 34, "consumer_goods_and_services": 9, "commercial_products_and_services": 14, "transportation": 2 },
+            { "year": "2023", "energy": 5, "hc_devices_and_supplies": 3, "hc_services_and_systems": 4, "it_hardware": 3, "media": 1, "other": 9, "pharma_and_biotech": 10, "software": 34, "consumer_goods_and_services": 9, "commercial_products_and_services": 15, "transportation": 7 },
+            { "year": "2024", "energy": 5, "hc_devices_and_supplies": 3, "hc_services_and_systems": 4, "it_hardware": 3, "media": 1, "other": 9, "pharma_and_biotech": 10, "software": 34, "consumer_goods_and_services": 14, "commercial_products_and_services": 15, "transportation": 2 },
+            { "year": "2025", "energy": 5, "hc_devices_and_supplies": 3, "hc_services_and_systems": 3, "it_hardware": 4, "media": 1, "other": 10, "pharma_and_biotech": 8, "software": 46, "consumer_goods_and_services": 6, "commercial_products_and_services": 12, "transportation": 2 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 58,
+      "page_headline": "Strong VC invested tallies for first-time financings suggest focused optimism",
+      "charts": {
+        "corporate_vc_participation": {
+          "chart_title": "Corporate VC participation in venture deals in Europe 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 1,200).",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 4.6, "deal_count": 480 },
+            { "period": "2019_q2", "deal_value_billions": 5.4, "deal_count": 530 },
+            { "period": "2019_q3", "deal_value_billions": 4.5, "deal_count": 490 },
+            { "period": "2019_q4", "deal_value_billions": 3.8, "deal_count": 490 },
+            { "period": "2020_q1", "deal_value_billions": 4.3, "deal_count": 590 },
+            { "period": "2020_q2", "deal_value_billions": 5.9, "deal_count": 500 },
+            { "period": "2020_q3", "deal_value_billions": 8.2, "deal_count": 530 },
+            { "period": "2020_q4", "deal_value_billions": 8.0, "deal_count": 630 },
+            { "period": "2021_q1", "deal_value_billions": 11.4, "deal_count": 780 },
+            { "period": "2021_q2", "deal_value_billions": 17.0, "deal_count": 780 },
+            { "period": "2021_q3", "deal_value_billions": 13.6, "deal_count": 740 },
+            { "period": "2021_q4", "deal_value_billions": 13.8, "deal_count": 830 },
+            { "period": "2022_q1", "deal_value_billions": 16.6, "deal_count": 980 },
+            { "period": "2022_q2", "deal_value_billions": 13.8, "deal_count": 830 },
+            { "period": "2022_q3", "deal_value_billions": 9.7, "deal_count": 700 },
+            { "period": "2022_q4", "deal_value_billions": 6.4, "deal_count": 690 },
+            { "period": "2023_q1", "deal_value_billions": 7.2, "deal_count": 780 },
+            { "period": "2023_q2", "deal_value_billions": 7.0, "deal_count": 650 },
+            { "period": "2023_q3", "deal_value_billions": 13.1, "deal_count": 590 },
+            { "period": "2023_q4", "deal_value_billions": 6.7, "deal_count": 590 },
+            { "period": "2024_q1", "deal_value_billions": 7.8, "deal_count": 600 },
+            { "period": "2024_q2", "deal_value_billions": 14.8, "deal_count": 550 },
+            { "period": "2024_q3", "deal_value_billions": 7.0, "deal_count": 490 },
+            { "period": "2024_q4", "deal_value_billions": 13.4, "deal_count": 560 },
+            { "period": "2025_q1", "deal_value_billions": 10.0, "deal_count": 480 },
+            { "period": "2025_q2", "deal_value_billions": 6.6, "deal_count": 400 },
+            { "period": "2025_q3", "deal_value_billions": 10.1, "deal_count": 430 },
+            { "period": "2025_q4", "deal_value_billions": 9.9, "deal_count": 360 }
+          ]
+        },
+        "first_time_financings": {
+          "chart_title": "First-time venture financings of companies in Europe 2019-2025*",
+          "suggested_chart_type": "Composed Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 5,000).",
+          "data": [
+            { "year": "2019", "deal_value_billions": 4.5, "deal_count": 3050 },
+            { "year": "2020", "deal_value_billions": 5.5, "deal_count": 3300 },
+            { "year": "2021", "deal_value_billions": 10.3, "deal_count": 4600 },
+            { "year": "2022", "deal_value_billions": 7.7, "deal_count": 4200 },
+            { "year": "2023", "deal_value_billions": 7.7, "deal_count": 3300 },
+            { "year": "2024", "deal_value_billions": 7.1, "deal_count": 2800 },
+            { "year": "2025", "deal_value_billions": 7.2, "deal_count": 2400 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 59,
+      "page_headline": "Exits regain some ground",
+      "charts": {
+        "venture_backed_exit_activity": {
+          "chart_title": "Venture-backed exit activity in Europe 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Exit value ($B) values are exact. Exit count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 400).",
+          "data": [
+            { "period": "2019_q1", "exit_value_billions": 10.1, "exit_count": 240 },
+            { "period": "2019_q2", "exit_value_billions": 7.1, "exit_count": 180 },
+            { "period": "2019_q3", "exit_value_billions": 11.6, "exit_count": 190 },
+            { "period": "2019_q4", "exit_value_billions": 13.8, "exit_count": 200 },
+            { "period": "2020_q1", "exit_value_billions": 9.0, "exit_count": 230 },
+            { "period": "2020_q2", "exit_value_billions": 10.3, "exit_count": 175 },
+            { "period": "2020_q3", "exit_value_billions": 14.3, "exit_count": 185 },
+            { "period": "2020_q4", "exit_value_billions": 12.8, "exit_count": 240 },
+            { "period": "2021_q1", "exit_value_billions": 32.0, "exit_count": 365 },
+            { "period": "2021_q2", "exit_value_billions": 38.0, "exit_count": 330 },
+            { "period": "2021_q3", "exit_value_billions": 95.1, "exit_count": 360 },
+            { "period": "2021_q4", "exit_value_billions": 35.9, "exit_count": 350 },
+            { "period": "2022_q1", "exit_value_billions": 24.7, "exit_count": 345 },
+            { "period": "2022_q2", "exit_value_billions": 18.0, "exit_count": 335 },
+            { "period": "2022_q3", "exit_value_billions": 14.3, "exit_count": 285 },
+            { "period": "2022_q4", "exit_value_billions": 15.1, "exit_count": 260 },
+            { "period": "2023_q1", "exit_value_billions": 12.3, "exit_count": 310 },
+            { "period": "2023_q2", "exit_value_billions": 10.8, "exit_count": 250 },
+            { "period": "2023_q3", "exit_value_billions": 11.9, "exit_count": 255 },
+            { "period": "2023_q4", "exit_value_billions": 13.7, "exit_count": 235 },
+            { "period": "2024_q1", "exit_value_billions": 11.0, "exit_count": 260 },
+            { "period": "2024_q2", "exit_value_billions": 23.4, "exit_count": 235 },
+            { "period": "2024_q3", "exit_value_billions": 21.4, "exit_count": 260 },
+            { "period": "2024_q4", "exit_value_billions": 16.4, "exit_count": 275 },
+            { "period": "2025_q1", "exit_value_billions": 15.4, "exit_count": 265 },
+            { "period": "2025_q2", "exit_value_billions": 18.0, "exit_count": 260 },
+            { "period": "2025_q3", "exit_value_billions": 27.6, "exit_count": 250 },
+            { "period": "2025_q4", "exit_value_billions": 18.4, "exit_count": 215 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 60,
+      "page_headline": "Exit value surpasses 2024's level",
+      "charts": {
+        "exit_activity_by_type_count": {
+          "chart_title": "Venture-backed exit activity (#) by type in Europe 2019-2025*",
+          "suggested_chart_type": "Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the 1,600 Y-axis scale.",
+          "data": [
+            { "year": "2019", "acquisition": 610, "buyout": 140, "public_listing": 50 },
+            { "year": "2020", "acquisition": 590, "buyout": 160, "public_listing": 80 },
+            { "year": "2021", "acquisition": 940, "buyout": 260, "public_listing": 210 },
+            { "year": "2022", "acquisition": 860, "buyout": 290, "public_listing": 70 },
+            { "year": "2023", "acquisition": 780, "buyout": 230, "public_listing": 30 },
+            { "year": "2024", "acquisition": 760, "buyout": 230, "public_listing": 30 },
+            { "year": "2025", "acquisition": 700, "buyout": 270, "public_listing": 20 }
+          ]
+        },
+        "exit_activity_by_type_value": {
+          "chart_title": "Venture-backed exit activity ($B) by type in Europe 2019-2025*",
+          "suggested_chart_type": "Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the $250B Y-axis scale.",
+          "data": [
+            { "year": "2019", "acquisition": 25, "buyout": 10, "public_listing": 7 },
+            { "year": "2020", "acquisition": 28, "buyout": 10, "public_listing": 8 },
+            { "year": "2021", "acquisition": 56, "buyout": 20, "public_listing": 125 },
+            { "year": "2022", "acquisition": 46, "buyout": 18, "public_listing": 7 },
+            { "year": "2023", "acquisition": 32, "buyout": 15, "public_listing": 2 },
+            { "year": "2024", "acquisition": 40, "buyout": 16, "public_listing": 15 },
+            { "year": "2025", "acquisition": 35, "buyout": 24, "public_listing": 20 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 61,
+      "page_headline": "2025 records the most sluggish year in quite some time",
+      "charts": {
+        "european_venture_fundraising": {
+          "chart_title": "European venture fundraising 2019-2025*",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Capital raised ($B) values are exact. Fund count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 700).",
+          "data": [
+            { "year": "2019", "capital_raised_billions": 25.7, "fund_count": 330 },
+            { "year": "2020", "capital_raised_billions": 35.5, "fund_count": 390 },
+            { "year": "2021", "capital_raised_billions": 38.2, "fund_count": 450 },
+            { "year": "2022", "capital_raised_billions": 41.3, "fund_count": 580 },
+            { "year": "2023", "capital_raised_billions": 28.8, "fund_count": 420 },
+            { "year": "2024", "capital_raised_billions": 25.7, "fund_count": 240 },
+            { "year": "2025", "capital_raised_billions": 13.4, "fund_count": 140 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 62,
+      "page_headline": "Fundraising proportions hold steady, approximately",
+      "charts": {
+        "fundraising_by_size_count": {
+          "chart_title": "Venture fundraising (#) by size in Europe 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "1b_plus": 1, "500m_1b": 2, "250m_500m": 8, "100m_250m": 23, "50m_100m": 19, "under_50m": 47 },
+            { "year": "2020", "1b_plus": 1, "500m_1b": 3, "250m_500m": 5, "100m_250m": 27, "50m_100m": 21, "under_50m": 43 },
+            { "year": "2021", "1b_plus": 1, "500m_1b": 4, "250m_500m": 6, "100m_250m": 28, "50m_100m": 21, "under_50m": 40 },
+            { "year": "2022", "1b_plus": 1, "500m_1b": 1, "250m_500m": 12, "100m_250m": 22, "50m_100m": 19, "under_50m": 45 },
+            { "year": "2023", "1b_plus": 1, "500m_1b": 2, "250m_500m": 8, "100m_250m": 19, "50m_100m": 22, "under_50m": 48 },
+            { "year": "2024", "1b_plus": 1, "500m_1b": 4, "250m_500m": 8, "100m_250m": 27, "50m_100m": 21, "under_50m": 39 },
+            { "year": "2025", "1b_plus": 1, "500m_1b": 2, "250m_500m": 7, "100m_250m": 23, "50m_100m": 25, "under_50m": 42 }
+          ]
+        },
+        "first_time_vs_follow_on_count": {
+          "chart_title": "First-time vs. follow-on venture funds (#) in Europe 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "first_time": 36, "follow_on": 64 },
+            { "year": "2020", "first_time": 33, "follow_on": 67 },
+            { "year": "2021", "first_time": 37, "follow_on": 63 },
+            { "year": "2022", "first_time": 32, "follow_on": 68 },
+            { "year": "2023", "first_time": 30, "follow_on": 70 },
+            { "year": "2024", "first_time": 30, "follow_on": 70 },
+            { "year": "2025", "first_time": 27, "follow_on": 73 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 63,
+      "page_headline": "UK sees strongest second half in years",
+      "key_insight": {
+        "quote": "Interest in the AI space is growing, and it's only going to keep growing. We're seeing a lot of activity, from the universities, from corporates, from emerging startups looking at how they can shift the dial on the AI front. Heading into 2026, it'll likely continue to gain ground as investors of all kinds look for the best ways to put AI to work, particularly at an industry level. The big challenge could be on the talent side to ensure we have enough innovators to support the accelerating AI focus.",
+        "quote_author": "Nicole Lowe, UK Head of Emerging Giants, KPMG in the UK"
+      },
+      "charts": {
+        "venture_financing_uk": {
+          "chart_title": "Venture financing in the United Kingdom 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 1,400).",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 4.3, "deal_count": 840 },
+            { "period": "2019_q2", "deal_value_billions": 3.7, "deal_count": 880 },
+            { "period": "2019_q3", "deal_value_billions": 3.2, "deal_count": 780 },
+            { "period": "2019_q4", "deal_value_billions": 3.7, "deal_count": 860 },
+            { "period": "2020_q1", "deal_value_billions": 3.5, "deal_count": 950 },
+            { "period": "2020_q2", "deal_value_billions": 3.7, "deal_count": 810 },
+            { "period": "2020_q3", "deal_value_billions": 4.2, "deal_count": 805 },
+            { "period": "2020_q4", "deal_value_billions": 7.2, "deal_count": 910 },
+            { "period": "2021_q1", "deal_value_billions": 7.3, "deal_count": 1140 },
+            { "period": "2021_q2", "deal_value_billions": 8.7, "deal_count": 1060 },
+            { "period": "2021_q3", "deal_value_billions": 10.2, "deal_count": 990 },
+            { "period": "2021_q4", "deal_value_billions": 8.8, "deal_count": 1040 },
+            { "period": "2022_q1", "deal_value_billions": 10.1, "deal_count": 1210 },
+            { "period": "2022_q2", "deal_value_billions": 9.5, "deal_count": 1050 },
+            { "period": "2022_q3", "deal_value_billions": 4.7, "deal_count": 910 },
+            { "period": "2022_q4", "deal_value_billions": 5.3, "deal_count": 890 },
+            { "period": "2023_q1", "deal_value_billions": 4.0, "deal_count": 980 },
+            { "period": "2023_q2", "deal_value_billions": 4.4, "deal_count": 810 },
+            { "period": "2023_q3", "deal_value_billions": 5.9, "deal_count": 760 },
+            { "period": "2023_q4", "deal_value_billions": 4.7, "deal_count": 750 },
+            { "period": "2024_q1", "deal_value_billions": 4.6, "deal_count": 870 },
+            { "period": "2024_q2", "deal_value_billions": 6.7, "deal_count": 790 },
+            { "period": "2024_q3", "deal_value_billions": 4.4, "deal_count": 640 },
+            { "period": "2024_q4", "deal_value_billions": 6.6, "deal_count": 770 },
+            { "period": "2025_q1", "deal_value_billions": 5.3, "deal_count": 770 },
+            { "period": "2025_q2", "deal_value_billions": 3.6, "deal_count": 570 },
+            { "period": "2025_q3", "deal_value_billions": 8.1, "deal_count": 570 },
+            { "period": "2025_q4", "deal_value_billions": 6.8, "deal_count": 450 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 64,
+      "page_headline": "VC invested surges to close the year",
+      "key_insight": {
+        "quote": "Europe's VC market remained highly disciplined in 2025, with investors prioritizing quality, scale and defensibility. That selectivity translated into a clear inflection in the second half of the year - most visibly in the UK - where larger, late-stage financings drove a strong H2 and signaled improving confidence in the region's venture ecosystem heading into 2026.",
+        "quote_author": "Sam Luckett, Head of Investor Relations, KPMG Acceleris KPMG in the UK"
+      },
+      "charts": {
+        "venture_financing_london": {
+          "chart_title": "Venture financing in London 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 800).",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 2.7, "deal_count": 440 },
+            { "period": "2019_q2", "deal_value_billions": 2.8, "deal_count": 470 },
+            { "period": "2019_q3", "deal_value_billions": 1.8, "deal_count": 420 },
+            { "period": "2019_q4", "deal_value_billions": 2.3, "deal_count": 470 },
+            { "period": "2020_q1", "deal_value_billions": 2.1, "deal_count": 520 },
+            { "period": "2020_q2", "deal_value_billions": 2.4, "deal_count": 390 },
+            { "period": "2020_q3", "deal_value_billions": 2.9, "deal_count": 430 },
+            { "period": "2020_q4", "deal_value_billions": 4.8, "deal_count": 480 },
+            { "period": "2021_q1", "deal_value_billions": 4.7, "deal_count": 580 },
+            { "period": "2021_q2", "deal_value_billions": 5.9, "deal_count": 590 },
+            { "period": "2021_q3", "deal_value_billions": 7.1, "deal_count": 560 },
+            { "period": "2021_q4", "deal_value_billions": 5.8, "deal_count": 540 },
+            { "period": "2022_q1", "deal_value_billions": 7.9, "deal_count": 660 },
+            { "period": "2022_q2", "deal_value_billions": 7.2, "deal_count": 580 },
+            { "period": "2022_q3", "deal_value_billions": 2.7, "deal_count": 450 },
+            { "period": "2022_q4", "deal_value_billions": 3.5, "deal_count": 470 },
+            { "period": "2023_q1", "deal_value_billions": 2.4, "deal_count": 570 },
+            { "period": "2023_q2", "deal_value_billions": 2.8, "deal_count": 420 },
+            { "period": "2023_q3", "deal_value_billions": 3.5, "deal_count": 410 },
+            { "period": "2023_q4", "deal_value_billions": 3.2, "deal_count": 400 },
+            { "period": "2024_q1", "deal_value_billions": 2.7, "deal_count": 470 },
+            { "period": "2024_q2", "deal_value_billions": 5.4, "deal_count": 410 },
+            { "period": "2024_q3", "deal_value_billions": 2.6, "deal_count": 340 },
+            { "period": "2024_q4", "deal_value_billions": 4.9, "deal_count": 400 },
+            { "period": "2025_q1", "deal_value_billions": 3.2, "deal_count": 400 },
+            { "period": "2025_q2", "deal_value_billions": 2.1, "deal_count": 280 },
+            { "period": "2025_q3", "deal_value_billions": 4.9, "deal_count": 320 },
+            { "period": "2025_q4", "deal_value_billions": 5.4, "deal_count": 250 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 65,
+      "page_headline": "Ireland sees a steady level of dealmaking",
+      "key_insight": {
+        "quote": "It's been a strong year for VC investment in Ireland, with overall investment up substantially year on year. Sentiment is pretty good across the board as we head into 2026. We are seeing a lot of interest in AI, as most jurisdictions are, but we're also seeing continuing strength in the fintech and medtech sectors as well. We're also seeing bigger ticket sizes compared to previous years which is very positive.",
+        "quote_author": "Gavin Sheehan, Partner, Deal Advisory KPMG in Ireland"
+      },
+      "charts": {
+        "venture_financing_ireland": {
+          "chart_title": "Venture financing in Ireland 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Multi-Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026. Note: Due to PitchBook's standard venture methodology, Wayflyer raised a $35 million Series B extension tranche in Q2 2025 that thereby resulted in the entire $185 million Series B close date being in Q2 2025, whereas the first installment of Series B funds of $150 million that Wayflyer raised was in 2022. As a result, the chart above depicts the impact of the $150 million Series B tranche on total deal value for Q2 2025. An additional estimated deal count for Q4 2025 was provided for this edition due to lags in confirming deals from a variety of investors.",
+          "note": "Deal value ($M) values are exact. Deal count and estimated deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 200).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 106.5, "deal_count": 60 },
+            { "period": "2019_q2", "deal_value_millions": 143.2, "deal_count": 61 },
+            { "period": "2019_q3", "deal_value_millions": 227.6, "deal_count": 80 },
+            { "period": "2019_q4", "deal_value_millions": 106.9, "deal_count": 90 },
+            { "period": "2020_q1", "deal_value_millions": 112.9, "deal_count": 55 },
+            { "period": "2020_q2", "deal_value_millions": 327.9, "deal_count": 75 },
+            { "period": "2020_q3", "deal_value_millions": 267.3, "deal_count": 78 },
+            { "period": "2020_q4", "deal_value_millions": 655.1, "deal_count": 178 },
+            { "period": "2021_q1", "deal_value_millions": 196.9, "deal_count": 115 },
+            { "period": "2021_q2", "deal_value_millions": 945.1, "deal_count": 90 },
+            { "period": "2021_q3", "deal_value_millions": 367.6, "deal_count": 65 },
+            { "period": "2021_q4", "deal_value_millions": 419.7, "deal_count": 128 },
+            { "period": "2022_q1", "deal_value_millions": 321.6, "deal_count": 75 },
+            { "period": "2022_q2", "deal_value_millions": 558.8, "deal_count": 90 },
+            { "period": "2022_q3", "deal_value_millions": 131.2, "deal_count": 78 },
+            { "period": "2022_q4", "deal_value_millions": 392.1, "deal_count": 91 },
+            { "period": "2023_q1", "deal_value_millions": 431.7, "deal_count": 82 },
+            { "period": "2023_q2", "deal_value_millions": 224.5, "deal_count": 73 },
+            { "period": "2023_q3", "deal_value_millions": 381.2, "deal_count": 75 },
+            { "period": "2023_q4", "deal_value_millions": 285.2, "deal_count": 115 },
+            { "period": "2024_q1", "deal_value_millions": 174.1, "deal_count": 65 },
+            { "period": "2024_q2", "deal_value_millions": 280.1, "deal_count": 85 },
+            { "period": "2024_q3", "deal_value_millions": 349.9, "deal_count": 95 },
+            { "period": "2024_q4", "deal_value_millions": 360.4, "deal_count": 100 },
+            { "period": "2025_q1", "deal_value_millions": 805.1, "deal_count": 90 },
+            { "period": "2025_q2", "deal_value_millions": 421.9, "deal_count": 83 },
+            { "period": "2025_q3", "deal_value_millions": 227.2, "deal_count": 78 },
+            { "period": "2025_q4", "deal_value_millions": 155.1, "deal_count": 12, "estimated_deal_count": 70 }
+          ]
+        }
+      }
+    },
+        {
+      "page_number": 66,
+      "page_headline": "Q4 sees a surge in VC invested",
+      "key_insight": {
+        "quote": "In Germany - and across Europe more broadly - defense technology is gaining significant momentum among investors. While drones have historically attracted the bulk of VC attention, investment interest is increasingly expanding into areas such as cybersecurity and solutions focused on securing critical national assets and infrastructure. Given ongoing geopolitical tensions and global conflicts, this rapidly evolving sector is expected to remain structurally attractive in the medium to long term.",
+        "quote_author": "Florian Merkel, Director of Tax, Head of Venture Services, KPMG in Germany"
+      },
+      "charts": {
+        "venture_financing_germany": {
+          "chart_title": "Venture financing in Germany 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 600).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 1209.7, "deal_count": 310 },
+            { "period": "2019_q2", "deal_value_millions": 1471.8, "deal_count": 200 },
+            { "period": "2019_q3", "deal_value_millions": 2086.8, "deal_count": 230 },
+            { "period": "2019_q4", "deal_value_millions": 1610.6, "deal_count": 200 },
+            { "period": "2020_q1", "deal_value_millions": 1265.1, "deal_count": 320 },
+            { "period": "2020_q2", "deal_value_millions": 1986.5, "deal_count": 210 },
+            { "period": "2020_q3", "deal_value_millions": 2074.8, "deal_count": 205 },
+            { "period": "2020_q4", "deal_value_millions": 1835.5, "deal_count": 310 },
+            { "period": "2021_q1", "deal_value_millions": 3252.8, "deal_count": 480 },
+            { "period": "2021_q2", "deal_value_millions": 4391.0, "deal_count": 315 },
+            { "period": "2021_q3", "deal_value_millions": 3892.1, "deal_count": 330 },
+            { "period": "2021_q4", "deal_value_millions": 6526.6, "deal_count": 380 },
+            { "period": "2022_q1", "deal_value_millions": 3040.8, "deal_count": 465 },
+            { "period": "2022_q2", "deal_value_millions": 5655.9, "deal_count": 320 },
+            { "period": "2022_q3", "deal_value_millions": 3031.6, "deal_count": 350 },
+            { "period": "2022_q4", "deal_value_millions": 1405.0, "deal_count": 295 },
+            { "period": "2023_q1", "deal_value_millions": 2050.3, "deal_count": 355 },
+            { "period": "2023_q2", "deal_value_millions": 2416.0, "deal_count": 280 },
+            { "period": "2023_q3", "deal_value_millions": 1253.8, "deal_count": 270 },
+            { "period": "2023_q4", "deal_value_millions": 2156.8, "deal_count": 325 },
+            { "period": "2024_q1", "deal_value_millions": 2763.6, "deal_count": 230 },
+            { "period": "2024_q2", "deal_value_millions": 1951.9, "deal_count": 265 },
+            { "period": "2024_q3", "deal_value_millions": 2526.6, "deal_count": 225 },
+            { "period": "2024_q4", "deal_value_millions": 1549.7, "deal_count": 250 },
+            { "period": "2025_q1", "deal_value_millions": 2207.1, "deal_count": 240 },
+            { "period": "2025_q2", "deal_value_millions": 3074.8, "deal_count": 195 },
+            { "period": "2025_q3", "deal_value_millions": 1268.2, "deal_count": 150 },
+            { "period": "2025_q4", "deal_value_millions": 2386.8, "deal_count": 145 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 67,
+      "page_headline": "VC activity slides a little to finish the year",
+      "charts": {
+        "venture_financing_berlin": {
+          "chart_title": "Venture financing in Berlin 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 200).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 486.3, "deal_count": 105 },
+            { "period": "2019_q2", "deal_value_millions": 1227.6, "deal_count": 80 },
+            { "period": "2019_q3", "deal_value_millions": 468.1, "deal_count": 75 },
+            { "period": "2019_q4", "deal_value_millions": 665.6, "deal_count": 60 },
+            { "period": "2020_q1", "deal_value_millions": 606.7, "deal_count": 100 },
+            { "period": "2020_q2", "deal_value_millions": 1319.8, "deal_count": 78 },
+            { "period": "2020_q3", "deal_value_millions": 839.8, "deal_count": 72 },
+            { "period": "2020_q4", "deal_value_millions": 1158.7, "deal_count": 108 },
+            { "period": "2021_q1", "deal_value_millions": 1530.3, "deal_count": 185 },
+            { "period": "2021_q2", "deal_value_millions": 2029.1, "deal_count": 130 },
+            { "period": "2021_q3", "deal_value_millions": 2152.4, "deal_count": 125 },
+            { "period": "2021_q4", "deal_value_millions": 4711.3, "deal_count": 140 },
+            { "period": "2022_q1", "deal_value_millions": 1610.9, "deal_count": 170 },
+            { "period": "2022_q2", "deal_value_millions": 3699.6, "deal_count": 130 },
+            { "period": "2022_q3", "deal_value_millions": 1168.9, "deal_count": 125 },
+            { "period": "2022_q4", "deal_value_millions": 372.9, "deal_count": 95 },
+            { "period": "2023_q1", "deal_value_millions": 964.9, "deal_count": 120 },
+            { "period": "2023_q2", "deal_value_millions": 1225.4, "deal_count": 95 },
+            { "period": "2023_q3", "deal_value_millions": 329.7, "deal_count": 85 },
+            { "period": "2023_q4", "deal_value_millions": 367.8, "deal_count": 75 },
+            { "period": "2024_q1", "deal_value_millions": 1037.3, "deal_count": 110 },
+            { "period": "2024_q2", "deal_value_millions": 542.5, "deal_count": 85 },
+            { "period": "2024_q3", "deal_value_millions": 540.4, "deal_count": 78 },
+            { "period": "2024_q4", "deal_value_millions": 757.5, "deal_count": 78 },
+            { "period": "2025_q1", "deal_value_millions": 799.3, "deal_count": 72 },
+            { "period": "2025_q2", "deal_value_millions": 818.5, "deal_count": 73 },
+            { "period": "2025_q3", "deal_value_millions": 544.2, "deal_count": 60 },
+            { "period": "2025_q4", "deal_value_millions": 459.2, "deal_count": 52 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 68,
+      "page_headline": "VC flows remain slow heading into the back half of 2025",
+      "key_insight": {
+        "quote": "In Austria, the bar is being raised. VC investors are much more selective than they've been in the past and that's forced companies to prove that they have the right fundamentals and are operationally efficient in order to attract new funding. This shift is helping to quickly mature the ecosystem making it stronger and healthier headed into 2026.",
+        "quote_author": "Leonardo Peikoff, Head of Startups Manager, KPMG in Austria"
+      },
+      "charts": {
+        "venture_financing_austria": {
+          "chart_title": "Venture financing in Austria 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 70).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 41.6, "deal_count": 43 },
+            { "period": "2019_q2", "deal_value_millions": 72.7, "deal_count": 29 },
+            { "period": "2019_q3", "deal_value_millions": 136.3, "deal_count": 32 },
+            { "period": "2019_q4", "deal_value_millions": 21.4, "deal_count": 25 },
+            { "period": "2020_q1", "deal_value_millions": 124.8, "deal_count": 51 },
+            { "period": "2020_q2", "deal_value_millions": 42.9, "deal_count": 34 },
+            { "period": "2020_q3", "deal_value_millions": 110.6, "deal_count": 45 },
+            { "period": "2020_q4", "deal_value_millions": 71.6, "deal_count": 28 },
+            { "period": "2021_q1", "deal_value_millions": 115.0, "deal_count": 46 },
+            { "period": "2021_q2", "deal_value_millions": 513.0, "deal_count": 44 },
+            { "period": "2021_q3", "deal_value_millions": 585.9, "deal_count": 37 },
+            { "period": "2021_q4", "deal_value_millions": 71.3, "deal_count": 44 },
+            { "period": "2022_q1", "deal_value_millions": 658.5, "deal_count": 64 },
+            { "period": "2022_q2", "deal_value_millions": 266.6, "deal_count": 47 },
+            { "period": "2022_q3", "deal_value_millions": 53.8, "deal_count": 36 },
+            { "period": "2022_q4", "deal_value_millions": 69.0, "deal_count": 49 },
+            { "period": "2023_q1", "deal_value_millions": 163.3, "deal_count": 48 },
+            { "period": "2023_q2", "deal_value_millions": 120.9, "deal_count": 30 },
+            { "period": "2023_q3", "deal_value_millions": 224.0, "deal_count": 43 },
+            { "period": "2023_q4", "deal_value_millions": 218.3, "deal_count": 39 },
+            { "period": "2024_q1", "deal_value_millions": 39.3, "deal_count": 35 },
+            { "period": "2024_q2", "deal_value_millions": 144.1, "deal_count": 36 },
+            { "period": "2024_q3", "deal_value_millions": 105.1, "deal_count": 27 },
+            { "period": "2024_q4", "deal_value_millions": 186.1, "deal_count": 32 },
+            { "period": "2025_q1", "deal_value_millions": 77.4, "deal_count": 33 },
+            { "period": "2025_q2", "deal_value_millions": 49.8, "deal_count": 20 },
+            { "period": "2025_q3", "deal_value_millions": 91.6, "deal_count": 24 },
+            { "period": "2025_q4", "deal_value_millions": 84.1, "deal_count": 16 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 69,
+      "page_headline": "After a spate of mega-deals, a quieter second half of 2025",
+      "charts": {
+        "venture_financing_spain": {
+          "chart_title": "Venture financing in Spain 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 250).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 214.9, "deal_count": 160 },
+            { "period": "2019_q2", "deal_value_millions": 523.6, "deal_count": 145 },
+            { "period": "2019_q3", "deal_value_millions": 234.3, "deal_count": 135 },
+            { "period": "2019_q4", "deal_value_millions": 390.7, "deal_count": 170 },
+            { "period": "2020_q1", "deal_value_millions": 494.3, "deal_count": 220 },
+            { "period": "2020_q2", "deal_value_millions": 333.8, "deal_count": 115 },
+            { "period": "2020_q3", "deal_value_millions": 526.2, "deal_count": 150 },
+            { "period": "2020_q4", "deal_value_millions": 512.2, "deal_count": 215 },
+            { "period": "2021_q1", "deal_value_millions": 1646.8, "deal_count": 225 },
+            { "period": "2021_q2", "deal_value_millions": 488.7, "deal_count": 225 },
+            { "period": "2021_q3", "deal_value_millions": 799.2, "deal_count": 190 },
+            { "period": "2021_q4", "deal_value_millions": 1487.3, "deal_count": 235 },
+            { "period": "2022_q1", "deal_value_millions": 1092.7, "deal_count": 220 },
+            { "period": "2022_q2", "deal_value_millions": 916.4, "deal_count": 195 },
+            { "period": "2022_q3", "deal_value_millions": 917.6, "deal_count": 160 },
+            { "period": "2022_q4", "deal_value_millions": 716.7, "deal_count": 190 },
+            { "period": "2023_q1", "deal_value_millions": 636.9, "deal_count": 215 },
+            { "period": "2023_q2", "deal_value_millions": 486.0, "deal_count": 170 },
+            { "period": "2023_q3", "deal_value_millions": 434.3, "deal_count": 125 },
+            { "period": "2023_q4", "deal_value_millions": 678.3, "deal_count": 170 },
+            { "period": "2024_q1", "deal_value_millions": 346.6, "deal_count": 190 },
+            { "period": "2024_q2", "deal_value_millions": 720.6, "deal_count": 145 },
+            { "period": "2024_q3", "deal_value_millions": 378.6, "deal_count": 95 },
+            { "period": "2024_q4", "deal_value_millions": 963.9, "deal_count": 130 },
+            { "period": "2025_q1", "deal_value_millions": 869.3, "deal_count": 135 },
+            { "period": "2025_q2", "deal_value_millions": 642.9, "deal_count": 120 },
+            { "period": "2025_q3", "deal_value_millions": 404.0, "deal_count": 95 },
+            { "period": "2025_q4", "deal_value_millions": 484.7, "deal_count": 95 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 70,
+      "page_headline": "Deal flow stabilizes in the second half of 2025",
+      "charts": {
+        "venture_financing_france": {
+          "chart_title": "Venture financing in France 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 600).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 1510.3, "deal_count": 400 },
+            { "period": "2019_q2", "deal_value_millions": 1314.9, "deal_count": 365 },
+            { "period": "2019_q3", "deal_value_millions": 1263.5, "deal_count": 368 },
+            { "period": "2019_q4", "deal_value_millions": 1461.2, "deal_count": 360 },
+            { "period": "2020_q1", "deal_value_millions": 1888.9, "deal_count": 425 },
+            { "period": "2020_q2", "deal_value_millions": 1408.8, "deal_count": 335 },
+            { "period": "2020_q3", "deal_value_millions": 3141.8, "deal_count": 325 },
+            { "period": "2020_q4", "deal_value_millions": 2026.7, "deal_count": 335 },
+            { "period": "2021_q1", "deal_value_millions": 1985.5, "deal_count": 440 },
+            { "period": "2021_q2", "deal_value_millions": 3832.0, "deal_count": 415 },
+            { "period": "2021_q3", "deal_value_millions": 4277.7, "deal_count": 360 },
+            { "period": "2021_q4", "deal_value_millions": 2614.2, "deal_count": 400 },
+            { "period": "2022_q1", "deal_value_millions": 6785.5, "deal_count": 555 },
+            { "period": "2022_q2", "deal_value_millions": 3246.3, "deal_count": 450 },
+            { "period": "2022_q3", "deal_value_millions": 3291.8, "deal_count": 385 },
+            { "period": "2022_q4", "deal_value_millions": 2047.7, "deal_count": 380 },
+            { "period": "2023_q1", "deal_value_millions": 2802.0, "deal_count": 460 },
+            { "period": "2023_q2", "deal_value_millions": 1983.8, "deal_count": 415 },
+            { "period": "2023_q3", "deal_value_millions": 3139.1, "deal_count": 290 },
+            { "period": "2023_q4", "deal_value_millions": 1825.5, "deal_count": 335 },
+            { "period": "2024_q1", "deal_value_millions": 2470.3, "deal_count": 350 },
+            { "period": "2024_q2", "deal_value_millions": 2578.3, "deal_count": 320 },
+            { "period": "2024_q3", "deal_value_millions": 2133.9, "deal_count": 275 },
+            { "period": "2024_q4", "deal_value_millions": 1805.7, "deal_count": 295 },
+            { "period": "2025_q1", "deal_value_millions": 1744.1, "deal_count": 310 },
+            { "period": "2025_q2", "deal_value_millions": 1727.0, "deal_count": 230 },
+            { "period": "2025_q3", "deal_value_millions": 2728.4, "deal_count": 190 },
+            { "period": "2025_q4", "deal_value_millions": 2264.2, "deal_count": 225 }
+          ]
+        }
+      }
+    },
+    {
+"page_number": 71,
+"page_headline": "VC invested remains around longer-term averages in Q4",
+"charts": {
+"venture_financing_paris": {
+"chart_title": "Venture financing in Paris 2019-Q4'25",
+"suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+"source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 250).",
+"data": [
+{ "period": "2019_q1", "deal_value_millions": 765.5, "deal_count": 170 },
+{ "period": "2019_q2", "deal_value_millions": 898.0, "deal_count": 145 },
+{ "period": "2019_q3", "deal_value_millions": 688.5, "deal_count": 148 },
+{ "period": "2019_q4", "deal_value_millions": 883.2, "deal_count": 152 },
+{ "period": "2020_q1", "deal_value_millions": 1064.9, "deal_count": 188 },
+{ "period": "2020_q2", "deal_value_millions": 946.1, "deal_count": 155 },
+{ "period": "2020_q3", "deal_value_millions": 2495.2, "deal_count": 140 },
+{ "period": "2020_q4", "deal_value_millions": 823.7, "deal_count": 120 },
+{ "period": "2021_q1", "deal_value_millions": 1072.2, "deal_count": 170 },
+{ "period": "2021_q2", "deal_value_millions": 2756.5, "deal_count": 198 },
+{ "period": "2021_q3", "deal_value_millions": 2417.3, "deal_count": 165 },
+{ "period": "2021_q4", "deal_value_millions": 1275.2, "deal_count": 150 },
+{ "period": "2022_q1", "deal_value_millions": 3762.9, "deal_count": 235 },
+{ "period": "2022_q2", "deal_value_millions": 2117.1, "deal_count": 190 },
+{ "period": "2022_q3", "deal_value_millions": 2368.6, "deal_count": 170 },
+{ "period": "2022_q4", "deal_value_millions": 973.7, "deal_count": 140 },
+{ "period": "2023_q1", "deal_value_millions": 1425.6, "deal_count": 175 },
+{ "period": "2023_q2", "deal_value_millions": 1094.3, "deal_count": 195 },
+{ "period": "2023_q3", "deal_value_millions": 635.5, "deal_count": 113 },
+{ "period": "2023_q4", "deal_value_millions": 582.2, "deal_count": 116 },
+{ "period": "2024_q1", "deal_value_millions": 1580.3, "deal_count": 156 },
+{ "period": "2024_q2", "deal_value_millions": 1749.3, "deal_count": 132 },
+{ "period": "2024_q3", "deal_value_millions": 1408.7, "deal_count": 104 },
+{ "period": "2024_q4", "deal_value_millions": 741.3, "deal_count": 130 },
+{ "period": "2025_q1", "deal_value_millions": 1018.8, "deal_count": 134 },
+{ "period": "2025_q2", "deal_value_millions": 1032.8, "deal_count": 104 },
+{ "period": "2025_q3", "deal_value_millions": 1844.5, "deal_count": 72 },
+{ "period": "2025_q4", "deal_value_millions": 1212.7, "deal_count": 82 }
+]
+}
+}
+},
+{
+"page_number": 72,
+"page_headline": "Mega-deals contribute to a jump in Q4 VC invested",
+"key_insight": {
+"quote": "The Nordics closed 2025 on a high note. Investment climbed to a nine-quarter high as investors doubled down on category leaders, capped by Oura's landmark $907 million raise, Finland's largest ever. Multiple $100-million-plus rounds signal renewed conviction in scalable, defensible, AI-powered platforms. Confidence is building and that energy could spill well into 2026 as liquidity improves.",
+"quote_author": "Jussi Paski, Head of Startup and Venture Services, KPMG in Finland"
+},
+"charts": {
+"venture_financing_nordics": {
+"chart_title": "Venture financing in the Nordics 2019-Q4'25",
+"suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+"source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 700).",
+"data": [
+{ "period": "2019_q1", "deal_value_millions": 1734.3, "deal_count": 445 },
+{ "period": "2019_q2", "deal_value_millions": 2188.9, "deal_count": 360 },
+{ "period": "2019_q3", "deal_value_millions": 839.4, "deal_count": 285 },
+{ "period": "2019_q4", "deal_value_millions": 1021.8, "deal_count": 440 },
+{ "period": "2020_q1", "deal_value_millions": 1586.4, "deal_count": 460 },
+{ "period": "2020_q2", "deal_value_millions": 1022.3, "deal_count": 340 },
+{ "period": "2020_q3", "deal_value_millions": 2704.1, "deal_count": 295 },
+{ "period": "2020_q4", "deal_value_millions": 2048.8, "deal_count": 540 },
+{ "period": "2021_q1", "deal_value_millions": 4492.3, "deal_count": 635 },
+{ "period": "2021_q2", "deal_value_millions": 6318.4, "deal_count": 475 },
+{ "period": "2021_q3", "deal_value_millions": 2254.6, "deal_count": 375 },
+{ "period": "2021_q4", "deal_value_millions": 2598.1, "deal_count": 580 },
+{ "period": "2022_q1", "deal_value_millions": 3548.4, "deal_count": 645 },
+{ "period": "2022_q2", "deal_value_millions": 2908.8, "deal_count": 465 },
+{ "period": "2022_q3", "deal_value_millions": 3069.1, "deal_count": 345 },
+{ "period": "2022_q4", "deal_value_millions": 2409.6, "deal_count": 415 },
+{ "period": "2023_q1", "deal_value_millions": 1528.1, "deal_count": 565 },
+{ "period": "2023_q2", "deal_value_millions": 1780.9, "deal_count": 335 },
+{ "period": "2023_q3", "deal_value_millions": 5196.4, "deal_count": 260 },
+{ "period": "2023_q4", "deal_value_millions": 1287.1, "deal_count": 330 },
+{ "period": "2024_q1", "deal_value_millions": 2089.4, "deal_count": 440 },
+{ "period": "2024_q2", "deal_value_millions": 1307.6, "deal_count": 275 },
+{ "period": "2024_q3", "deal_value_millions": 995.2, "deal_count": 230 },
+{ "period": "2024_q4", "deal_value_millions": 1687.6, "deal_count": 285 },
+{ "period": "2025_q1", "deal_value_millions": 1392.4, "deal_count": 315 },
+{ "period": "2025_q2", "deal_value_millions": 859.3, "deal_count": 240 },
+{ "period": "2025_q3", "deal_value_millions": 2040.0, "deal_count": 205 },
+{ "period": "2025_q4", "deal_value_millions": 3161.0, "deal_count": 168 }
+]
+}
+}
+},
+{
+"page_number": 73,
+"page_headline": "2025 sees a robust level of VC activity",
+"key_insight": {
+"quote": "Investors' renewed interest in Israeli tech companies continues throughout 2025. While most of the funding rounds in Q4 were directed at early stage companies, some later stage deals stand out - Armis, Cyera, Eon and Deel - each with a funding round of over $300m. Cybersecurity and AI still draw most of investors' attention, but funding rounds in quantum computing and defense tech are part of a gradual shift to increased interest in deep tech sectors, in addition to investments in software based solutions. Q4 exits did not lag behind, with over 50 M&As, some deals surpassing $2b each (Melio, Sapiens, 89bio, Verint) and 1 IPO (Navan, $750m). Looking forward, we believe the return of increased funding will persist in 2026, a testament to investors' trust in Israeli tech and its solid appeal.",
+"quote_author": "Dina Pasca-Raz, Head of Technology, KPMG in Israel"
+},
+"charts": {
+"venture_financing_israel": {
+"chart_title": "Venture financing in Israel 2019-Q4'25",
+"suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+"source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 300).",
+"data": [
+{ "period": "2019_q1", "deal_value_millions": 993.5, "deal_count": 170 },
+{ "period": "2019_q2", "deal_value_millions": 956.5, "deal_count": 150 },
+{ "period": "2019_q3", "deal_value_millions": 1090.5, "deal_count": 145 },
+{ "period": "2019_q4", "deal_value_millions": 1026.4, "deal_count": 130 },
+{ "period": "2020_q1", "deal_value_millions": 1260.6, "deal_count": 182 },
+{ "period": "2020_q2", "deal_value_millions": 908.6, "deal_count": 140 },
+{ "period": "2020_q3", "deal_value_millions": 1438.3, "deal_count": 158 },
+{ "period": "2020_q4", "deal_value_millions": 1376.5, "deal_count": 170 },
+{ "period": "2021_q1", "deal_value_millions": 2671.9, "deal_count": 225 },
+{ "period": "2021_q2", "deal_value_millions": 2194.1, "deal_count": 195 },
+{ "period": "2021_q3", "deal_value_millions": 2146.1, "deal_count": 195 },
+{ "period": "2021_q4", "deal_value_millions": 3951.7, "deal_count": 240 },
+{ "period": "2022_q1", "deal_value_millions": 3208.1, "deal_count": 255 },
+{ "period": "2022_q2", "deal_value_millions": 2211.1, "deal_count": 195 },
+{ "period": "2022_q3", "deal_value_millions": 2642.7, "deal_count": 180 },
+{ "period": "2022_q4", "deal_value_millions": 1263.9, "deal_count": 168 },
+{ "period": "2023_q1", "deal_value_millions": 1194.9, "deal_count": 200 },
+{ "period": "2023_q2", "deal_value_millions": 1077.1, "deal_count": 145 },
+{ "period": "2023_q3", "deal_value_millions": 1201.3, "deal_count": 138 },
+{ "period": "2023_q4", "deal_value_millions": 904.8, "deal_count": 98 },
+{ "period": "2024_q1", "deal_value_millions": 1187.6, "deal_count": 140 },
+{ "period": "2024_q2", "deal_value_millions": 975.4, "deal_count": 118 },
+{ "period": "2024_q3", "deal_value_millions": 1070.9, "deal_count": 125 },
+{ "period": "2024_q4", "deal_value_millions": 731.3, "deal_count": 108 },
+{ "period": "2025_q1", "deal_value_millions": 1173.0, "deal_count": 160 },
+{ "period": "2025_q2", "deal_value_millions": 1757.3, "deal_count": 108 },
+{ "period": "2025_q3", "deal_value_millions": 2128.6, "deal_count": 122 },
+{ "period": "2025_q4", "deal_value_millions": 1502.0, "deal_count": 78 }
+]
+}
+}
+},
+{
+"page_number": 74,
+"page_headline": "Multiple sectors are represented in Q4's top deals",
+"charts": {
+"top_10_financings_europe": {
+"chart_title": "Top 10 financings in Q4'25 in Europe",
+"suggested_chart_type": "Data Table / Map Leaderboard",
+"source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"data": [
+{ "rank": 1, "company_name": "Revolut", "amount_millions": 3000.0, "city": "London", "country": "united_kingdom", "sector": "financial_software", "stage": "late_stage_vc" },
+{ "rank": 2, "company_name": "Oura", "amount_millions": 907.7, "city": "Oulu", "country": "finland", "sector": "wearables", "stage": "series_e" },
+{ "rank": 3, "company_name": "Brevo", "amount_millions": 578.4, "city": "Paris", "country": "france", "sector": "ai_&ml", "stage": "late_stage_vc" }, { "rank": 4, "company_name": "Picnic", "amount_millions": 498.1, "city": "Amsterdam", "country": "netherlands", "sector": "e_commerce", "stage": "late_stage_vc" }, { "rank": 5, "company_name": "Lovable", "amount_millions": 425.0, "city": "Stockholm", "country": "sweden", "sector": "ai&ml", "stage": "series_b" }, { "rank": 6, "company_name": "Tubulis", "amount_millions": 360.9, "city": "Munich", "country": "germany", "sector": "life_sciences", "stage": "series_c" }, { "rank": 7, "company_name": "Spotawheel", "amount_millions": 348.2, "city": "Athens", "country": "greece", "sector": "automotive", "stage": "late_stage_vc" }, { "rank": 8, "company_name": "Black Forest Labs", "amount_millions": 300.0, "city": "Freiburg im Breisgau", "country": "germany", "sector": "ai&ml", "stage": "series_b" }, { "rank": 9, "company_name": "Quantum Systems", "amount_millions": 233.05, "city": "Gilching", "country": "germany", "sector": "ai&ml", "stage": "late_stage_vc" }, { "rank": 10, "company_name": "Iceye", "amount_millions": 231.6, "city": "Espoo", "country": "finland", "sector": "aerospace&_defense", "stage": "series_e" }
+]
+}
+}
+}
+
+
+  ]
+}
+

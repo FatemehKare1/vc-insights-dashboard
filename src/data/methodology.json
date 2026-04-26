@@ -1,0 +1,102 @@
+{
+  "report_info": {
+    "title": "Venture Pulse Q4 2025: Methodology & Acknowledgements",
+    "region": "Global",
+    "source_document": "Venture Pulse Q4 2025",
+    "processed_pages": "Pages 100-104"
+  },
+  "pages": [
+        {
+      "page_number": 100,
+      "page_headline": "KPMG Private Enterprise Emerging Giants network",
+      "executive_summary": {
+        "title": "KPMG Private Enterprise Emerging Giants network",
+        "sections": [
+          {
+            "subtitle": "Contact us",
+            "content": "Conor Moore, Global Head, KPMG Private Enterprise, KPMG International & Partner, KPMG in the US. Lindsay Hull, Senior Director, Emerging Giants Global Network, KPMG Private Enterprise, KPMG International."
+          }
+        ]
+      },
+      "charts": {}
+    },
+
+
+    {
+      "page_number": 101,
+      "page_headline": "About us",
+      "executive_summary": {
+        "title": "About KPMG Private Enterprise",
+        "sections": [
+          {
+            "content": "You know KPMG. You might not know KPMG Private Enterprise. KPMG Private Enterprise advisers in KPMG firms around the world are dedicated to working with you and your business, no matter where you are in your growth journey - whether you're looking to reach new heights, embrace technology, plan for an exit, or manage the transition of wealth or your business to the next generation. You gain access to KPMG firms' global resources through a single point of contact a professional adviser to your company. It is a local touch with a global reach."
+          },
+          {
+            "content": "KPMG Private Enterprise's global network for emerging giants has extensive knowledge and experience working with the startup ecosystem. Whether you are looking to establish your operations, raise capital, expand abroad, or simply comply with regulatory requirements we can help. From seed to speed, we're here throughout your journey."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 102,
+      "page_headline": "About the report",
+      "executive_summary": {
+        "title": "Acknowledgements",
+        "sections": [
+          {
+            "content": "We acknowledge the contribution of the following individuals who assisted in the development of this publication:"
+          },
+          {
+            "content": "Conor Moore, Global Head, KPMG Private Enterprise, KPMG International\nAmanda Price, Head of High Growth Ventures, KPMG Australia\nAngela Chiu, Director, KPMG China\nAnna Scionti, Partner, KPMG Private Enterprise, KPMG in the US\nCarolina Oliveira, Partner, KPMG Private Enterprise Leader in Brazil and South America, KPMG in Brazil\nDina Pasca-Raz, Partner, Head of Technology, KPMG in Israel\nDiogo O. Sousa, Partner, Head of KPMG Private Enterprise, KPMG in Brazil\nFlorian Merkel, Director of Tax, Head of Venture Services, KPMG in Germany\nFrancine Turapel, Partner, Audit, KPMG in France\nFrancois Chadwick, Partner, KPMG Private Enterprise, KPMG in the US\nGavin Sheehan, Partner, Deal Advisory KPMG in Ireland\nGuillermo Goñi, Partner, KPMG in Mexico\nHillel Schuster, Principal, Head of Technology, KPMG in Israel\nHiroshi Abe, Executive Board Member, Partner, KPMG in Japan\nJussi Paski, Head of Startup and Venture Services, KPMG in Finland\nLeonardo Peikoff, Head of Startups Manager, KPMG in Austria\nLindsay Hull, Senior Director, Emerging Giants Global Network, KPMG Private Enterprise, KPMG International\nNicole Lowe, UK Head of Emerging Giants, KPMG in the UK\nNima Sarah Amirshojae, Associate Partner, Deal Advisory KPMG in Germany\nNitish Poddar, Partner and National Leader, Private Equity, KPMG in India\nRyan Forster, Partner, KPMG in Canada\nSam Luckett, Head of Investor Relations, KPMG Acceleris KPMG in the UK\nSamuel Lush, Managing Director, Private Equity Group, KPMG in the US\nSandeep Main, Partner, Tax and Regulatory Services Head of Private Enterprise KPMG in Africa\nScott Burger, Partner, KPMG in the US\nShivani Sopory, Audit Partner, KPMG in the US\nSunil Mistry, Partner, KPMG Private Enterprise, KPMG in Canada\nZoe Shi, Partner, KPMG China"
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 103,
+      "page_headline": "Methodology",
+      "executive_summary": {
+        "title": "Methodology",
+        "sections": [
+          {
+            "content": "KPMG uses PitchBook as the provider of venture data for the Venture Pulse report. Please note that the M&A and IPO data is not intended to be comprehensive as the report only focuses on venture-backed exits. PitchBook's exit criteria does not include going public via SPAC."
+          },
+          {
+            "subtitle": "PitchBook's deal definitions:",
+            "content": "Venture capital deals: PitchBook includes equity investments into startup companies from an outside source. Investment does not necessarily have to be taken from an institutional investor. This can include investment from individual angel investors, angel groups, seed funds, venture capital firms, corporate venture firms and corporate investors. Investments received as part of an accelerator program are not included, however, if the accelerator continues to invest in follow-on rounds, those further financings are included. All financings are of companies headquartered in the US. The impact of initial coin offerings on early-stage venture financing as of yet remains indeterminate. Initial coin offerings (ICOs) are excluded from this report's base of data."
+          },
+          {
+            "subtitle": "Venture capital deal stages:",
+            "content": "PitchBook assigns deals to stages based on the series of the financing, the company's previous rounds, and the company's founding date. The stages are categorized as follows:\n- Pre-seed/Seed: Financings categorized as Pre-seed or Seed, or if the company has not received prior venture capital and is less than two years old.\n- Early-stage VC: Financings categorized as Series A or Series B.\n- Late-stage VC: Financings categorized as Series C or later.\n- Venture growth: Financings categorized as Venture growth, or if a company has been venture-backed, has not raised a round in the last two years, and is at least five years old."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 104,
+      "page_headline": "Methodology, cont'd",
+      "executive_summary": {
+        "title": "Methodology, cont'd",
+        "sections": [
+          {
+            "subtitle": "Exits:",
+            "content": "PitchBook includes the first majority liquidity event for investors of a company (since 1990). This includes events where there is a public listing, secondary buyout, or acquisition. The data also includes partial exits where the company was acquired but remained independent. Please note that the M&A and IPO data is not intended to be comprehensive as the report only focuses on venture-backed exits. PitchBook's exit criteria does not include going public via SPAC."
+          },
+          {
+            "subtitle": "Fundraising:",
+            "content": "PitchBook defines venture capital funds as pools of capital raised for the purpose of investing in the equity of startup companies. In addition to funds raised by traditional venture capital firms, PitchBook also includes funds raised by any institution with the primary intent stated above. Funds identified as growth-stage vehicles are classified as PE funds and are not included in this report. A fund's location is determined by the country in which the fund is domiciled, if that information is not available, it is tied to the principal office of the investing firm. Fundraising data is based on the year the fund held its final close."
+          },
+          {
+            "subtitle": "Disclaimer",
+            "content": "Some or all of the services described herein may not be permissible for KPMG audit clients and their affiliates or related entities. The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that such information is accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation. ©2026 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved. KPMG refers to the global organization or to one or more of the member firms of KPMG International Limited (\"KPMG International\"), each of which is a separate legal entity. KPMG International Limited is a private English company limited by guarantee and does not provide services to clients. For more details about our structure please visit kpmg.com/governance. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization. Throughout this document, \"we\", \"KPMG\", \"us\" and \"our\" refers to the KPMG global organization, to KPMG International Limited (\"KPMG International\"), and/or to one or more of the member firms of KPMG International, each of which is a separate legal entity."
+          }
+        ]
+      },
+      "charts": {}
+    }
+  ]
+}
+

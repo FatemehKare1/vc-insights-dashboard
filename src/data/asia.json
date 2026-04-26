@@ -1,0 +1,668 @@
+{
+  "report_info": {
+    "title": "Venture Pulse Q4 2025: Asia Regional Analysis",
+    "region": "Asia",
+    "source_document": "Venture Pulse Q4 2025",
+    "processed_pages": "Pages 81-99"
+  },
+  "pages": [
+    {
+      "page_number": 81,
+      "page_headline": "In Q4'25, VC-backed companies in the Asia region raised $21.4 billion across 2,474 deals",
+      "executive_summary": {
+        "title": "Asia Region Overview",
+        "sections": [
+          {
+            "content": "In Q4'25, VC-backed companies in the Asia region raised $21.4 billion across 2,474 deals"
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 82,
+      "page_headline": "VC investment in Asia modest, despite strong quarter in Japan",
+      "executive_summary": {
+        "title": "VC investment in Asia modest, despite strong quarter in Japan",
+        "sections": [
+          {
+            "content": "Venture capital investment across Asia remained relatively modest in Q4'25, totaling $21.4 billion across 2,474 deals, broadly consistent with investment levels seen in the first three quarters of 2025. While VC activity in China continued to be subdued, several other markets recorded meaningful quarter-over-quarter growth. In particular, India, Japan, and Australia each saw notable increases in VC investment during the quarter, helping to offset continued softness elsewhere in the region."
+          },
+          {
+            "subtitle": "AI enablement becoming a high priority for VC investors across Asia",
+            "content": "AI enablement emerged as a high priority for VC investors across Asia in Q4'25, attracting significant levels of capital despite overall regional investment remaining modest. In China, while broader VC activity stayed subdued, the two largest deals of the quarter were both concentrated in autonomous driving, with DeepBlue Auto raising $867 million and Neolix Technologies securing $600 million - highlighting continued investor conviction in select, strategically important AI applications. Across the wider region, AI-focused investment skewed heavily towards enablement infrastructure rather than end-user applications. One of the notable rounds included a $541 million raise by Australia-based AI infrastructure provider Firmus Technologies. Robotics emerged as one of the most active AI sub-sectors, with significant raises by China-based GalBot ($300 million), Juxie Intelligent ($281 million), Cornerstone Robotics ($200 million), and Robotera ($141 million), alongside a $155 million round for India-based Miko Robot. Japan also recorded strong AI-related megadeal activity during the quarter, with industrial automation company Mujin raising $235 million and foundational AI model developer Sakana AI securing $135 million. Together, these transactions underscore the growing emphasis on AI infrastructure, robotics, and automation across Asia, even as overall VC activity remains selective and uneven across markets."
+          },
+          {
+            "subtitle": "Exits activity in Asia improving, buoyed by IPOs in India and Hong Kong",
+            "content": "Exit activity across Asia improved meaningfully in 2025, driven primarily by strong momentum in India and Hong Kong. In India, exit value surged in Q4'25 to the second-highest level on record - trailing only Q4'21 - as a wave of VC-backed companies accessed the public markets. Notable IPOs during the quarter included an $824 million offering by eyewear e-commerce platform Lenskart, a $394 million IPO by edtech provider Physics Wallah, and a $144 million listing by home solutions e-commerce company Wakefit. The post-IPO performance of these companies, particularly in the e-commerce sector, will be an important indicator to monitor over the coming year, as sustained trading performance could materially influence investor appetite for future listings. Hong Kong also experienced robust IPO activity in 2025, especially during the first half of the year. Momentum remained solid in Q4'25, supported by a sizable pipeline of companies that have filed confidentially for IPOs. Many issuers are adopting a patient approach, waiting for optimal market conditions before proceeding with their listings."
+          },
+          {
+            "subtitle": "China attracts largest share of VC investment in Asia despite economic challenges",
+            "content": "China continued to see subdued venture capital investment in Q4'25, although it still accounted for the largest share of VC investment in Asia during the quarter. While activity in large late-stage funding rounds remained muted, earlier-stage investment showed signs of stabilization, with increased traction at the pre-seed, seed, and Series A stages. AI remained one of the most active areas of investment, with capital largely directed towards practical, industrial applications - particularly autonomous vehicles and robotics. In autonomous driving, autonomous delivery vehicle manufacturer Neolix Technologies raised $600 million, while autonomous driving technology provider DeepBlue Auto secured an $867 million round during the quarter. Didi Autonomous Driving also attracted significant capital, raising $281 million. Robotics investment was similarly robust, with humanoid robotics components firm Juxie Intelligent raising $281 million, surgery-focused Cornerstone Robotics securing $200 million, and humanoid robotics company Robotera raising $141 million. Together, these transactions underscore continued investor interest in applied AI and automation use cases in China, even as overall venture activity remains selective."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 83,
+      "page_headline": "VC investment in Asia modest, despite strong quarter in Japan, cont'd.",
+      "executive_summary": {
+        "title": "VC investment in Asia modest, despite strong quarter in Japan, cont'd.",
+        "sections": [
+          {
+            "subtitle": "India VC market shows stability in 2025 well positioned for growth",
+            "content": "Venture capital investment in India remained stable throughout 2025, with a modest quarter-over-quarter increase to close out the year. The market continued to demonstrate breadth, with a diverse group of companies raising $100 million-plus rounds during the quarter. Notable transactions included a $600 million raise by mobile payments platform PhonePe, a $244 million financing for cleantech company Goldi Solar, and a $155 million round for education-focused AI robotics firm Miko Robot. E-commerce and consumer platforms continued to attract significant investor interest, with large rounds raised by quick-commerce and retail leaders, including $450 million for Zepto Marketplace and $381 million for eyewear e-commerce company Lenskart. While quick commerce has drawn substantial capital, investor scrutiny around burn rates and long-term profitability is increasing. These dynamics will be closely watched heading into 2026, particularly as several companies in the sector begin to consider potential IPO exits."
+          },
+          {
+            "subtitle": "Japan sees strong VC investment in Q4'25",
+            "content": "Venture capital investment in Japan surged in Q4'25, reaching nearly $1.9 billion across 320 deals. This strong finish propelled full-year VC investment to more than $5.8 billion, second only to the previous annual record set in 2021. The quarter was marked by several $100 million-plus megadeals, including a $235 million round for intelligent automation and robotics firm Mujin, and a $135 million financing for foundational AI model developer Sakana AI. Collaboration between corporates and startups emerged as a defining theme during the quarter, as large Japanese companies increasingly turned to venture-backed innovation to address internal operational and strategic challenges. These partnerships and investments are expected not only to accelerate startup growth over the coming quarters, but also to encourage broader corporate participation in venture investing as firms seek to remain competitive in rapidly evolving markets. At the same time, macroeconomic conditions in Japan softened in Q4'25, with a weakening yen and interest rates rising to a 30 year high. These dynamics introduced some caution among investors, particularly banks and financial institutions that have historically played an important role in seeding new funds. As a result, VC investors increasingly concentrated capital in more established startups with proven traction and higher probabilities of success, rather than earlier-stage or unproven ventures. How this shift influences deal formation and innovation dynamics will be an important trend to watch heading into 2026."
+          },
+          {
+            "subtitle": "Trends to watch for in Q1'26",
+            "content": "Heading into Q1'26, AI is expected to remain a primary driver of venture capital investment across Asia, with capital flowing into a broad range of subsectors including autonomous vehicles, robotics, industrial enablement, and AI infrastructure. Investor interest is increasingly focused on practical, scalable applications that support automation and productivity gains across industries. In Hong Kong, IPO activity is expected to remain constructive in early 2026, supported by a sizable backlog of companies that have filed confidentially and are awaiting favorable market conditions. In India, IPO exits may also accelerate, although investor appetite will be shaped by the post-listing performance of companies that went public in late 2025. Given the significant amount of dry powder held by VC funds in India, sentiment remains positive that overall VC investment will increase meaningfully over the coming year. In Japan, M&A activity is expected to gain momentum as changes to listing maintenance standards reduce the number of startups pursuing IPOs. As a result, strategic acquisitions and corporate-backed exits are likely to play a larger role in the ecosystem. Collaboration between large corporates and startups is expected to remain a defining feature of Japan's VC market, supporting innovation while providing alternative pathways to scale and liquidity."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 84,
+      "page_headline": "VC activity evens out at a muted level",
+      "key_insight": {
+        "quote": "AI has gained a lot of attention, but the evolution has been a bit of a struggle in terms of applications to the different sectors. What we're seeing so far is an evolution very similar to what we saw in new energy. We're seeing many new companies being built up in different sectors, like robotics. Over the long term there will likely be a lot of competition among them. Then, later we'll see a few take leading positions. But right now, it's very competitive.",
+        "quote_author": "Zoe Shi, Partner, KPMG China"
+      },
+      "charts": {
+        "venture_financing": {
+          "chart_title": "Venture financing in Asia 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 6,000), except for 2025 Q4 which is explicitly provided in the text.",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 27.8, "deal_count": 3200 },
+            { "period": "2019_q2", "deal_value_billions": 22.0, "deal_count": 2750 },
+            { "period": "2019_q3", "deal_value_billions": 34.1, "deal_count": 3000 },
+            { "period": "2019_q4", "deal_value_billions": 45.4, "deal_count": 3300 },
+            { "period": "2020_q1", "deal_value_billions": 24.1, "deal_count": 3100 },
+            { "period": "2020_q2", "deal_value_billions": 26.0, "deal_count": 2850 },
+            { "period": "2020_q3", "deal_value_billions": 36.0, "deal_count": 3350 },
+            { "period": "2020_q4", "deal_value_billions": 48.8, "deal_count": 3800 },
+            { "period": "2021_q1", "deal_value_billions": 52.3, "deal_count": 4300 },
+            { "period": "2021_q2", "deal_value_billions": 46.6, "deal_count": 4200 },
+            { "period": "2021_q3", "deal_value_billions": 65.7, "deal_count": 4750 },
+            { "period": "2021_q4", "deal_value_billions": 70.5, "deal_count": 5200 },
+            { "period": "2022_q1", "deal_value_billions": 50.5, "deal_count": 5150 },
+            { "period": "2022_q2", "deal_value_billions": 36.1, "deal_count": 4200 },
+            { "period": "2022_q3", "deal_value_billions": 36.6, "deal_count": 4300 },
+            { "period": "2022_q4", "deal_value_billions": 32.8, "deal_count": 4100 },
+            { "period": "2023_q1", "deal_value_billions": 32.8, "deal_count": 4100 },
+            { "period": "2023_q2", "deal_value_billions": 30.1, "deal_count": 3450 },
+            { "period": "2023_q3", "deal_value_billions": 27.9, "deal_count": 3600 },
+            { "period": "2023_q4", "deal_value_billions": 23.8, "deal_count": 3700 },
+            { "period": "2024_q1", "deal_value_billions": 23.5, "deal_count": 3700 },
+            { "period": "2024_q2", "deal_value_billions": 21.7, "deal_count": 3300 },
+            { "period": "2024_q3", "deal_value_billions": 24.3, "deal_count": 3200 },
+            { "period": "2024_q4", "deal_value_billions": 24.1, "deal_count": 3300 },
+            { "period": "2025_q1", "deal_value_billions": 20.3, "deal_count": 3250 },
+            { "period": "2025_q2", "deal_value_billions": 16.8, "deal_count": 3000 },
+            { "period": "2025_q3", "deal_value_billions": 21.2, "deal_count": 3100 },
+            { "period": "2025_q4", "deal_value_billions": 21.4, "deal_count": 2474 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 85,
+      "page_headline": "Down rounds continue at a similar clip",
+      "charts": {
+        "median_deal_size_by_stage": {
+          "chart_title": "Median deal size ($M) by stage in Asia 2019-2025*",
+          "suggested_chart_type": "Multi-Line Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Values for 2019-2024 are high-fidelity visual estimates based on the $35M Y-axis scale. 2025 values are exact.",
+          "data": [
+            { "year": "2019", "pre_seed_seed": 0.7, "early_vc": 2.5, "later_vc": 6.2, "venture_growth": 21.0 },
+            { "year": "2020", "pre_seed_seed": 0.7, "early_vc": 2.8, "later_vc": 7.3, "venture_growth": 25.0 },
+            { "year": "2021", "pre_seed_seed": 0.9, "early_vc": 3.8, "later_vc": 9.5, "venture_growth": 32.0 },
+            { "year": "2022", "pre_seed_seed": 0.9, "early_vc": 3.7, "later_vc": 7.4, "venture_growth": 21.5 },
+            { "year": "2023", "pre_seed_seed": 0.9, "early_vc": 2.9, "later_vc": 6.1, "venture_growth": 14.5 },
+            { "year": "2024", "pre_seed_seed": 0.9, "early_vc": 3.2, "later_vc": 5.5, "venture_growth": 14.8 },
+            { "year": "2025", "pre_seed_seed": 1.2, "early_vc": 4.1, "later_vc": 6.2, "venture_growth": 14.1 }
+          ]
+        },
+        "up_flat_down_rounds": {
+          "chart_title": "Up, flat or down rounds in Asia 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "down": 10, "flat": 6, "up": 84 },
+            { "year": "2020", "down": 11, "flat": 6, "up": 83 },
+            { "year": "2021", "down": 9, "flat": 4, "up": 87 },
+            { "year": "2022", "down": 8, "flat": 4, "up": 88 },
+            { "year": "2023", "down": 10, "flat": 6, "up": 84 },
+            { "year": "2024", "down": 12, "flat": 6, "up": 82 },
+            { "year": "2025", "down": 11, "flat": 6, "up": 83 }
+          ]
+        }
+      }
+    },
+        {
+      "page_number": 86,
+      "page_headline": "Financing metrics make a marginal recovery",
+      "charts": {
+        "median_deal_size_by_series": {
+          "chart_title": "Median deal size ($M) by series in Asia 2019-2025*",
+          "suggested_chart_type": "Multi-Line Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Values for 2019-2024 are high-fidelity visual estimates based on the $70M Y-axis scale. 2025 values are exact.",
+          "data": [
+            { "year": "2019", "pre_seed": 0.2, "seed": 0.5, "angel": 0.3, "series_a": 4.0, "series_b": 13.0, "series_c": 25.0, "series_d_plus": 49.0 },
+            { "year": "2020", "pre_seed": 0.2, "seed": 0.6, "angel": 0.3, "series_a": 4.8, "series_b": 14.2, "series_c": 26.5, "series_d_plus": 45.0 },
+            { "year": "2021", "pre_seed": 0.3, "seed": 0.8, "angel": 0.4, "series_a": 7.5, "series_b": 15.5, "series_c": 31.0, "series_d_plus": 65.0 },
+            { "year": "2022", "pre_seed": 0.3, "seed": 0.9, "angel": 0.4, "series_a": 7.0, "series_b": 15.0, "series_c": 19.5, "series_d_plus": 45.0 },
+            { "year": "2023", "pre_seed": 0.3, "seed": 0.8, "angel": 0.4, "series_a": 6.9, "series_b": 14.0, "series_c": 19.5, "series_d_plus": 28.5 },
+            { "year": "2024", "pre_seed": 0.3, "seed": 0.9, "angel": 0.4, "series_a": 5.5, "series_b": 13.8, "series_c": 14.5, "series_d_plus": 23.0 },
+            { "year": "2025", "pre_seed": 0.3, "seed": 1.4, "angel": 0.4, "series_a": 6.6, "series_b": 13.8, "series_c": 22.5, "series_d_plus": 28.8 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 87,
+      "page_headline": "Valuations increase somewhat year-over-year",
+      "charts": {
+        "median_pre_money_valuation_by_series": {
+          "chart_title": "Median pre-money valuation ($M) by series in Asia 2019-2025*",
+          "suggested_chart_type": "Multi-Line Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Values for 2019-2024 are high-fidelity visual estimates based on the $700M Y-axis scale. 2025 values are exact.",
+          "data": [
+            { "year": "2019", "pre_seed": 1.0, "seed": 3.0, "angel": 2.0, "series_a": 12.0, "series_b": 55.0, "series_c": 130.0, "series_d_plus": 360.0 },
+            { "year": "2020", "pre_seed": 1.5, "seed": 3.5, "angel": 2.0, "series_a": 14.0, "series_b": 70.0, "series_c": 170.0, "series_d_plus": 385.0 },
+            { "year": "2021", "pre_seed": 2.0, "seed": 5.0, "angel": 2.5, "series_a": 20.0, "series_b": 98.0, "series_c": 260.0, "series_d_plus": 595.0 },
+            { "year": "2022", "pre_seed": 2.0, "seed": 4.5, "angel": 2.5, "series_a": 22.0, "series_b": 80.0, "series_c": 178.0, "series_d_plus": 480.0 },
+            { "year": "2023", "pre_seed": 2.0, "seed": 4.0, "angel": 2.5, "series_a": 20.0, "series_b": 75.0, "series_c": 200.0, "series_d_plus": 370.0 },
+            { "year": "2024", "pre_seed": 2.0, "seed": 4.5, "angel": 2.0, "series_a": 16.0, "series_b": 45.0, "series_c": 135.0, "series_d_plus": 265.0 },
+            { "year": "2025", "pre_seed": 2.1, "seed": 4.3, "angel": 2.2, "series_a": 18.5, "series_b": 45.5, "series_c": 161.4, "series_d_plus": 322.3 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 88,
+      "page_headline": "Midstage rounds gain in share of deal count",
+      "charts": {
+        "deal_share_by_series_count": {
+          "chart_title": "Deal share by series in Asia 2019-2025*, number of closed deals",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "pre_seed": 2, "seed": 38, "angel": 7, "series_a": 32, "series_b": 13, "series_c": 5, "series_d_plus": 3 },
+            { "year": "2020", "pre_seed": 2, "seed": 39, "angel": 6, "series_a": 28, "series_b": 14, "series_c": 7, "series_d_plus": 4 },
+            { "year": "2021", "pre_seed": 3, "seed": 37, "angel": 5, "series_a": 32, "series_b": 14, "series_c": 5, "series_d_plus": 4 },
+            { "year": "2022", "pre_seed": 4, "seed": 39, "angel": 6, "series_a": 30, "series_b": 13, "series_c": 5, "series_d_plus": 3 },
+            { "year": "2023", "pre_seed": 4, "seed": 41, "angel": 5, "series_a": 29, "series_b": 13, "series_c": 5, "series_d_plus": 3 },
+            { "year": "2024", "pre_seed": 4, "seed": 41, "angel": 5, "series_a": 29, "series_b": 13, "series_c": 5, "series_d_plus": 3 },
+            { "year": "2025", "pre_seed": 4, "seed": 34, "angel": 4, "series_a": 35, "series_b": 14, "series_c": 5, "series_d_plus": 4 }
+          ]
+        },
+        "deal_share_by_series_value": {
+          "chart_title": "Deal share by series in Asia 2019-2025*, VC invested ($B)",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "pre_seed": 0, "seed": 3, "angel": 0, "series_a": 21, "series_b": 29, "series_c": 16, "series_d_plus": 31 },
+            { "year": "2020", "pre_seed": 0, "seed": 2, "angel": 0, "series_a": 25, "series_b": 20, "series_c": 18, "series_d_plus": 35 },
+            { "year": "2021", "pre_seed": 0, "seed": 4, "angel": 0, "series_a": 20, "series_b": 26, "series_c": 20, "series_d_plus": 30 },
+            { "year": "2022", "pre_seed": 0, "seed": 5, "angel": 0, "series_a": 30, "series_b": 29, "series_c": 14, "series_d_plus": 22 },
+            { "year": "2023", "pre_seed": 0, "seed": 8, "angel": 0, "series_a": 28, "series_b": 30, "series_c": 16, "series_d_plus": 18 },
+            { "year": "2024", "pre_seed": 0, "seed": 9, "angel": 0, "series_a": 31, "series_b": 29, "series_c": 16, "series_d_plus": 15 },
+            { "year": "2025", "pre_seed": 0, "seed": 11, "angel": 1, "series_a": 26, "series_b": 23, "series_c": 19, "series_d_plus": 20 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 89,
+      "page_headline": "IT hardware surges in VC invested",
+      "charts": {
+        "financings_by_sector_count": {
+          "chart_title": "Venture financings by sector in Asia 2019-2025*, number of closed deals",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "energy": 1, "hc_devices_and_supplies": 5, "hc_services_and_systems": 4, "it_hardware": 9, "media": 4, "other": 6, "pharma_and_biotech": 5, "software": 27, "consumer_goods_and_services": 18, "commercial_products_and_services": 19, "transportation": 2 },
+            { "year": "2020", "energy": 1, "hc_devices_and_supplies": 4, "hc_services_and_systems": 5, "it_hardware": 11, "media": 3, "other": 6, "pharma_and_biotech": 6, "software": 27, "consumer_goods_and_services": 16, "commercial_products_and_services": 19, "transportation": 2 },
+            { "year": "2021", "energy": 1, "hc_devices_and_supplies": 5, "hc_services_and_systems": 4, "it_hardware": 11, "media": 3, "other": 6, "pharma_and_biotech": 6, "software": 27, "consumer_goods_and_services": 16, "commercial_products_and_services": 19, "transportation": 2 },
+            { "year": "2022", "energy": 2, "hc_devices_and_supplies": 5, "hc_services_and_systems": 4, "it_hardware": 13, "media": 2, "other": 5, "pharma_and_biotech": 5, "software": 26, "consumer_goods_and_services": 14, "commercial_products_and_services": 22, "transportation": 2 },
+            { "year": "2023", "energy": 2, "hc_devices_and_supplies": 5, "hc_services_and_systems": 3, "it_hardware": 13, "media": 2, "other": 7, "pharma_and_biotech": 5, "software": 22, "consumer_goods_and_services": 12, "commercial_products_and_services": 27, "transportation": 2 },
+            { "year": "2024", "energy": 2, "hc_devices_and_supplies": 5, "hc_services_and_systems": 3, "it_hardware": 13, "media": 2, "other": 6, "pharma_and_biotech": 5, "software": 21, "consumer_goods_and_services": 12, "commercial_products_and_services": 29, "transportation": 2 },
+            { "year": "2025", "energy": 3, "hc_devices_and_supplies": 5, "hc_services_and_systems": 4, "it_hardware": 13, "media": 1, "other": 5, "pharma_and_biotech": 6, "software": 21, "consumer_goods_and_services": 11, "commercial_products_and_services": 29, "transportation": 2 }
+          ]
+        },
+        "financings_by_sector_value": {
+          "chart_title": "Venture financings by sector in Asia 2019-2025*, VC invested ($B)",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "energy": 2, "hc_devices_and_supplies": 2, "hc_services_and_systems": 2, "it_hardware": 5, "media": 3, "other": 6, "pharma_and_biotech": 8, "software": 21, "consumer_goods_and_services": 18, "commercial_products_and_services": 17, "transportation": 16 },
+            { "year": "2020", "energy": 1, "hc_devices_and_supplies": 1, "hc_services_and_systems": 6, "it_hardware": 11, "media": 2, "other": 5, "pharma_and_biotech": 12, "software": 23, "consumer_goods_and_services": 15, "commercial_products_and_services": 17, "transportation": 7 },
+            { "year": "2021", "energy": 2, "hc_devices_and_supplies": 2, "hc_services_and_systems": 4, "it_hardware": 10, "media": 1, "other": 7, "pharma_and_biotech": 11, "software": 22, "consumer_goods_and_services": 17, "commercial_products_and_services": 18, "transportation": 6 },
+            { "year": "2022", "energy": 4, "hc_devices_and_supplies": 2, "hc_services_and_systems": 2, "it_hardware": 14, "media": 1, "other": 10, "pharma_and_biotech": 9, "software": 19, "consumer_goods_and_services": 11, "commercial_products_and_services": 20, "transportation": 8 },
+            { "year": "2023", "energy": 6, "hc_devices_and_supplies": 1, "hc_services_and_systems": 2, "it_hardware": 18, "media": 1, "other": 8, "pharma_and_biotech": 10, "software": 14, "consumer_goods_and_services": 8, "commercial_products_and_services": 25, "transportation": 7 },
+            { "year": "2024", "energy": 6, "hc_devices_and_supplies": 1, "hc_services_and_systems": 2, "it_hardware": 14, "media": 1, "other": 9, "pharma_and_biotech": 9, "software": 13, "consumer_goods_and_services": 10, "commercial_products_and_services": 24, "transportation": 11 },
+            { "year": "2025", "energy": 6, "hc_devices_and_supplies": 1, "hc_services_and_systems": 2, "it_hardware": 21, "media": 1, "other": 8, "pharma_and_biotech": 8, "software": 18, "consumer_goods_and_services": 5, "commercial_products_and_services": 28, "transportation": 2 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 90,
+      "page_headline": "First-time financings slide in tandem with CVC participation",
+      "charts": {
+        "corporate_participation": {
+          "chart_title": "Corporate participation in venture deals in Asia 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 2,000).",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 16.8, "deal_count": 880 },
+            { "period": "2019_q2", "deal_value_billions": 12.7, "deal_count": 800 },
+            { "period": "2019_q3", "deal_value_billions": 13.9, "deal_count": 890 },
+            { "period": "2019_q4", "deal_value_billions": 30.8, "deal_count": 930 },
+            { "period": "2020_q1", "deal_value_billions": 13.7, "deal_count": 870 },
+            { "period": "2020_q2", "deal_value_billions": 13.0, "deal_count": 960 },
+            { "period": "2020_q3", "deal_value_billions": 21.8, "deal_count": 1080 },
+            { "period": "2020_q4", "deal_value_billions": 31.5, "deal_count": 1330 },
+            { "period": "2021_q1", "deal_value_billions": 28.4, "deal_count": 1330 },
+            { "period": "2021_q2", "deal_value_billions": 24.6, "deal_count": 1480 },
+            { "period": "2021_q3", "deal_value_billions": 45.1, "deal_count": 1750 },
+            { "period": "2021_q4", "deal_value_billions": 43.9, "deal_count": 1850 },
+            { "period": "2022_q1", "deal_value_billions": 31.8, "deal_count": 1810 },
+            { "period": "2022_q2", "deal_value_billions": 19.7, "deal_count": 1510 },
+            { "period": "2022_q3", "deal_value_billions": 20.0, "deal_count": 1480 },
+            { "period": "2022_q4", "deal_value_billions": 20.5, "deal_count": 1380 },
+            { "period": "2023_q1", "deal_value_billions": 17.1, "deal_count": 1310 },
+            { "period": "2023_q2", "deal_value_billions": 17.9, "deal_count": 1150 },
+            { "period": "2023_q3", "deal_value_billions": 12.4, "deal_count": 1180 },
+            { "period": "2023_q4", "deal_value_billions": 13.3, "deal_count": 1220 },
+            { "period": "2024_q1", "deal_value_billions": 13.0, "deal_count": 1100 },
+            { "period": "2024_q2", "deal_value_billions": 11.3, "deal_count": 1010 },
+            { "period": "2024_q3", "deal_value_billions": 10.5, "deal_count": 1010 },
+            { "period": "2024_q4", "deal_value_billions": 13.4, "deal_count": 960 },
+            { "period": "2025_q1", "deal_value_billions": 12.8, "deal_count": 860 },
+            { "period": "2025_q2", "deal_value_billions": 7.9, "deal_count": 850 },
+            { "period": "2025_q3", "deal_value_millions": 11.1, "deal_count": 910 },
+            { "period": "2025_q4", "deal_value_billions": 13.3, "deal_count": 740 }
+          ]
+        },
+        "first_time_financings": {
+          "chart_title": "First-time venture financings of companies in Asia 2019-2025*",
+          "suggested_chart_type": "Composed Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 7,000).",
+          "data": [
+            { "year": "2019", "deal_value_billions": 13.6, "deal_count": 4400 },
+            { "year": "2020", "deal_value_billions": 18.9, "deal_count": 4400 },
+            { "year": "2021", "deal_value_billions": 31.6, "deal_count": 6400 },
+            { "year": "2022", "deal_value_billions": 25.3, "deal_count": 6300 },
+            { "year": "2023", "deal_value_billions": 18.7, "deal_count": 5200 },
+            { "year": "2024", "deal_value_billions": 17.0, "deal_count": 5150 },
+            { "year": "2025", "deal_value_billions": 14.8, "deal_count": 4250 }
+          ]
+        }
+      }
+    },
+        {
+      "page_number": 91,
+      "page_headline": "Exits tick up to a strong finish for 2025",
+      "charts": {
+        "venture_backed_exit_activity": {
+          "chart_title": "Venture-backed exit activity in Asia 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Exit value ($B) values are exact. Exit count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 350).",
+          "data": [
+            { "period": "2019_q1", "exit_value_billions": 47.7, "exit_count": 120 },
+            { "period": "2019_q2", "exit_value_billions": 12.0, "exit_count": 115 },
+            { "period": "2019_q3", "exit_value_billions": 33.5, "exit_count": 110 },
+            { "period": "2019_q4", "exit_value_billions": 30.8, "exit_count": 110 },
+            { "period": "2020_q1", "exit_value_billions": 32.8, "exit_count": 115 },
+            { "period": "2020_q2", "exit_value_billions": 26.6, "exit_count": 135 },
+            { "period": "2020_q3", "exit_value_billions": 39.5, "exit_count": 155 },
+            { "period": "2020_q4", "exit_value_billions": 136.4, "exit_count": 200 },
+            { "period": "2021_q1", "exit_value_billions": 54.2, "exit_count": 255 },
+            { "period": "2021_q2", "exit_value_billions": 127.2, "exit_count": 210 },
+            { "period": "2021_q3", "exit_value_billions": 70.6, "exit_count": 165 },
+            { "period": "2021_q4", "exit_value_billions": 48.6, "exit_count": 145 },
+            { "period": "2022_q1", "exit_value_billions": 131.2, "exit_count": 140 },
+            { "period": "2022_q2", "exit_value_billions": 50.9, "exit_count": 140 },
+            { "period": "2022_q3", "exit_value_billions": 42.2, "exit_count": 105 },
+            { "period": "2022_q4", "exit_value_billions": 74.7, "exit_count": 95 },
+            { "period": "2023_q1", "exit_value_billions": 15.6, "exit_count": 115 },
+            { "period": "2023_q2", "exit_value_billions": 20.8, "exit_count": 120 },
+            { "period": "2023_q3", "exit_value_billions": 14.1, "exit_count": 125 },
+            { "period": "2023_q4", "exit_value_billions": 14.1, "exit_count": 95 },
+            { "period": "2024_q1", "exit_value_billions": 11.2, "exit_count": 110 },
+            { "period": "2024_q2", "exit_value_billions": 19.3, "exit_count": 105 },
+            { "period": "2024_q3", "exit_value_billions": 12.5, "exit_count": 105 },
+            { "period": "2024_q4", "exit_value_billions": 19.2, "exit_count": 115 },
+            { "period": "2025_q1", "exit_value_billions": 14.5, "exit_count": 110 },
+            { "period": "2025_q2", "exit_value_billions": 13.5, "exit_count": 110 },
+            { "period": "2025_q3", "exit_value_billions": 17.6, "exit_count": 105 },
+            { "period": "2025_q4", "exit_value_billions": 27.6, "exit_count": 125 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 92,
+      "page_headline": "Acquisitions stay flat while IPOs hold the line for exit value",
+      "charts": {
+        "exit_activity_by_type_count": {
+          "chart_title": "Venture-backed exit activity (#) by type in Asia 2019-2025*",
+          "suggested_chart_type": "Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the 800 Y-axis scale.",
+          "data": [
+            { "year": "2019", "acquisition": 310, "buyout": 40, "public_listing": 130 },
+            { "year": "2020", "acquisition": 380, "buyout": 40, "public_listing": 180 },
+            { "year": "2021", "acquisition": 500, "buyout": 60, "public_listing": 240 },
+            { "year": "2022", "acquisition": 320, "buyout": 30, "public_listing": 120 },
+            { "year": "2023", "acquisition": 310, "buyout": 25, "public_listing": 110 },
+            { "year": "2024", "acquisition": 300, "buyout": 25, "public_listing": 105 },
+            { "year": "2025", "acquisition": 320, "buyout": 25, "public_listing": 110 }
+          ]
+        },
+        "exit_activity_by_type_value": {
+          "chart_title": "Venture-backed exit activity ($B) by type in Asia 2019-2025*",
+          "suggested_chart_type": "Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the $300B Y-axis scale.",
+          "data": [
+            { "year": "2019", "acquisition": 20, "buyout": 5, "public_listing": 100 },
+            { "year": "2020", "acquisition": 35, "buyout": 5, "public_listing": 195 },
+            { "year": "2021", "acquisition": 65, "buyout": 15, "public_listing": 225 },
+            { "year": "2022", "acquisition": 40, "buyout": 5, "public_listing": 260 },
+            { "year": "2023", "acquisition": 20, "buyout": 5, "public_listing": 40 },
+            { "year": "2024", "acquisition": 15, "buyout": 3, "public_listing": 45 },
+            { "year": "2025", "acquisition": 15, "buyout": 5, "public_listing": 53 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 93,
+      "page_headline": "Fundraising hits an absolute lull",
+      "charts": {
+        "venture_fundraising": {
+          "chart_title": "Venture fundraising in Asia 2019-2025*",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Capital raised ($B) values are exact. Fund count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 1,600).",
+          "data": [
+            { "year": "2019", "capital_raised_billions": 71.9, "fund_count": 780 },
+            { "year": "2020", "capital_raised_billions": 75.3, "fund_count": 820 },
+            { "year": "2021", "capital_raised_billions": 127.3, "fund_count": 1280 },
+            { "year": "2022", "capital_raised_billions": 95.8, "fund_count": 1080 },
+            { "year": "2023", "capital_raised_billions": 67.4, "fund_count": 780 },
+            { "year": "2024", "capital_raised_billions": 45.4, "fund_count": 510 },
+            { "year": "2025", "capital_raised_billions": 33.7, "fund_count": 290 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 94,
+      "page_headline": "A healthy mix of sizes continues",
+      "charts": {
+        "fundraising_by_size_count": {
+          "chart_title": "Venture fundraising (#) by size in Asia 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "1b_plus": 2, "500m_1b": 3, "250m_500m": 6, "100m_250m": 18, "50m_100m": 22, "under_50m": 49 },
+            { "year": "2020", "1b_plus": 1, "500m_1b": 3, "250m_500m": 7, "100m_250m": 18, "50m_100m": 20, "under_50m": 51 },
+            { "year": "2021", "1b_plus": 1, "500m_1b": 3, "250m_500m": 8, "100m_250m": 19, "50m_100m": 22, "under_50m": 47 },
+            { "year": "2022", "1b_plus": 2, "500m_1b": 3, "250m_500m": 11, "100m_250m": 23, "50m_100m": 21, "under_50m": 40 },
+            { "year": "2023", "1b_plus": 1, "500m_1b": 4, "250m_500m": 8, "100m_250m": 21, "50m_100m": 23, "under_50m": 43 },
+            { "year": "2024", "1b_plus": 1, "500m_1b": 3, "250m_500m": 7, "100m_250m": 20, "50m_100m": 22, "under_50m": 47 },
+            { "year": "2025", "1b_plus": 3, "500m_1b": 5, "250m_500m": 10, "100m_250m": 23, "50m_100m": 24, "under_50m": 35 }
+          ]
+        },
+        "first_time_vs_follow_on_count": {
+          "chart_title": "First-time vs. follow-on venture funds (#) in Asia 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "first_time": 44, "follow_on": 56 },
+            { "year": "2020", "first_time": 43, "follow_on": 57 },
+            { "year": "2021", "first_time": 47, "follow_on": 53 },
+            { "year": "2022", "first_time": 39, "follow_on": 61 },
+            { "year": "2023", "first_time": 36, "follow_on": 64 },
+            { "year": "2024", "first_time": 38, "follow_on": 62 },
+            { "year": "2025", "first_time": 35, "follow_on": 65 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 95,
+      "page_headline": "India sees a consistently healthy flow of VC to close 2025",
+      "key_insight": {
+        "quote": "2025 was a very stable year for the VC market in India. There was no euphoria or big bank tickets. But what we saw was continued optimism in the country and solid levels of investment. That's a trend that's likely going to continue into 2025. The public listings we saw in 2025 are also encouraging, although the real litmus test for them is going to be how they perform over the next year or 18 months.",
+        "quote_author": "Nitish Poddar, Partner and National Leader, Private Equity, KPMG in India"
+      },
+      "charts": {
+        "venture_financing_india": {
+          "chart_title": "Venture financing in India 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 900).",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 3.0, "deal_count": 360 },
+            { "period": "2019_q2", "deal_value_billions": 3.6, "deal_count": 340 },
+            { "period": "2019_q3", "deal_value_billions": 3.4, "deal_count": 340 },
+            { "period": "2019_q4", "deal_value_billions": 3.4, "deal_count": 340 },
+            { "period": "2020_q1", "deal_value_billions": 4.1, "deal_count": 360 },
+            { "period": "2020_q2", "deal_value_billions": 2.2, "deal_count": 300 },
+            { "period": "2020_q3", "deal_value_billions": 3.2, "deal_count": 320 },
+            { "period": "2020_q4", "deal_value_billions": 4.1, "deal_count": 400 },
+            { "period": "2021_q1", "deal_value_billions": 4.9, "deal_count": 450 },
+            { "period": "2021_q2", "deal_value_billions": 6.2, "deal_count": 440 },
+            { "period": "2021_q3", "deal_value_billions": 14.7, "deal_count": 550 },
+            { "period": "2021_q4", "deal_value_billions": 10.5, "deal_count": 670 },
+            { "period": "2022_q1", "deal_value_billions": 10.4, "deal_count": 680 },
+            { "period": "2022_q2", "deal_value_billions": 7.6, "deal_count": 520 },
+            { "period": "2022_q3", "deal_value_billions": 3.4, "deal_count": 440 },
+            { "period": "2022_q4", "deal_value_billions": 3.2, "deal_count": 410 },
+            { "period": "2023_q1", "deal_value_billions": 3.1, "deal_count": 390 },
+            { "period": "2023_q2", "deal_value_billions": 3.0, "deal_count": 340 },
+            { "period": "2023_q3", "deal_value_billions": 3.4, "deal_count": 320 },
+            { "period": "2023_q4", "deal_value_billions": 4.2, "deal_count": 330 },
+            { "period": "2024_q1", "deal_value_billions": 3.2, "deal_count": 340 },
+            { "period": "2024_q2", "deal_value_billions": 4.3, "deal_count": 280 },
+            { "period": "2024_q3", "deal_value_billions": 3.9, "deal_count": 260 },
+            { "period": "2024_q4", "deal_value_billions": 2.0, "deal_count": 270 },
+            { "period": "2025_q1", "deal_value_billions": 3.2, "deal_count": 290 },
+            { "period": "2025_q2", "deal_value_billions": 5.0, "deal_count": 280 },
+            { "period": "2025_q3", "deal_value_billions": 6.9, "deal_count": 300 },
+            { "period": "2025_q4", "deal_value_billions": 6.1, "deal_count": 280 }
+          ]
+        }
+      }
+    },
+        {
+      "page_number": 96,
+      "page_headline": "VC activity compresses further",
+      "key_insight": {
+        "quote": "We expect the IPO market will continue to be a major channel for exit in Hong Kong and China in 2026. The pipeline in Hong Kong is particularly strong, which bodes well even though companies are waiting for the best window of opportunity. On the opposite end of the spectrum, we're also seeing a good flow of A rounds and earlier stage investments. That early stage deal activity is positive and should help drive more interest and investment, particularly once macroeconomic conditions improve in China.",
+        "quote_author": "Angela Chiu, Director, KPMG China"
+      },
+      "charts": {
+        "venture_financing_china": {
+          "chart_title": "Venture financing in China 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($B) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 3,000).",
+          "data": [
+            { "period": "2019_q1", "deal_value_billions": 17.4, "deal_count": 1450 },
+            { "period": "2019_q2", "deal_value_billions": 14.3, "deal_count": 1350 },
+            { "period": "2019_q3", "deal_value_billions": 26.3, "deal_count": 1450 },
+            { "period": "2019_q4", "deal_value_billions": 27.7, "deal_count": 1600 },
+            { "period": "2020_q1", "deal_value_billions": 12.5, "deal_count": 1150 },
+            { "period": "2020_q2", "deal_value_billions": 19.1, "deal_count": 1400 },
+            { "period": "2020_q3", "deal_value_billions": 26.2, "deal_count": 1650 },
+            { "period": "2020_q4", "deal_value_billions": 38.4, "deal_count": 2000 },
+            { "period": "2021_q1", "deal_value_billions": 34.4, "deal_count": 2100 },
+            { "period": "2021_q2", "deal_value_billions": 30.5, "deal_count": 2100 },
+            { "period": "2021_q3", "deal_value_billions": 37.6, "deal_count": 2400 },
+            { "period": "2021_q4", "deal_value_billions": 46.3, "deal_count": 2500 },
+            { "period": "2022_q1", "deal_value_billions": 27.1, "deal_count": 2350 },
+            { "period": "2022_q2", "deal_value_billions": 18.1, "deal_count": 1850 },
+            { "period": "2022_q3", "deal_value_billions": 25.0, "deal_count": 2150 },
+            { "period": "2022_q4", "deal_value_billions": 21.7, "deal_count": 2250 },
+            { "period": "2023_q1", "deal_value_billions": 18.1, "deal_count": 2150 },
+            { "period": "2023_q2", "deal_value_billions": 16.5, "deal_count": 1800 },
+            { "period": "2023_q3", "deal_value_billions": 15.3, "deal_count": 1950 },
+            { "period": "2023_q4", "deal_value_billions": 16.3, "deal_count": 2050 },
+            { "period": "2024_q1", "deal_value_billions": 15.6, "deal_count": 1850 },
+            { "period": "2024_q2", "deal_value_billions": 8.5, "deal_count": 1700 },
+            { "period": "2024_q3", "deal_value_billions": 12.0, "deal_count": 1600 },
+            { "period": "2024_q4", "deal_value_billions": 14.2, "deal_count": 1800 },
+            { "period": "2025_q1", "deal_value_billions": 13.4, "deal_count": 1650 },
+            { "period": "2025_q2", "deal_value_billions": 7.2, "deal_count": 1600 },
+            { "period": "2025_q3", "deal_value_billions": 12.2, "deal_count": 1750 },
+            { "period": "2025_q4", "deal_value_billions": 10.8, "deal_count": 1200 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 97,
+      "page_headline": "2025 ends on a high note",
+      "key_insight": {
+        "quote": "Following a slow start to the year, we saw startup investment in Australia begin to build momentum through 2025 with the fourth quarter delivering over US$1 billion of deals. This is the first time we've seen continuous investment at this level since late 2022. Alongside global interest in AI investment, Australia continues to see a solid pipeline of deep tech, medtech and defencetech startups. Founders will be hoping that, regardless of the global geopolitical and macro-economic environment, investment will continue to flow in 2026.",
+        "quote_author": "Amanda Price, Partner & Head of KPMG High Growth Ventures, KPMG Australia"
+      },
+      "charts": {
+        "venture_financing_australia": {
+          "chart_title": "Venture financing in Australia 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 300).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 375.3, "deal_count": 175 },
+            { "period": "2019_q2", "deal_value_millions": 314.1, "deal_count": 105 },
+            { "period": "2019_q3", "deal_value_millions": 527.6, "deal_count": 135 },
+            { "period": "2019_q4", "deal_value_millions": 553.6, "deal_count": 130 },
+            { "period": "2020_q1", "deal_value_millions": 844.6, "deal_count": 190 },
+            { "period": "2020_q2", "deal_value_millions": 434.5, "deal_count": 125 },
+            { "period": "2020_q3", "deal_value_millions": 408.9, "deal_count": 120 },
+            { "period": "2020_q4", "deal_value_millions": 596.4, "deal_count": 155 },
+            { "period": "2021_q1", "deal_value_millions": 791.9, "deal_count": 220 },
+            { "period": "2021_q2", "deal_value_millions": 1141.5, "deal_count": 225 },
+            { "period": "2021_q3", "deal_value_millions": 2027.1, "deal_count": 195 },
+            { "period": "2021_q4", "deal_value_millions": 1346.3, "deal_count": 235 },
+            { "period": "2022_q1", "deal_value_millions": 1814.8, "deal_count": 250 },
+            { "period": "2022_q2", "deal_value_millions": 1285.5, "deal_count": 195 },
+            { "period": "2022_q3", "deal_value_millions": 701.5, "deal_count": 160 },
+            { "period": "2022_q4", "deal_value_millions": 1104.2, "deal_count": 170 },
+            { "period": "2023_q1", "deal_value_millions": 518.7, "deal_count": 185 },
+            { "period": "2023_q2", "deal_value_millions": 654.7, "deal_count": 150 },
+            { "period": "2023_q3", "deal_value_millions": 702.4, "deal_count": 135 },
+            { "period": "2023_q4", "deal_value_millions": 848.8, "deal_count": 160 },
+            { "period": "2024_q1", "deal_value_millions": 761.1, "deal_count": 135 },
+            { "period": "2024_q2", "deal_value_millions": 933.8, "deal_count": 145 },
+            { "period": "2024_q3", "deal_value_millions": 647.2, "deal_count": 115 },
+            { "period": "2024_q4", "deal_value_millions": 846.8, "deal_count": 135 },
+            { "period": "2025_q1", "deal_value_millions": 776.3, "deal_count": 125 },
+            { "period": "2025_q2", "deal_value_millions": 558.6, "deal_count": 115 },
+            { "period": "2025_q3", "deal_value_millions": 821.7, "deal_count": 110 },
+            { "period": "2025_q4", "deal_value_millions": 1048.4, "deal_count": 85 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 98,
+      "page_headline": "VC financing levels resurge",
+      "key_insight": {
+        "quote": "In 2026, we expect to see VC investment to grow in Japan, especially in the deeptech sector. That extends well beyond AI, to areas like biotechnology, advanced technologies, and solutions aimed at supporting the next phase decarbonization. We also expect an increasing focus on building resilient supply chains for critical strategic goods, like semiconductors, batteries and pharmaceuticals. This will likely lead to VC investments aimed at establishing domestic industries and infrastructure and to VC investments in related areas like logistics management.",
+        "quote_author": "Hiroshi Abe, Executive Board Member, Partner, KPMG in Japan"
+      },
+      "charts": {
+        "venture_financing_japan": {
+          "chart_title": "Venture financing in Japan 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 450).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 1064.4, "deal_count": 290 },
+            { "period": "2019_q2", "deal_value_millions": 1086.0, "deal_count": 280 },
+            { "period": "2019_q3", "deal_value_millions": 1449.4, "deal_count": 290 },
+            { "period": "2019_q4", "deal_value_millions": 1268.4, "deal_count": 320 },
+            { "period": "2020_q1", "deal_value_millions": 1211.3, "deal_count": 320 },
+            { "period": "2020_q2", "deal_value_millions": 1163.1, "deal_count": 290 },
+            { "period": "2020_q3", "deal_value_millions": 1348.5, "deal_count": 295 },
+            { "period": "2020_q4", "deal_value_millions": 1817.6, "deal_count": 315 },
+            { "period": "2021_q1", "deal_value_millions": 1399.5, "deal_count": 370 },
+            { "period": "2021_q2", "deal_value_millions": 1768.4, "deal_count": 375 },
+            { "period": "2021_q3", "deal_value_millions": 1915.3, "deal_count": 375 },
+            { "period": "2021_q4", "deal_value_millions": 1635.8, "deal_count": 410 },
+            { "period": "2022_q1", "deal_value_millions": 1463.0, "deal_count": 395 },
+            { "period": "2022_q2", "deal_value_millions": 1605.6, "deal_count": 350 },
+            { "period": "2022_q3", "deal_value_millions": 1489.5, "deal_count": 350 },
+            { "period": "2022_q4", "deal_value_millions": 1021.8, "deal_count": 300 },
+            { "period": "2023_q1", "deal_value_millions": 1278.9, "deal_count": 315 },
+            { "period": "2023_q2", "deal_value_millions": 1747.3, "deal_count": 330 },
+            { "period": "2023_q3", "deal_value_millions": 1237.7, "deal_count": 315 },
+            { "period": "2023_q4", "deal_value_millions": 1162.4, "deal_count": 325 },
+            { "period": "2024_q1", "deal_value_millions": 917.7, "deal_count": 350 },
+            { "period": "2024_q2", "deal_value_millions": 1191.8, "deal_count": 315 },
+            { "period": "2024_q3", "deal_value_millions": 1996.9, "deal_count": 360 },
+            { "period": "2024_q4", "deal_value_millions": 1073.7, "deal_count": 305 },
+            { "period": "2025_q1", "deal_value_millions": 1153.6, "deal_count": 300 },
+            { "period": "2025_q2", "deal_value_millions": 1599.0, "deal_count": 335 },
+            { "period": "2025_q3", "deal_value_millions": 1217.6, "deal_count": 285 },
+            { "period": "2025_q4", "deal_value_millions": 1877.8, "deal_count": 320 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 99,
+      "page_headline": "A slew of sectors rake in top deals for Q4 2025",
+      "charts": {
+        "top_10_financings_asia_pacific": {
+          "chart_title": "Top 10 financings in Q4'25 in Asia-Pacific",
+          "suggested_chart_type": "Data Table / Map Leaderboard",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "data": [
+            { "rank": 1, "company_name": "DeepBlue Auto", "amount_millions": 867.2, "city": "Chongqing", "country": "china", "sector": "automotive", "stage": "series_c" },
+            { "rank": 2, "company_name": "PhonePe", "amount_millions": 600.0, "city": "Bengaluru", "country": "india", "sector": "fintech", "stage": "late_stage_vc" },
+            { "rank": 2, "company_name": "Neolix Technologies", "amount_millions": 600.0, "city": "Beijing", "country": "china", "sector": "industrials", "stage": "series_d" },
+            { "rank": 4, "company_name": "Firmus Technologies", "amount_millions": 541.1, "city": "Launceston", "country": "australia", "sector": "ai_&_ml", "stage": "late_stage_vc" },
+            { "rank": 5, "company_name": "Zepto Marketplace", "amount_millions": 450.0, "city": "Bengaluru", "country": "india", "sector": "e_commerce", "stage": "series_h" },
+            { "rank": 6, "company_name": "Lenskart", "amount_millions": 380.1, "city": "New Delhi", "country": "india", "sector": "e_commerce", "stage": "late_stage_vc" },
+            { "rank": 7, "company_name": "Space Pioneer Technology", "amount_millions": 351.0, "city": "Beijing", "country": "china", "sector": "spacetech", "stage": "series_d" },
+            { "rank": 8, "company_name": "Airwallex", "amount_millions": 330.0, "city": "Singapore", "country": "singapore", "sector": "fintech", "stage": "series_g" },
+            { "rank": 9, "company_name": "GalBot", "amount_millions": 300.0, "city": "Beijing", "country": "china", "sector": "robotics", "stage": "early_stage_vc" },
+            { "rank": 10, "company_name": "Juxie Intelligent", "amount_millions": 281.35, "city": "Wuxi", "country": "china", "sector": "robotics", "stage": "series_c" }
+          ]
+        }
+      }
+    }
+
+
+  ]
+}
+

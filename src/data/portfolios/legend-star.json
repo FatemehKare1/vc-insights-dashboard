@@ -1,0 +1,82 @@
+[
+  {
+    "data": "legendstar.com.cn",
+    "section": "company_name"
+  },
+  {
+    "data": {
+      "city": "Not found",
+      "name": "Not found",
+      "country": "Not found",
+      "founded_year": "Not found"
+    },
+    "section": "company_basic_details"
+  },
+  {
+    "data": {
+      "Team Members": {
+        "value": "18",
+        "details": "Lu Gang & more"
+      },
+      "Portfolio IPOs": {
+        "value": "35",
+        "details": "Pony.ai & more"
+      },
+      "Portfolio Count": {
+        "value": "217",
+        "details": "Megvii & more"
+      },
+      "Portfolio Unicorns": {
+        "value": "4",
+        "details": "Megvii & more"
+      },
+      "Top Rounds of Entry": {
+        "value": "Series A",
+        "details": "and 6 more"
+      },
+      "Portfolio Soonicorns": {
+        "value": "10",
+        "details": "AISpeech & more"
+      },
+      "Portfolio Acquisitions": {
+        "value": "13",
+        "details": "STX Entertainment & more"
+      },
+      "Deals in last 12 months": {
+        "value": "0",
+        "details": ""
+      },
+      "Top Sectors in Portfolio": {
+        "value": "Enterprise Applications",
+        "details": "and 39 more"
+      },
+      "Top Locations in Portfolio": {
+        "value": "China",
+        "details": "and 11 more"
+      }
+    },
+    "section": "key_metrics"
+  },
+  {
+    "data": {
+      "sectors": [],
+      "description": null,
+      "subsidiaries": [],
+      "company_details": {
+        "social": [
+          "http://linkedin.com/company/legend-star"
+        ],
+        "website": "https://www.legendstar.com.cn/",
+        "key_people": [],
+        "first_covered_on": null
+      },
+      "mobile_applications": [],
+      "associated_legal_entities": []
+    },
+    "section": "about"
+  },
+  {
+    "data": [],
+    "section": "portfolio_leaderboard"
+  }
+]

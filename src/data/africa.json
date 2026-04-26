@@ -1,0 +1,198 @@
+{
+  "report_info": {
+    "title": "Venture Pulse Q4 2025: Africa Regional Analysis",
+    "region": "Africa",
+    "source_document": "Venture Pulse Q4 2025",
+    "processed_pages": "Pages 75-80"
+  },
+  "pages": [
+    {
+"page_number": 75,
+"page_headline": "In Q4'25, African VC-backed companies raised $142.05 million across 55 deals",
+"executive_summary": {
+"title": "Africa Region Overview",
+"sections": [
+{
+"content": "In Q4'25, African VC-backed companies raised $142.05 million across 55 deals"
+}
+]
+},
+"charts": {}
+}
+,
+    {
+      "page_number": 76,
+      "page_headline": "VC markets across Africa continue to evolve, led by fintech",
+      "key_insight": {
+        "quote": "Fintech continued to drive the majority of the VC investment in different parts of Africa, but other sectors slowly gaining more attention. Climatetech is a major one of these, partly because it aligns well with fintech given opportunities like monetizing carbon credits. Another is healthtech. And that's an area where there is a lot of room for growth because healthcare in Africa is very expensive and organizations and investors are increasingly looking at how to make it more affordable and to expand access to more people.",
+        "quote_author": "Sandeep Main Partner, Tax and Regulatory Services Head of Private Enterprise KPMG in Africa"
+      },
+      "executive_summary": {
+        "title": "VC markets across Africa continue to evolve, led by fintech",
+        "sections": [
+          {
+            "content": "Africa continues to gain visibility on the radar of global venture capital investors, particularly in fintech and broader technology enablement. While VC investment activity in 2025 remained relatively soft, this largely reflected macroeconomic pressures and political uncertainty stemming from elections across several key jurisdictions. Despite near-term headwinds, the long-term outlook for the region remains constructive, with VC investment expected to increase as local ecosystems deepen and regional venture hubs continue to mature."
+          },
+          {
+            "subtitle": "Payments remain at the center of VC activity",
+            "content": "Within Africa, payments solutions attracted the majority of VC interest during 2025, complemented by strong investor appetite for adjacent financial services such as digital credit and lending platforms. Payments startups continued to emerge across the continent, often focused initially on domestic use cases. In more mature payments markets most notably Nigeria and Kenya - leading platforms increasingly prioritized regional expansion, leveraging scale to serve cross-border markets and capture broader pan-African opportunities."
+          },
+          {
+            "subtitle": "Political stability causing some uncertainty",
+            "content": "Political stability is a key concern for VC investors in Africa given the degree to which political shifts can drive major changes to legislation and domestic policies. In Kenya for example, the government changed several tax provisions at the very end of 2024 to establish a significant economic presence tax and a minimum top-up tax for multinational enterprises, and to introduce withholding taxes on payments in the digital marketplace; this may have affected inbound investment, particularly as the new rules were developed.5 Similarly, prospective government changes in other jurisdictions are likely to keep some VC investors in wait-and-see mode until they have more certainty as to future policy directions."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 77,
+      "page_headline": "VC markets across Africa continue to evolve, led by fintech, cont'd.",
+      "executive_summary": {
+        "title": "VC markets across Africa continue to evolve, led by fintech, cont'd.",
+        "sections": [
+          {
+            "subtitle": "Climatetech attracting particular attention from VC investors",
+            "content": "Africa has been affected quite dramatically by the impact of global climate change, including suffering changes to agricultural patterns, crop growth and yields, and weather patterns despite not being a major contributor to CO2 emissions. These impacts have led to increasing awareness and growing interest from VC investors in Africa's nascent climatetech space."
+          },
+          {
+            "subtitle": "Innovation sandboxes helping to drive innovation",
+            "content": "Within Africa, several jurisdictions are using sandbox approaches to encourage innovation in different fields. These sandboxes primarily act as incubators, giving entrepreneurs and startups critical support as they work to develop and test their ideas, products, and services."
+          },
+          {
+            "subtitle": "Trends to watch for in Q1'26",
+            "content": "Looking ahead to 2026, VC investment activity and M&A across Africa are expected to recover gradually over the course of the year. While payments platforms are likely to continue attracting the largest share of venture capital, investor interest is also expected to broaden into adjacent and emerging sectors. In particular, climatetech, green financing, and insurtech are anticipated to see increased investment as sustainability and risk management rise in importance across the region. Healthtech is also expected to gain momentum, especially solutions focused on expanding access to medical care and improving healthcare delivery efficiency. In parallel, AI is increasingly on the radar of VC investors in Africa, with early interest centered on automation, operational efficiency, and business enablement use cases that address local market needs and scalability challenges."
+          }
+        ]
+      },
+      "charts": {}
+    },
+    {
+      "page_number": 78,
+      "page_headline": "After surges of VC invested in H1 2025, a quieter H2 2025",
+      "charts": {
+        "venture_financing": {
+          "chart_title": "Venture financing in Southern Africa 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 60).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 23.6, "deal_count": 33 },
+            { "period": "2019_q2", "deal_value_millions": 18.3, "deal_count": 14 },
+            { "period": "2019_q3", "deal_value_millions": 18.8, "deal_count": 26 },
+            { "period": "2019_q4", "deal_value_millions": 30.0, "deal_count": 20 },
+            { "period": "2020_q1", "deal_value_millions": 160.3, "deal_count": 29 },
+            { "period": "2020_q2", "deal_value_millions": 80.7, "deal_count": 23 },
+            { "period": "2020_q3", "deal_value_millions": 52.1, "deal_count": 24 },
+            { "period": "2020_q4", "deal_value_millions": 56.6, "deal_count": 25 },
+            { "period": "2021_q1", "deal_value_millions": 33.1, "deal_count": 40 },
+            { "period": "2021_q2", "deal_value_millions": 10.9, "deal_count": 28 },
+            { "period": "2021_q3", "deal_value_millions": 68.8, "deal_count": 34 },
+            { "period": "2021_q4", "deal_value_millions": 230.6, "deal_count": 37 },
+            { "period": "2022_q1", "deal_value_millions": 114.2, "deal_count": 52 },
+            { "period": "2022_q2", "deal_value_millions": 284.0, "deal_count": 44 },
+            { "period": "2022_q3", "deal_value_millions": 72.2, "deal_count": 28 },
+            { "period": "2022_q4", "deal_value_millions": 187.5, "deal_count": 27 },
+            { "period": "2023_q1", "deal_value_millions": 167.2, "deal_count": 40 },
+            { "period": "2023_q2", "deal_value_millions": 56.9, "deal_count": 18 },
+            { "period": "2023_q3", "deal_value_millions": 92.8, "deal_count": 20 },
+            { "period": "2023_q4", "deal_value_millions": 20.8, "deal_count": 28 },
+            { "period": "2024_q1", "deal_value_millions": 234.1, "deal_count": 22 },
+            { "period": "2024_q2", "deal_value_millions": 55.0, "deal_count": 15 },
+            { "period": "2024_q3", "deal_value_millions": 18.1, "deal_count": 22 },
+            { "period": "2024_q4", "deal_value_millions": 13.6, "deal_count": 12 },
+            { "period": "2025_q1", "deal_value_millions": 88.7, "deal_count": 18 },
+            { "period": "2025_q2", "deal_value_millions": 112.5, "deal_count": 15 },
+            { "period": "2025_q3", "deal_value_millions": 40.0, "deal_count": 15 },
+            { "period": "2025_q4", "deal_value_millions": 33.5, "deal_count": 8 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 79,
+      "page_headline": "Deal flow slows at close of year",
+      "charts": {
+        "venture_financing": {
+          "chart_title": "Venture financing in West Africa 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 120).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 49.2, "deal_count": 35 },
+            { "period": "2019_q2", "deal_value_millions": 32.3, "deal_count": 20 },
+            { "period": "2019_q3", "deal_value_millions": 107.8, "deal_count": 24 },
+            { "period": "2019_q4", "deal_value_millions": 204.8, "deal_count": 27 },
+            { "period": "2020_q1", "deal_value_millions": 84.7, "deal_count": 52 },
+            { "period": "2020_q2", "deal_value_millions": 49.0, "deal_count": 27 },
+            { "period": "2020_q3", "deal_value_millions": 17.9, "deal_count": 26 },
+            { "period": "2020_q4", "deal_value_millions": 46.0, "deal_count": 21 },
+            { "period": "2021_q1", "deal_value_millions": 240.8, "deal_count": 76 },
+            { "period": "2021_q2", "deal_value_millions": 34.2, "deal_count": 29 },
+            { "period": "2021_q3", "deal_value_millions": 820.8, "deal_count": 57 },
+            { "period": "2021_q4", "deal_value_millions": 300.0, "deal_count": 56 },
+            { "period": "2022_q1", "deal_value_millions": 330.5, "deal_count": 97 },
+            { "period": "2022_q2", "deal_value_millions": 116.4, "deal_count": 60 },
+            { "period": "2022_q3", "deal_value_millions": 149.5, "deal_count": 52 },
+            { "period": "2022_q4", "deal_value_millions": 43.2, "deal_count": 52 },
+            { "period": "2023_q1", "deal_value_millions": 102.0, "deal_count": 54 },
+            { "period": "2023_q2", "deal_value_millions": 105.9, "deal_count": 26 },
+            { "period": "2023_q3", "deal_value_millions": 145.7, "deal_count": 39 },
+            { "period": "2023_q4", "deal_value_millions": 56.0, "deal_count": 36 },
+            { "period": "2024_q1", "deal_value_millions": 175.1, "deal_count": 37 },
+            { "period": "2024_q2", "deal_value_millions": 26.4, "deal_count": 21 },
+            { "period": "2024_q3", "deal_value_millions": 64.1, "deal_count": 18 },
+            { "period": "2024_q4", "deal_value_millions": 45.9, "deal_count": 16 },
+            { "period": "2025_q1", "deal_value_millions": 92.7, "deal_count": 29 },
+            { "period": "2025_q2", "deal_value_millions": 86.4, "deal_count": 22 },
+            { "period": "2025_q3", "deal_value_millions": 23.8, "deal_count": 28 },
+            { "period": "2025_q4", "deal_value_millions": 3.5, "deal_count": 4 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 80,
+      "page_headline": "VC activity trudges along throughout a slower 2025",
+      "charts": {
+        "venture_financing": {
+          "chart_title": "Venture financing in East Africa 2019-Q4'25",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Deal value ($M) values are exact. Deal count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 70).",
+          "data": [
+            { "period": "2019_q1", "deal_value_millions": 101.3, "deal_count": 35 },
+            { "period": "2019_q2", "deal_value_millions": 15.1, "deal_count": 13 },
+            { "period": "2019_q3", "deal_value_millions": 83.4, "deal_count": 20 },
+            { "period": "2019_q4", "deal_value_millions": 60.3, "deal_count": 17 },
+            { "period": "2020_q1", "deal_value_millions": 100.2, "deal_count": 47 },
+            { "period": "2020_q2", "deal_value_millions": 15.2, "deal_count": 22 },
+            { "period": "2020_q3", "deal_value_millions": 16.9, "deal_count": 21 },
+            { "period": "2020_q4", "deal_value_millions": 55.5, "deal_count": 21 },
+            { "period": "2021_q1", "deal_value_millions": 34.8, "deal_count": 50 },
+            { "period": "2021_q2", "deal_value_millions": 30.3, "deal_count": 31 },
+            { "period": "2021_q3", "deal_value_millions": 35.6, "deal_count": 28 },
+            { "period": "2021_q4", "deal_value_millions": 111.7, "deal_count": 42 },
+            { "period": "2022_q1", "deal_value_millions": 345.1, "deal_count": 58 },
+            { "period": "2022_q2", "deal_value_millions": 211.0, "deal_count": 37 },
+            { "period": "2022_q3", "deal_value_millions": 201.4, "deal_count": 41 },
+            { "period": "2022_q4", "deal_value_millions": 134.1, "deal_count": 45 },
+            { "period": "2023_q1", "deal_value_millions": 114.5, "deal_count": 44 },
+            { "period": "2023_q2", "deal_value_millions": 383.5, "deal_count": 24 },
+            { "period": "2023_q3", "deal_value_millions": 120.9, "deal_count": 33 },
+            { "period": "2023_q4", "deal_value_millions": 208.4, "deal_count": 42 },
+            { "period": "2024_q1", "deal_value_millions": 199.5, "deal_count": 44 },
+            { "period": "2024_q2", "deal_value_millions": 18.6, "deal_count": 26 },
+            { "period": "2024_q3", "deal_value_millions": 163.2, "deal_count": 24 },
+            { "period": "2024_q4", "deal_value_millions": 50.2, "deal_count": 23 },
+            { "period": "2025_q1", "deal_value_millions": 26.1, "deal_count": 25 },
+            { "period": "2025_q2", "deal_value_millions": 38.9, "deal_count": 19 },
+            { "period": "2025_q3", "deal_value_millions": 19.4, "deal_count": 26 },
+            { "period": "2025_q4", "deal_value_millions": 25.3, "deal_count": 17 }
+          ]
+        }
+      }
+    }
+  ]
+}
+

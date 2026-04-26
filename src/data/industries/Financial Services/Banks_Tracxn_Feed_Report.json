@@ -1,0 +1,4265 @@
+{
+  "report_info": {
+    "source_provider": "Tracxn",
+    "report_type": "feed_report",
+    "report_name": "Feed Report - Banks - Aug 2025",
+    "report_topic": "Banks",
+    "report_date": "2025-08-18",
+    "processed_pages": 37,
+    "is_partial_extract": true,
+    "primary_tabs": [
+      "overview",
+      "funding",
+      "investors",
+      "acquisitions",
+      "ipos",
+      "companies",
+      "unicorns",
+      "business_models",
+      "news",
+      "appendix"
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "page_headline": "TRACXN FEED REPORT",
+      "section_key": null,
+      "subsection_key": null,
+      "page_type": "cover_page",
+      "key_insight": null,
+      "text_blocks": [
+        "TRACXN FEED REPORT",
+        "BANKS",
+        "AUGUST 18, 2025"
+      ],
+      "charts": [],
+      "notes": []
+    },
+    {
+      "page_number": 2,
+      "page_headline": "Contents",
+      "section_key": null,
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Contents",
+        "Overview",
+        "Funding",
+        "Investors",
+        "Acquisitions",
+        "IPOs",
+        "Companies",
+        "Unicorns",
+        "Business Models",
+        "News",
+        "Appendix"
+      ],
+      "charts": [],
+      "notes": []
+    },
+    {
+      "page_number": 3,
+      "page_headline": "Contents",
+      "section_key": null,
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Contents",
+        "Overview Summary",
+        "Funding Market Map",
+        "Investors",
+        "Acquisitions",
+        "IPOs",
+        "Companies",
+        "Unicorns",
+        "Business Models",
+        "News",
+        "Appendix"
+      ],
+      "charts": [],
+      "notes": [
+        "This contents page mixes top-level section labels with visible subsection entries."
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_headline": "Banks - Summary (1/2)",
+      "section_key": "overview",
+      "subsection_key": "summary",
+      "page_type": "summary_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Top Companies",
+          "chart_title": "Top Companies",
+          "chart_type": "top_companies_list",
+          "suggested_chart_type": "ranked_list",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "AU Small Finance B..",
+              "meta_display": "(1996, India, $136M)",
+              "founded_year": 1996,
+              "location_display": "India",
+              "total_funding_usd_millions": 136
+            },
+            {
+              "rank": 2,
+              "company_display": "Ujjivan Small Fina..",
+              "meta_display": "(2005, India, $154M)",
+              "founded_year": 2005,
+              "location_display": "India",
+              "total_funding_usd_millions": 154
+            },
+            {
+              "rank": 3,
+              "company_display": "Jana Small Finance..",
+              "meta_display": "(1999, India, $814M)",
+              "founded_year": 1999,
+              "location_display": "India",
+              "total_funding_usd_millions": 814
+            },
+            {
+              "rank": 4,
+              "company_display": "Suryoday",
+              "meta_display": "(2008, India, $111M)",
+              "founded_year": 2008,
+              "location_display": "India",
+              "total_funding_usd_millions": 111
+            },
+            {
+              "rank": 5,
+              "company_display": "ESAF",
+              "meta_display": "(1992, India, $112M)",
+              "founded_year": 1992,
+              "location_display": "India",
+              "total_funding_usd_millions": 112
+            },
+            {
+              "rank": 6,
+              "company_display": "Metro Bank",
+              "meta_display": "(2010, United Ki.., $564M)",
+              "founded_year": 2010,
+              "location_display": "United Ki..",
+              "total_funding_usd_millions": 564
+            },
+            {
+              "rank": 7,
+              "company_display": "Yes Bank",
+              "meta_display": "(2004, India, $4.6M)",
+              "founded_year": 2004,
+              "location_display": "India",
+              "total_funding_usd_millions": 4.6
+            },
+            {
+              "rank": 8,
+              "company_display": "Truist",
+              "meta_display": "(1872, United St.., $900K)",
+              "founded_year": 1872,
+              "location_display": "United St..",
+              "total_funding_usd_millions": 0.9
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Company labels and location labels are preserved exactly as visibly truncated in the PDF where applicable."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Key Stats",
+          "chart_title": "Key Stats",
+          "chart_type": "kpi_cards",
+          "suggested_chart_type": "stat_cards",
+          "data": [
+            {
+              "metric_key": "companies",
+              "label": "Companies",
+              "value": 24855,
+              "unit": "count"
+            },
+            {
+              "metric_key": "funded_companies",
+              "label": "Funded Companies",
+              "value": 2492,
+              "unit": "count"
+            },
+            {
+              "metric_key": "total_funding",
+              "label": "Total Funding",
+              "value": 37.6,
+              "unit": "usd_billions"
+            },
+            {
+              "metric_key": "funding_in_last_2_years",
+              "label": "Funding in last 2 years",
+              "value": 1.1,
+              "unit": "usd_billions"
+            },
+            {
+              "metric_key": "acquisitions",
+              "label": "Acquisitions",
+              "value": 1437,
+              "unit": "count"
+            },
+            {
+              "metric_key": "ipos",
+              "label": "IPOs",
+              "value": 1177,
+              "unit": "count"
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": null,
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 3,
+          "panel_label": "Scope of Feed",
+          "chart_title": "Scope of Feed",
+          "chart_type": "scope_definition",
+          "suggested_chart_type": "text_block",
+          "data": [
+            {
+              "section": "What is included",
+              "text": "All banking institutions including universal banks, special purpose banks, and co-operative or mutual banks including building societies, credit unions, savings banks, savings and loan associations among others"
+            },
+            {
+              "section": "What is not included",
+              "text": "All financial institutions that are not licensed to operate as a bank including lending NBFIs, investment banks, export-import banks among others"
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": null,
+          "secondary_value_unit": null,
+          "geo_scope": null,
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 4,
+          "panel_label": "Top Geographies by Companies",
+          "chart_title": "Top Geographies by Companies",
+          "chart_type": "stacked_horizontal_bar",
+          "suggested_chart_type": "stacked_bar_horizontal",
+          "data": [
+            {
+              "country": "United States",
+              "unfunded_companies": 11884,
+              "funded_companies": 1336,
+              "total_companies": 13220
+            },
+            {
+              "country": "United Kingdom",
+              "unfunded_companies": 1259,
+              "funded_companies": 42,
+              "total_companies": 1301
+            },
+            {
+              "country": "India",
+              "unfunded_companies": 1141,
+              "funded_companies": 61,
+              "total_companies": 1202
+            },
+            {
+              "country": "Germany",
+              "unfunded_companies": 1080,
+              "funded_companies": 25,
+              "total_companies": 1105
+            },
+            {
+              "country": "Nigeria",
+              "unfunded_companies": 350,
+              "funded_companies": 30,
+              "total_companies": 380
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "country",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 5,
+      "page_headline": "Banks - Summary (2/2)",
+      "section_key": "overview",
+      "subsection_key": "summary",
+      "page_type": "summary_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "# Companies by Stage",
+          "chart_title": "# Companies by Stage",
+          "chart_type": "funnel_chart",
+          "suggested_chart_type": "funnel_chart",
+          "data": [
+            {
+              "stage": "Founded",
+              "companies": 24855,
+              "share_of_funded_percent": null
+            },
+            {
+              "stage": "Funded",
+              "companies": 2492,
+              "share_of_funded_percent": 100
+            },
+            {
+              "stage": "Series A+",
+              "companies": 649,
+              "share_of_funded_percent": 26
+            },
+            {
+              "stage": "Series B+",
+              "companies": 509,
+              "share_of_funded_percent": 20
+            },
+            {
+              "stage": "Series C+",
+              "companies": 411,
+              "share_of_funded_percent": 16
+            },
+            {
+              "stage": "Series D+",
+              "companies": 360,
+              "share_of_funded_percent": 14
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "The Founded row displays a dash for percentage in the PDF."
+          ],
+          "value_unit": "count",
+          "secondary_value_unit": "percent",
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Y-o-Y Funding",
+          "chart_title": "Y-o-Y Funding",
+          "chart_type": "bar_line_combo",
+          "suggested_chart_type": "bar_line_combo",
+          "data": [
+            {
+              "year": 2020,
+              "funding_usd_billions": 0.775,
+              "rounds_count": 53,
+              "is_ytd": false
+            },
+            {
+              "year": 2021,
+              "funding_usd_billions": 0.664,
+              "rounds_count": 61,
+              "is_ytd": false
+            },
+            {
+              "year": 2022,
+              "funding_usd_billions": 2.3,
+              "rounds_count": 74,
+              "is_ytd": false
+            },
+            {
+              "year": 2023,
+              "funding_usd_billions": 2.5,
+              "rounds_count": 42,
+              "is_ytd": false
+            },
+            {
+              "year": 2024,
+              "funding_usd_billions": 0.543,
+              "rounds_count": 48,
+              "is_ytd": false
+            },
+            {
+              "year": 2025,
+              "funding_usd_billions": 0.118,
+              "rounds_count": 24,
+              "is_ytd": true
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Total Funding: $37.6B"
+          ],
+          "value_unit": "usd_billions",
+          "secondary_value_unit": "count",
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 3,
+          "panel_label": "$ Funding by Country",
+          "chart_title": "$ Funding by Country",
+          "chart_type": "donut_chart",
+          "suggested_chart_type": "donut_chart",
+          "data": [
+            {
+              "country": "United States",
+              "funding_share_percent": 43.5
+            },
+            {
+              "country": "China",
+              "funding_share_percent": 20.7
+            },
+            {
+              "country": "Vietnam",
+              "funding_share_percent": 9.4
+            },
+            {
+              "country": "India",
+              "funding_share_percent": 6.7
+            },
+            {
+              "country": "Pakistan",
+              "funding_share_percent": 4.0
+            },
+            {
+              "country": "United Kingdom",
+              "funding_share_percent": 3.5
+            },
+            {
+              "country": "Philippines",
+              "funding_share_percent": 2.3
+            },
+            {
+              "country": "Others",
+              "funding_share_percent": 9.9
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "percent",
+          "secondary_value_unit": null,
+          "geo_scope": "country",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 4,
+          "panel_label": "Top Funding Rounds in last 2y",
+          "chart_title": "Top Funding Rounds in last 2y",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "CFG Bank",
+              "meta_display": "(1927, United States, $160M)",
+              "round_details_display": "$160M-PE",
+              "round_amount_usd_millions": 160,
+              "round_type_display": "PE"
+            },
+            {
+              "rank": 2,
+              "company_display": "Commercial Bank..",
+              "meta_display": "(2003, United States, $119M)",
+              "round_details_display": "$119M-Series D",
+              "round_amount_usd_millions": 119,
+              "round_type_display": "Series D"
+            },
+            {
+              "rank": 3,
+              "company_display": "Home Credit Gro..",
+              "meta_display": "(1997, $100M)",
+              "round_details_display": "$100M-Series C",
+              "round_amount_usd_millions": 100,
+              "round_type_display": "Series C"
+            },
+            {
+              "rank": 4,
+              "company_display": "NexTier Bank",
+              "meta_display": "(1878, United States, $70.5M)",
+              "round_details_display": "$52M-Series C",
+              "round_amount_usd_millions": 52,
+              "round_type_display": "Series C"
+            },
+            {
+              "rank": 5,
+              "company_display": "First Carolina ..",
+              "meta_display": "(2000, United States, $241M)",
+              "round_details_display": "$45M-Series E",
+              "round_amount_usd_millions": 45,
+              "round_type_display": "Series E"
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Truncated company labels are preserved exactly as shown in the PDF."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 5,
+          "panel_label": "Top Investors",
+          "chart_title": "Top Investors",
+          "chart_type": "grouped_ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "stage": "Seed Stage",
+              "investor_name": "Askari Bank",
+              "portfolio_count": 2
+            },
+            {
+              "stage": "Seed Stage",
+              "investor_name": "Kleiner Perkins",
+              "portfolio_count": 2
+            },
+            {
+              "stage": "Seed Stage",
+              "investor_name": "Nubank",
+              "portfolio_count": 2
+            },
+            {
+              "stage": "Early Stage",
+              "investor_name": "Castle Creek Capital",
+              "portfolio_count": 5
+            },
+            {
+              "stage": "Early Stage",
+              "investor_name": "Digital Currency Group",
+              "portfolio_count": 3
+            },
+            {
+              "stage": "Early Stage",
+              "investor_name": "National Community I..",
+              "portfolio_count": 3
+            },
+            {
+              "stage": "Late Stage",
+              "investor_name": "IFC",
+              "portfolio_count": 4
+            },
+            {
+              "stage": "Late Stage",
+              "investor_name": "Treasury",
+              "portfolio_count": 4
+            },
+            {
+              "stage": "Late Stage",
+              "investor_name": "LeapFrog Investments",
+              "portfolio_count": 3
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Truncated investor label is preserved exactly as shown in the PDF."
+          ],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        },
+        {
+          "panel_order": 6,
+          "panel_label": "Top Exits",
+          "chart_title": "Top Exits",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "type": "Acq.",
+              "company_display": "Merrill Lynch",
+              "meta_display": "(1990, United States)",
+              "exit_value_usd_billions": 50.0
+            },
+            {
+              "rank": 2,
+              "type": "Acq.",
+              "company_display": "LCL",
+              "meta_display": "(1863, France)",
+              "exit_value_usd_billions": 20.0
+            },
+            {
+              "rank": 3,
+              "type": "Acq.",
+              "company_display": "St.George Bank",
+              "meta_display": "(1937, Australia)",
+              "exit_value_usd_billions": 17.5
+            },
+            {
+              "rank": 4,
+              "type": "IPO",
+              "company_display": "National Bank of Kuwait,nbk.com,5319f6e2..",
+              "meta_display": "(1952, Kuwait)",
+              "exit_value_usd_billions": 27473.6
+            },
+            {
+              "rank": 5,
+              "type": "IPO",
+              "company_display": "MTS Bank",
+              "meta_display": "(2011, Russia, $164M)",
+              "exit_value_usd_billions": 2349.0
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "IPO values are displayed in the PDF as 'Acq. Price/IPO Mcap' and are preserved as shown."
+          ],
+          "value_unit": "usd_billions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "overview",
+          "dashboard_subtab": "summary"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 6,
+      "page_headline": "Marketmap: HR Tech Marketmap - Banks Sep 2020",
+      "section_key": "funding",
+      "subsection_key": "market_map",
+      "page_type": "market_map_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Top Business Models in last 1y",
+          "chart_title": "Top Business Models in last 1y",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "business_model": "Commercial Banks",
+              "funding_usd_millions": 311
+            },
+            {
+              "rank": 2,
+              "business_model": "Microfinance Banks",
+              "funding_usd_millions": 11.4
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "market_map"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": null,
+          "chart_title": "Marketmap: HR Tech Marketmap - Banks Sep 2020",
+          "chart_type": "taxonomy_map",
+          "suggested_chart_type": "treemap",
+          "data": [
+            {
+              "category_label": "ISLAMIC BANKS"
+            },
+            {
+              "category_label": "MICROFINANCE BANKS"
+            },
+            {
+              "category_label": "SPECIAL PURPOSE BANKS"
+            },
+            {
+              "category_label": "CO-OPERATIVE BANKS"
+            },
+            {
+              "category_label": "CREDIT UNIONS"
+            },
+            {
+              "category_label": "COMMERCIAL BANKS"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "*Upcoming Business Model"
+          ],
+          "notes": [
+            "The visible title appears inconsistent or legacy and is preserved exactly as shown.",
+            "The rendered page image is not available in this batch context, so the specific category tied to the '*Upcoming Business Model' marker cannot be determined from the provided extract."
+          ],
+          "value_unit": null,
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "market_map"
+        }
+      ],
+      "notes": [
+        "Visible page title suggests a possible legacy or template carryover; preserved exactly as shown."
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_headline": "Funding",
+      "section_key": "funding",
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Funding",
+        "Funding Funnel",
+        "Y-o-Y Funding Trends",
+        "Funding by Geography",
+        "Y-o-Y Stage wise Funding",
+        "Median Round Size by Stage",
+        "New Entrants to Funded Club",
+        "Funding by Team Background - College wise",
+        "Funding by Team Background - Company wise",
+        "Contents"
+      ],
+      "charts": [],
+      "notes": []
+    },
+    {
+      "page_number": 8,
+      "page_headline": "Funding Funnel",
+      "section_key": "funding",
+      "subsection_key": "funding_funnel",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Funding Funnel",
+          "chart_title": "Funding Funnel",
+          "chart_type": "funnel_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "stage": "Founded",
+              "companies": 24855,
+              "funding_funnel_percent": null,
+              "moved_from_previous_stage_percent": null,
+              "avg_years_from_first_funding": null
+            },
+            {
+              "stage": "Funded",
+              "companies": 2492,
+              "funding_funnel_percent": 100,
+              "moved_from_previous_stage_percent": 10,
+              "avg_years_from_first_funding": null
+            },
+            {
+              "stage": "Series A+",
+              "companies": 649,
+              "funding_funnel_percent": 26,
+              "moved_from_previous_stage_percent": 26,
+              "avg_years_from_first_funding": 3.8
+            },
+            {
+              "stage": "Series B+",
+              "companies": 509,
+              "funding_funnel_percent": 20,
+              "moved_from_previous_stage_percent": 78,
+              "avg_years_from_first_funding": 5.3
+            },
+            {
+              "stage": "Series C+",
+              "companies": 411,
+              "funding_funnel_percent": 16,
+              "moved_from_previous_stage_percent": 81,
+              "avg_years_from_first_funding": 5
+            },
+            {
+              "stage": "Series D+",
+              "companies": 360,
+              "funding_funnel_percent": 14,
+              "moved_from_previous_stage_percent": 88,
+              "avg_years_from_first_funding": 7
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "The OCR text indicates four visible data columns: # Companies, Funding Funnel %, % Moved from previous Stage, and Avg. Years from first funding."
+          ],
+          "value_unit": null,
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "funding_funnel"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 9,
+      "page_headline": "Y-o-Y Funding Trends",
+      "section_key": "funding",
+      "subsection_key": "yoy_funding_trends",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Y-o-Y Funding Trends",
+          "chart_title": "Y-o-Y Funding Trends",
+          "chart_type": "bar_line_combo",
+          "suggested_chart_type": "bar_line_combo",
+          "data": [
+            {
+              "year": 2018,
+              "funding_usd_billions": 1.9,
+              "rounds_count": null,
+              "is_ytd": false
+            },
+            {
+              "year": 2019,
+              "funding_usd_billions": 2.6,
+              "rounds_count": 55,
+              "is_ytd": false
+            },
+            {
+              "year": 2020,
+              "funding_usd_billions": 0.775,
+              "rounds_count": 53,
+              "is_ytd": false
+            },
+            {
+              "year": 2021,
+              "funding_usd_billions": 0.664,
+              "rounds_count": 61,
+              "is_ytd": false
+            },
+            {
+              "year": 2022,
+              "funding_usd_billions": 2.3,
+              "rounds_count": 74,
+              "is_ytd": false
+            },
+            {
+              "year": 2023,
+              "funding_usd_billions": 2.5,
+              "rounds_count": 42,
+              "is_ytd": false
+            },
+            {
+              "year": 2024,
+              "funding_usd_billions": 0.543,
+              "rounds_count": 48,
+              "is_ytd": false
+            },
+            {
+              "year": 2025,
+              "funding_usd_billions": 0.118,
+              "rounds_count": 24,
+              "is_ytd": true
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Funding includes only Equity Funding. It excludes Debt, Grant, Post-IPO and ICO funding."
+          ],
+          "notes": [
+            "$ Funding (3y) CAGR = -63%",
+            "$ Funding (5y) CAGR = -31%",
+            "The 2018 rounds label is not clearly legible in the rendered page and is stored as null."
+          ],
+          "value_unit": "usd_billions",
+          "secondary_value_unit": "count",
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "yoy_funding_trends"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Top Funding Rounds in last 2 years",
+          "chart_title": "Top Funding Rounds in last 2 years",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "CFG Bank",
+              "meta_display": "(1927, United States)",
+              "funding_round_display": "$160M - PE",
+              "round_amount_usd_millions": 160,
+              "round_type_display": "PE"
+            },
+            {
+              "rank": 2,
+              "company_display": "Commercial Bank of C..",
+              "meta_display": "(2003, United States)",
+              "funding_round_display": "$119M - Series D",
+              "round_amount_usd_millions": 119,
+              "round_type_display": "Series D"
+            },
+            {
+              "rank": 3,
+              "company_display": "Home Credit Group",
+              "meta_display": "(1997, )",
+              "funding_round_display": "$100M - Series C",
+              "round_amount_usd_millions": 100,
+              "round_type_display": "Series C"
+            },
+            {
+              "rank": 4,
+              "company_display": "NexTier Bank",
+              "meta_display": "(1878, United States)",
+              "funding_round_display": "$52.0M - Series C",
+              "round_amount_usd_millions": 52,
+              "round_type_display": "Series C"
+            },
+            {
+              "rank": 5,
+              "company_display": "First Carolina Bank",
+              "meta_display": "(2000, United States)",
+              "funding_round_display": "$45.4M - Series E",
+              "round_amount_usd_millions": 45.4,
+              "round_type_display": "Series E"
+            },
+            {
+              "rank": 6,
+              "company_display": "Susser Bank",
+              "meta_display": "(1959, United States)",
+              "funding_round_display": "$40.3M - Unattributed",
+              "round_amount_usd_millions": 40.3,
+              "round_type_display": "Unattributed"
+            },
+            {
+              "rank": 7,
+              "company_display": "BTC Bank",
+              "meta_display": "(1919, United States)",
+              "funding_round_display": "$37.5M - Unattributed",
+              "round_amount_usd_millions": 37.5,
+              "round_type_display": "Unattributed"
+            },
+            {
+              "rank": 8,
+              "company_display": "River Bank & Trust",
+              "meta_display": "(2005, United States)",
+              "funding_round_display": "$32.9M - Series C",
+              "round_amount_usd_millions": 32.9,
+              "round_type_display": "Series C"
+            },
+            {
+              "rank": 9,
+              "company_display": "Patrons Holdings",
+              "meta_display": "(2022, United States)",
+              "funding_round_display": "$31.0M - Series C",
+              "round_amount_usd_millions": 31,
+              "round_type_display": "Series C"
+            },
+            {
+              "rank": 10,
+              "company_display": "Banca del Fucino",
+              "meta_display": "(1923, Italy)",
+              "funding_round_display": "$25.8M - Unattributed",
+              "round_amount_usd_millions": 25.8,
+              "round_type_display": "Unattributed"
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Truncated company label is preserved exactly as shown in the PDF where applicable."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "yoy_funding_trends"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 10,
+      "page_headline": "Funding by Geography",
+      "section_key": "funding",
+      "subsection_key": "funding_by_geography",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Distribution by Country - Total Funding ($)",
+          "chart_title": "Distribution by Country - Total Funding ($)",
+          "chart_type": "horizontal_bar_with_annotations",
+          "suggested_chart_type": "bar_chart_horizontal",
+          "data": [
+            {
+              "country": "United States",
+              "total_funding_usd_billions": 16.4,
+              "rounds_count": 769,
+              "top_funded_company_display": "Washington Mutual",
+              "top_funded_company_funding_usd_billions": null
+            },
+            {
+              "country": "China",
+              "total_funding_usd_billions": 7.8,
+              "rounds_count": 9,
+              "top_funded_company_display": "Postal Savings Bank of China",
+              "top_funded_company_funding_usd_billions": 7.0
+            },
+            {
+              "country": "Vietnam",
+              "total_funding_usd_billions": 3.5,
+              "rounds_count": 10,
+              "top_funded_company_display": "VPBank",
+              "top_funded_company_funding_usd_billions": 1.5
+            },
+            {
+              "country": "India",
+              "total_funding_usd_billions": 2.5,
+              "rounds_count": 105,
+              "top_funded_company_display": "Jana Small Finance Bank",
+              "top_funded_company_funding_usd_billions": 0.814
+            },
+            {
+              "country": "Pakistan",
+              "total_funding_usd_billions": 1.5,
+              "rounds_count": 11,
+              "top_funded_company_display": "U Microfinance Bank",
+              "top_funded_company_funding_usd_billions": 1.0
+            },
+            {
+              "country": "United Kingdom",
+              "total_funding_usd_billions": 1.3,
+              "rounds_count": 30,
+              "top_funded_company_display": "Metro Bank",
+              "top_funded_company_funding_usd_billions": 0.564
+            },
+            {
+              "country": "Philippines",
+              "total_funding_usd_billions": 0.857,
+              "rounds_count": 3,
+              "top_funded_company_display": "Security Bank",
+              "top_funded_company_funding_usd_billions": 0.782
+            },
+            {
+              "country": "Kazakhstan",
+              "total_funding_usd_billions": 0.634,
+              "rounds_count": 1,
+              "top_funded_company_display": "Bank CenterCredit",
+              "top_funded_company_funding_usd_billions": 0.634
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Funding includes only Equity Funding. It excludes Debt, Grant, Post-IPO and ICO funding."
+          ],
+          "notes": [],
+          "value_unit": "usd_billions",
+          "secondary_value_unit": "count",
+          "geo_scope": "country",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "funding_by_geography"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Top Cities by Funding",
+          "chart_title": "Top Cities by Funding",
+          "chart_type": "ranking_list",
+          "suggested_chart_type": "bar_chart_horizontal",
+          "data": [
+            {
+              "rank": 1,
+              "city": "Beijing",
+              "funding_usd_billions": 7.3
+            },
+            {
+              "rank": 2,
+              "city": "Hanoi",
+              "funding_usd_billions": 3.3
+            },
+            {
+              "rank": 3,
+              "city": "New York City",
+              "funding_usd_billions": 2.0
+            },
+            {
+              "rank": 4,
+              "city": "Detroit",
+              "funding_usd_billions": 1.3
+            },
+            {
+              "rank": 5,
+              "city": "Bengaluru",
+              "funding_usd_billions": 1.3
+            },
+            {
+              "rank": 6,
+              "city": "Islamabad",
+              "funding_usd_billions": 1.0
+            },
+            {
+              "rank": 7,
+              "city": "Rockville",
+              "funding_usd_billions": 0.903
+            },
+            {
+              "rank": 8,
+              "city": "Makati",
+              "funding_usd_billions": 0.782
+            },
+            {
+              "rank": 9,
+              "city": "Metro Manila",
+              "funding_usd_billions": 0.782
+            },
+            {
+              "rank": 10,
+              "city": "London",
+              "funding_usd_billions": 0.766
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "usd_billions",
+          "secondary_value_unit": null,
+          "geo_scope": "city",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "funding_by_geography"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 11,
+      "page_headline": "Y-o-Y Stage-wise Funding Trends",
+      "section_key": "funding",
+      "subsection_key": "yoy_stage_wise_funding",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Stage-wise $ Invested",
+          "chart_title": "Stage-wise $ Invested",
+          "chart_type": "stacked_bar_chart",
+          "suggested_chart_type": "stacked_bar_chart",
+          "data": [
+            {
+              "year": 2020,
+              "seed_usd_millions": 4.4,
+              "early_stage_usd_millions": 224,
+              "late_stage_usd_millions": 531,
+              "total_funding_usd_millions": 760,
+              "is_ytd": false
+            },
+            {
+              "year": 2021,
+              "seed_usd_millions": 12.7,
+              "early_stage_usd_millions": 335,
+              "late_stage_usd_millions": 296,
+              "total_funding_usd_millions": 644,
+              "is_ytd": false
+            },
+            {
+              "year": 2022,
+              "seed_usd_millions": 44.8,
+              "early_stage_usd_millions": 529,
+              "late_stage_usd_millions": 1600,
+              "total_funding_usd_millions": 2200,
+              "is_ytd": false
+            },
+            {
+              "year": 2023,
+              "seed_usd_millions": 73.0,
+              "early_stage_usd_millions": 125,
+              "late_stage_usd_millions": 2300,
+              "total_funding_usd_millions": 2500,
+              "is_ytd": false
+            },
+            {
+              "year": 2024,
+              "seed_usd_millions": 4.2,
+              "early_stage_usd_millions": 185,
+              "late_stage_usd_millions": 354,
+              "total_funding_usd_millions": 543,
+              "is_ytd": false
+            },
+            {
+              "year": 2025,
+              "seed_usd_millions": 0.4,
+              "early_stage_usd_millions": 64.1,
+              "late_stage_usd_millions": 53.5,
+              "total_funding_usd_millions": 118,
+              "is_ytd": true
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Seed includes Seed, Angel rounds. Early Stage includes Series A,B rounds. Late Stage includes Series C+, PE, Pre-IPO rounds."
+          ],
+          "notes": [
+            "2023 seed value is visually small in the chart but appears to read as $73.0M.",
+            "2025 YTD seed value is not cleanly legible in the rendered page and is derived from the displayed total minus the visible early-stage and late-stage values."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": true,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "yoy_stage_wise_funding"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Stage-wise Number of Rounds",
+          "chart_title": "Stage-wise Number of Rounds",
+          "chart_type": "stacked_bar_chart",
+          "suggested_chart_type": "stacked_bar_chart",
+          "data": [
+            {
+              "year": 2020,
+              "seed_rounds": 8,
+              "early_stage_rounds": 22,
+              "late_stage_rounds": 22,
+              "total_rounds": 52,
+              "is_ytd": false
+            },
+            {
+              "year": 2021,
+              "seed_rounds": 9,
+              "early_stage_rounds": 19,
+              "late_stage_rounds": 31,
+              "total_rounds": 59,
+              "is_ytd": false
+            },
+            {
+              "year": 2022,
+              "seed_rounds": 9,
+              "early_stage_rounds": 27,
+              "late_stage_rounds": 37,
+              "total_rounds": 73,
+              "is_ytd": false
+            },
+            {
+              "year": 2023,
+              "seed_rounds": 7,
+              "early_stage_rounds": 13,
+              "late_stage_rounds": 22,
+              "total_rounds": 42,
+              "is_ytd": false
+            },
+            {
+              "year": 2024,
+              "seed_rounds": 7,
+              "early_stage_rounds": 20,
+              "late_stage_rounds": 21,
+              "total_rounds": 48,
+              "is_ytd": false
+            },
+            {
+              "year": 2025,
+              "seed_rounds": 3,
+              "early_stage_rounds": 9,
+              "late_stage_rounds": 12,
+              "total_rounds": 24,
+              "is_ytd": true
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Seed includes Seed, Angel rounds. Early Stage includes Series A,B rounds. Late Stage includes Series C+, PE, Pre-IPO rounds."
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "yoy_stage_wise_funding"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 12,
+      "page_headline": "Median Round Size by Stage",
+      "section_key": "funding",
+      "subsection_key": "median_round_size_by_stage",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Round size - Min, Median, Max (2020-2025)",
+          "chart_title": "Round size - Min, Median, Max (2020-2025)",
+          "chart_type": "range_summary",
+          "suggested_chart_type": "range_bar_chart",
+          "data": [
+            {
+              "stage": "Late Stage",
+              "min_round_size_usd_millions": 1.3,
+              "median_round_size_usd_millions": 17.7,
+              "max_round_size_usd_millions": 34.4
+            },
+            {
+              "stage": "Series B",
+              "min_round_size_usd_millions": 2.9,
+              "median_round_size_usd_millions": 12.2,
+              "max_round_size_usd_millions": 19.1
+            },
+            {
+              "stage": "Series A",
+              "min_round_size_usd_millions": 3.8,
+              "median_round_size_usd_millions": 6.3,
+              "max_round_size_usd_millions": 8.2
+            },
+            {
+              "stage": "Seed",
+              "min_round_size_usd_millions": null,
+              "median_round_size_usd_millions": 1.1,
+              "max_round_size_usd_millions": 2.0
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Seed includes Seed, Angel rounds. Early Stage includes Series A,B rounds. Late Stage includes Series C+, PE, Pre-IPO rounds."
+          ],
+          "notes": [
+            "The seed-stage minimum is displayed as '-' in the PDF and is normalized to null."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "median_round_size_by_stage"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Y-o-Y Median Round Size (2020-2025)",
+          "chart_title": "Y-o-Y Median Round Size (2020-2025)",
+          "chart_type": "multi_series_line_summary",
+          "suggested_chart_type": "multi_line_chart",
+          "data": [
+            {
+              "year": 2020,
+              "late_stage_usd_millions": 29.1,
+              "series_b_usd_millions": 11.2,
+              "series_a_usd_millions": 8.0,
+              "seed_usd_millions": 2.0,
+              "is_ytd": false
+            },
+            {
+              "year": 2021,
+              "late_stage_usd_millions": 2.8,
+              "series_b_usd_millions": 19.1,
+              "series_a_usd_millions": 8.2,
+              "seed_usd_millions": 1.1,
+              "is_ytd": false
+            },
+            {
+              "year": 2022,
+              "late_stage_usd_millions": 34.4,
+              "series_b_usd_millions": 16.4,
+              "series_a_usd_millions": 5.8,
+              "seed_usd_millions": 1.7,
+              "is_ytd": false
+            },
+            {
+              "year": 2023,
+              "late_stage_usd_millions": 25.8,
+              "series_b_usd_millions": 12.3,
+              "series_a_usd_millions": 4.2,
+              "seed_usd_millions": 1.0,
+              "is_ytd": false
+            },
+            {
+              "year": 2024,
+              "late_stage_usd_millions": 9.5,
+              "series_b_usd_millions": 12.2,
+              "series_a_usd_millions": 3.8,
+              "seed_usd_millions": 1.2,
+              "is_ytd": false
+            },
+            {
+              "year": 2025,
+              "late_stage_usd_millions": 1.3,
+              "series_b_usd_millions": 2.0,
+              "series_a_usd_millions": 6.9,
+              "seed_usd_millions": 0.0,
+              "is_ytd": true
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Seed includes Seed, Angel rounds. Early Stage includes Series A,B rounds. Late Stage includes Series C+, PE, Pre-IPO rounds."
+          ],
+          "notes": [
+            "The 2025 YTD right-edge labels are partially clipped in the rendered page.",
+            "2025 YTD series_b value is normalized as 2.0 based on the partially visible '$2.' label.",
+            "2025 YTD series_a and seed labels are partially clipped but visually read as $6.9M and $0.0M."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": true,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "median_round_size_by_stage"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 13,
+      "page_headline": "New Entrants to Funded Club",
+      "section_key": "funding",
+      "subsection_key": "new_entrants_to_funded_club",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "New Entrants to Funded Club",
+          "chart_type": "waterfall_chart",
+          "suggested_chart_type": "waterfall_chart",
+          "data": [
+            {
+              "period": "till_2019",
+              "new_entrants_count": 2077,
+              "cumulative_funded_companies": 2077
+            },
+            {
+              "year": 2020,
+              "new_entrants_count": 92,
+              "cumulative_funded_companies": 2169
+            },
+            {
+              "year": 2021,
+              "new_entrants_count": 94,
+              "cumulative_funded_companies": 2263
+            },
+            {
+              "year": 2022,
+              "new_entrants_count": 105,
+              "cumulative_funded_companies": 2368
+            },
+            {
+              "year": 2023,
+              "new_entrants_count": 48,
+              "cumulative_funded_companies": 2416
+            },
+            {
+              "year": 2024,
+              "new_entrants_count": 52,
+              "cumulative_funded_companies": 2468
+            },
+            {
+              "period": "2025_ytd",
+              "new_entrants_count": 24,
+              "cumulative_funded_companies": 2492
+            },
+            {
+              "period": "total",
+              "new_entrants_count": null,
+              "cumulative_funded_companies": 2492
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "new_entrants_to_funded_club"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Notable Companies",
+          "chart_title": "Notable Companies",
+          "chart_type": "annotated_company_list",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "period": "2020",
+              "company_display": "IDFC First Bank",
+              "meta_display": "(1997, India)",
+              "total_funding_usd_millions": null
+            },
+            {
+              "period": "2021",
+              "company_display": "Utkarsh Bank",
+              "meta_display": "(2009, India, $33.0M)",
+              "total_funding_usd_millions": 33.0
+            },
+            {
+              "period": "2022",
+              "company_display": "Banco BPM",
+              "meta_display": "(2017, Italy)",
+              "total_funding_usd_millions": null
+            },
+            {
+              "period": "2023",
+              "company_display": "Home Credit Group",
+              "meta_display": "(1997, $100M)",
+              "total_funding_usd_millions": 100
+            },
+            {
+              "period": "2024",
+              "company_display": "Karnataka Bank",
+              "meta_display": "(1924, India)",
+              "total_funding_usd_millions": null
+            },
+            {
+              "period": "2025_ytd",
+              "company_display": "Scotiabank",
+              "meta_display": "(1832, Canada)",
+              "total_funding_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "new_entrants_to_funded_club"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 14,
+      "page_headline": "Funding by Team Background - College wise",
+      "section_key": "funding",
+      "subsection_key": "funding_by_team_background_college_wise",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Distribution by Team Background",
+          "chart_title": "Distribution by Team Background",
+          "chart_type": "horizontal_bar_chart",
+          "suggested_chart_type": "bar_chart_horizontal",
+          "data": [
+            {
+              "team_background": "Stanford University",
+              "total_funding_usd_millions": 293
+            },
+            {
+              "team_background": "Stanford Business School",
+              "total_funding_usd_millions": 293
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "total_funding_usd_millions": 164
+            },
+            {
+              "team_background": "Wharton School",
+              "total_funding_usd_millions": 164
+            },
+            {
+              "team_background": "IIM Ahmedabad",
+              "total_funding_usd_millions": 126
+            },
+            {
+              "team_background": "IIT Kanpur",
+              "total_funding_usd_millions": 126
+            },
+            {
+              "team_background": "HEC Paris",
+              "total_funding_usd_millions": 46
+            },
+            {
+              "team_background": "University of Cambridge",
+              "total_funding_usd_millions": 37
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "funding_by_team_background_college_wise"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": null,
+          "chart_title": "Example Companies by Team Background",
+          "chart_type": "example_company_list",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "team_background": "Stanford University",
+              "company_display": "Beneficial Sta..",
+              "company_total_funding_usd_millions": 218
+            },
+            {
+              "team_background": "Stanford University",
+              "company_display": "SeaBank",
+              "company_total_funding_usd_millions": 75.0
+            },
+            {
+              "team_background": "Stanford University",
+              "company_display": "OneCalifornia ..",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "Stanford Business School",
+              "company_display": "Beneficial Sta..",
+              "company_total_funding_usd_millions": 218
+            },
+            {
+              "team_background": "Stanford Business School",
+              "company_display": "SeaBank",
+              "company_total_funding_usd_millions": 75.0
+            },
+            {
+              "team_background": "Stanford Business School",
+              "company_display": "Capital One",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "company_display": "Ujjivan Small ..",
+              "company_total_funding_usd_millions": 154
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "company_display": "Los Andes",
+              "company_total_funding_usd_millions": 10.0
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "company_display": "illimity",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "Wharton School",
+              "company_display": "Ujjivan Small ..",
+              "company_total_funding_usd_millions": 154
+            },
+            {
+              "team_background": "Wharton School",
+              "company_display": "Los Andes",
+              "company_total_funding_usd_millions": 10.0
+            },
+            {
+              "team_background": "Wharton School",
+              "company_display": "Frontier Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "IIM Ahmedabad",
+              "company_display": "Fincare",
+              "company_total_funding_usd_millions": 126
+            },
+            {
+              "team_background": "IIM Ahmedabad",
+              "company_display": "Dunia Finance",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "IIT Kanpur",
+              "company_display": "Fincare",
+              "company_total_funding_usd_millions": 126
+            },
+            {
+              "team_background": "HEC Paris",
+              "company_display": "Memo Bank",
+              "company_total_funding_usd_millions": 45.8
+            },
+            {
+              "team_background": "HEC Paris",
+              "company_display": "Margo Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "HEC Paris",
+              "company_display": "AfrAsia Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "University of Cambridge",
+              "company_display": "Fino Payments ..",
+              "company_total_funding_usd_millions": 35.0
+            },
+            {
+              "team_background": "University of Cambridge",
+              "company_display": "EDANBANK",
+              "company_total_funding_usd_millions": 1.9
+            },
+            {
+              "team_background": "University of Cambridge",
+              "company_display": "Platinum Bank",
+              "company_total_funding_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [
+            "Example companies are mapped to team-background rows based on their visual row alignment in the page layout.",
+            "Some rows have fewer visible example companies than others."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": true,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "funding_by_team_background_college_wise"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 15,
+      "page_headline": "Funding by Team Background - Company wise",
+      "section_key": "funding",
+      "subsection_key": "funding_by_team_background_company_wise",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Distribution by Team Background",
+          "chart_title": "Distribution by Team Background",
+          "chart_type": "horizontal_bar_chart",
+          "suggested_chart_type": "bar_chart_horizontal",
+          "data": [
+            {
+              "team_background": "Morgan Stanley",
+              "total_funding_usd_millions": 72
+            },
+            {
+              "team_background": "Google",
+              "total_funding_usd_millions": 18
+            },
+            {
+              "team_background": "Goldman Sachs",
+              "total_funding_usd_millions": null
+            },
+            {
+              "team_background": "McKinsey",
+              "total_funding_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [
+            "Rows with no visible funding label are normalized to null."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "funding_by_team_background_company_wise"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": null,
+          "chart_title": "Example Companies by Team Background",
+          "chart_type": "example_company_list",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "team_background": "Morgan Stanley",
+              "company_display": "Custodia",
+              "company_total_funding_usd_millions": 52.4
+            },
+            {
+              "team_background": "Morgan Stanley",
+              "company_display": "Sandhills Stat..",
+              "company_total_funding_usd_millions": 19.2
+            },
+            {
+              "team_background": "Google",
+              "company_display": "Dbank",
+              "company_total_funding_usd_millions": 17.6
+            },
+            {
+              "team_background": "Goldman Sachs",
+              "company_display": "Deutsche Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "McKinsey",
+              "company_display": "Deutsche Bank",
+              "company_total_funding_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [
+            "Example companies are mapped to team-background rows based on visual alignment in the page layout."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": true,
+          "dashboard_tab": "funding",
+          "dashboard_subtab": "funding_by_team_background_company_wise"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 16,
+      "page_headline": "Investors",
+      "section_key": "investors",
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Contents",
+        "Investors",
+        "YoY Investor Trends",
+        "Most Active Investors: Accelerators & Incubators",
+        "Most Active Investors: VC - Seed",
+        "Most Active Investors: VC - Early",
+        "Most Active Investors: VC - Late",
+        "Most Active Investors: PE"
+      ],
+      "charts": [],
+      "notes": []
+    },
+    {
+      "page_number": 17,
+      "page_headline": "Y-o-Y Active Investors",
+      "section_key": "investors",
+      "subsection_key": "yoy_active_investors",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Y-o-Y # of unique Institutional Investors in Banks",
+          "chart_title": "Y-o-Y # of unique Institutional Investors in Banks",
+          "chart_type": "stacked_bar_chart",
+          "suggested_chart_type": "stacked_bar_chart",
+          "data": [
+            {
+              "year": 2020,
+              "first_time_investors": 27,
+              "existing_investors": 24,
+              "total_unique_institutional_investors": 51
+            },
+            {
+              "year": 2021,
+              "first_time_investors": 38,
+              "existing_investors": 22,
+              "total_unique_institutional_investors": 60
+            },
+            {
+              "year": 2022,
+              "first_time_investors": 29,
+              "existing_investors": 20,
+              "total_unique_institutional_investors": 49
+            },
+            {
+              "year": 2023,
+              "first_time_investors": 22,
+              "existing_investors": 8,
+              "total_unique_institutional_investors": 30
+            },
+            {
+              "year": 2024,
+              "first_time_investors": 23,
+              "existing_investors": 6,
+              "total_unique_institutional_investors": 29
+            },
+            {
+              "year": 2025,
+              "first_time_investors": 4,
+              "existing_investors": 5,
+              "total_unique_institutional_investors": 9
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: First-time investors and Existing Investors are calculated from the available Equity Funding Rounds on Tracxn Platform. The numbers in the last column correspond to the change from previous period."
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "investors",
+          "dashboard_subtab": "yoy_active_investors"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Top Institutional Investors in the last 2 years",
+          "chart_title": "Top Institutional Investors in the last 2 years",
+          "chart_type": "grouped_ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "stage": "Seed Stage",
+              "investor_name": "Dubai Islamic Bank",
+              "rounds_in_last_2y": 2,
+              "change_from_previous_period_display": "--"
+            },
+            {
+              "stage": "Seed Stage",
+              "investor_name": "ALTA Bank",
+              "rounds_in_last_2y": 1,
+              "change_from_previous_period_display": "--"
+            },
+            {
+              "stage": "Seed Stage",
+              "investor_name": "Bapr",
+              "rounds_in_last_2y": 1,
+              "change_from_previous_period_display": "--"
+            },
+            {
+              "stage": "Early Stage",
+              "investor_name": "Accel",
+              "rounds_in_last_2y": 3,
+              "change_from_previous_period_display": "▲200%"
+            },
+            {
+              "stage": "Early Stage",
+              "investor_name": "Quona",
+              "rounds_in_last_2y": 3,
+              "change_from_previous_period_display": "▲200%"
+            },
+            {
+              "stage": "Early Stage",
+              "investor_name": "Lightspeed Venture Partners",
+              "rounds_in_last_2y": 2,
+              "change_from_previous_period_display": "--"
+            },
+            {
+              "stage": "Late Stage",
+              "investor_name": "FMO",
+              "rounds_in_last_2y": 3,
+              "change_from_previous_period_display": "▲200%"
+            },
+            {
+              "stage": "Late Stage",
+              "investor_name": "Aavishkaar Capital",
+              "rounds_in_last_2y": 1,
+              "change_from_previous_period_display": "--"
+            },
+            {
+              "stage": "Late Stage",
+              "investor_name": "Ananta Capital",
+              "rounds_in_last_2y": 1,
+              "change_from_previous_period_display": "--"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: First-time investors and Existing Investors are calculated from the available Equity Funding Rounds on Tracxn Platform. The numbers in the last column correspond to the change from previous period."
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "investors",
+          "dashboard_subtab": "yoy_active_investors"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 18,
+      "page_headline": "Most Active Investors: VC - Seed",
+      "section_key": "investors",
+      "subsection_key": "most_active_investors_vc_seed",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "Most Active Investors: VC - Seed",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "investor_name": "Forum Capital Advisors",
+              "country": "Singapore",
+              "overall_investments_count": 20,
+              "investments_in_feed_count": 3,
+              "notable_investments_in_feed": "Home Credit Group ($100M), Societe Generale, Alfa-Bank"
+            },
+            {
+              "rank": 2,
+              "investor_name": "Progression Capital Africa",
+              "country": "Kenya",
+              "overall_investments_count": 6,
+              "investments_in_feed_count": 3,
+              "notable_investments_in_feed": "Jamii Bora Bank ($11.7M), Entrepreneurs Financial Centre, Finance Trust"
+            },
+            {
+              "rank": 3,
+              "investor_name": "Acumen",
+              "country": "United States",
+              "overall_investments_count": 172,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Jamii Bora Bank ($11.7M), NRSP Microfinance Bank ($1.9M)"
+            },
+            {
+              "rank": 4,
+              "investor_name": "Brand Capital",
+              "country": "India",
+              "overall_investments_count": 606,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Catholic Syrian Bank ($16.0M), Northwest Bank"
+            },
+            {
+              "rank": 5,
+              "investor_name": "Burman Family Holdings",
+              "country": "United Kingdom",
+              "overall_investments_count": 43,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "RBL Bank ($121M), Abn Amro"
+            },
+            {
+              "rank": 6,
+              "investor_name": "Butter Ventures",
+              "country": "United States",
+              "overall_investments_count": 6,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "New Millennium Bank, Pacific City Bank"
+            },
+            {
+              "rank": 7,
+              "investor_name": "Encourage Capital",
+              "country": "United States",
+              "overall_investments_count": 23,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Meritum Bank, DCB Bank"
+            },
+            {
+              "rank": 8,
+              "investor_name": "Investisseurs & Partenaires",
+              "country": "France",
+              "overall_investments_count": 140,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Development Bank of Comoros, Finance Trust"
+            },
+            {
+              "rank": 9,
+              "investor_name": "Kachuwa Impact Fund",
+              "country": "United States",
+              "overall_investments_count": 44,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Climate First Bank ($29.0M), Clean Energy Credit Union"
+            },
+            {
+              "rank": 10,
+              "investor_name": "Northstar Group",
+              "country": "Singapore",
+              "overall_investments_count": 44,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "BTPN, PBCOM"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: *Feed = Banks. The number in bracket refers to the total funding raised by the company."
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "investors",
+          "dashboard_subtab": "most_active_investors_vc_seed"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 19,
+      "page_headline": "Most Active Investors: VC - Early Stage",
+      "section_key": "investors",
+      "subsection_key": "most_active_investors_vc_early",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "Most Active Investors: VC - Early Stage",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "investor_name": "Endicott Group",
+              "country": "United States",
+              "overall_investments_count": 62,
+              "investments_in_feed_count": 41,
+              "notable_investments_in_feed": "Anchor Bank ($175M), TriState Capital Bank ($121M), Community & Southern Bank ($115M)"
+            },
+            {
+              "rank": 2,
+              "investor_name": "TPG",
+              "country": "United States",
+              "overall_investments_count": 579,
+              "investments_in_feed_count": 9,
+              "notable_investments_in_feed": "Washington Mutual ($1.4B), Jana Small Finance Bank ($814M), Taixin"
+            },
+            {
+              "rank": 3,
+              "investor_name": "Goodwell Investments",
+              "country": "Netherlands",
+              "overall_investments_count": 50,
+              "investments_in_feed_count": 6,
+              "notable_investments_in_feed": "Equitas Small Finance Bank ($195M), Suryoday ($111M), Utkarsh Bank ($33.0M)"
+            },
+            {
+              "rank": 4,
+              "investor_name": "Atlantic Merchant Capital Investors",
+              "country": "United States",
+              "overall_investments_count": 32,
+              "investments_in_feed_count": 5,
+              "notable_investments_in_feed": "First Home Bank ($24.9M), USAmeriBank ($18.0M), Seacoast Commerce Bank ($10.0M)"
+            },
+            {
+              "rank": 5,
+              "investor_name": "Caspian",
+              "country": "India",
+              "overall_investments_count": 32,
+              "investments_in_feed_count": 5,
+              "notable_investments_in_feed": "Jana Small Finance Bank ($814M), Equitas Small Finance Bank ($195M), Ujjivan Small Finance Bank ($154M)"
+            },
+            {
+              "rank": 6,
+              "investor_name": "SBI Ven Capital",
+              "country": "Singapore",
+              "overall_investments_count": 53,
+              "investments_in_feed_count": 5,
+              "notable_investments_in_feed": "Bank Index ($34.0M), TPBank ($18.4M), SANASA Development Bank"
+            },
+            {
+              "rank": 7,
+              "investor_name": "Sequoia Capital",
+              "country": "United States",
+              "overall_investments_count": 1600,
+              "investments_in_feed_count": 5,
+              "notable_investments_in_feed": "Equitas Small Finance Bank ($195M), Ujjivan Small Finance Bank ($154M), DBank ($17.6M)"
+            },
+            {
+              "rank": 8,
+              "investor_name": "Unitus",
+              "country": "United States",
+              "overall_investments_count": 38,
+              "investments_in_feed_count": 5,
+              "notable_investments_in_feed": "Jana Small Finance Bank ($814M), Equitas Small Finance Bank ($195M), Ujjivan Small Finance Bank ($154M)"
+            },
+            {
+              "rank": 9,
+              "investor_name": "Aavishkaar Capital",
+              "country": "India",
+              "overall_investments_count": 74,
+              "investments_in_feed_count": 4,
+              "notable_investments_in_feed": "Equitas Small Finance Bank ($195M), Suryoday ($111M), Utkarsh Bank ($33.0M)"
+            },
+            {
+              "rank": 10,
+              "investor_name": "Kleiner Perkins",
+              "country": "United States",
+              "overall_investments_count": 803,
+              "investments_in_feed_count": 4,
+              "notable_investments_in_feed": "Nearside ($78.0M), synank.com ($73.0M), DBank ($17.6M)"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: *Feed = Banks. The number in bracket refers to the total funding raised by the company. Early Stage refers to Series A and Series B rounds"
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "investors",
+          "dashboard_subtab": "most_active_investors_vc_early"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 20,
+      "page_headline": "Most Active Investors: VC - Late Stage",
+      "section_key": "investors",
+      "subsection_key": "most_active_investors_vc_late",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "Most Active Investors: VC - Late Stage",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "investor_name": "Genertec Investment Management",
+              "country": "China",
+              "overall_investments_count": 14,
+              "investments_in_feed_count": 3,
+              "notable_investments_in_feed": "Bank of Communications, China Merchants Bank, Huishang Bank"
+            },
+            {
+              "rank": 2,
+              "investor_name": "Dragon Capital",
+              "country": "Vietnam",
+              "overall_investments_count": 13,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "VPBank ($1.5B), Sacombank ($78.0M)"
+            },
+            {
+              "rank": 3,
+              "investor_name": "Jiuzhou Venture Capital",
+              "country": "China",
+              "overall_investments_count": 22,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Jiangnan Rural Commercial Bank, Jiangsu Jiangnan Rural Commercial Bank"
+            },
+            {
+              "rank": 4,
+              "investor_name": "Amethyst inclusion",
+              "country": "Singapore",
+              "overall_investments_count": 1,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Fincare Small Finance Bank ($175M)"
+            },
+            {
+              "rank": 5,
+              "investor_name": "Arka Nxt",
+              "country": null,
+              "overall_investments_count": 1,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Jana Small Finance Bank ($814M)"
+            },
+            {
+              "rank": 6,
+              "investor_name": "C5 Capital",
+              "country": "United Kingdom",
+              "overall_investments_count": 25,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "synank.com ($73.0M)"
+            },
+            {
+              "rank": 7,
+              "investor_name": "EDBI",
+              "country": "Singapore",
+              "overall_investments_count": 245,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Jago"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: *Feed = Banks. The number in bracket refers to the total funding raised by the company. Late Stage refers to Series C & beyond rounds."
+          ],
+          "notes": [
+            "The visible page shows seven ranked rows."
+          ],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "investors",
+          "dashboard_subtab": "most_active_investors_vc_late"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 21,
+      "page_headline": "Most Active Investors: PE",
+      "section_key": "investors",
+      "subsection_key": "most_active_investors_pe",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "Most Active Investors: PE",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "investor_name": "IMM Holdings",
+              "country": "South Korea",
+              "overall_investments_count": 27,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Kbank ($86.7M)"
+            },
+            {
+              "rank": 2,
+              "investor_name": "IMM Private Equity",
+              "country": "South Korea",
+              "overall_investments_count": 14,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Kbank ($86.7M)"
+            },
+            {
+              "rank": 3,
+              "investor_name": "India Financial Inclusion Fund",
+              "country": "India",
+              "overall_investments_count": 1,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Equitas Small Finance Bank ($195M)"
+            },
+            {
+              "rank": 4,
+              "investor_name": "Insignia Capital Group",
+              "country": "United States",
+              "overall_investments_count": 38,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "CapitalSource ($540M)"
+            },
+            {
+              "rank": 5,
+              "investor_name": "Investindustrial",
+              "country": "China",
+              "overall_investments_count": 40,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Banca Popolare di Milano"
+            },
+            {
+              "rank": 6,
+              "investor_name": "IRF European Finance Investments",
+              "country": "Greece",
+              "overall_investments_count": 1,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Proton Bank"
+            },
+            {
+              "rank": 7,
+              "investor_name": "ISB Development",
+              "country": "United States",
+              "overall_investments_count": 6,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Affinity Bank"
+            },
+            {
+              "rank": 8,
+              "investor_name": "Istithmar World",
+              "country": "United Arab Emirates",
+              "overall_investments_count": 19,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Gulf African Bank"
+            },
+            {
+              "rank": 9,
+              "investor_name": "Japan Asia Investment",
+              "country": "Japan",
+              "overall_investments_count": 245,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "Shimane Bank"
+            },
+            {
+              "rank": 10,
+              "investor_name": "JAM Capital Partners",
+              "country": "United States",
+              "overall_investments_count": 9,
+              "investments_in_feed_count": 1,
+              "notable_investments_in_feed": "BrandBank ($240M)"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: *Feed = Banks. The number in bracket refers to the total funding raised by the company."
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "investors",
+          "dashboard_subtab": "most_active_investors_pe"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 22,
+      "page_headline": "Most Active Investors: Accelerators & Incubators",
+      "section_key": "investors",
+      "subsection_key": "most_active_investors_accelerators_incubators",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "Most Active Investors: Accelerators & Incubators",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "investor_name": "Village Capital",
+              "country": "United States",
+              "overall_investments_count": 1849,
+              "investments_in_feed_count": 3,
+              "notable_investments_in_feed": "Leaf Global Fintech ($145K), Banamex, Arab Bank"
+            },
+            {
+              "rank": 2,
+              "investor_name": "Accelerate Okanagan",
+              "country": "Canada",
+              "overall_investments_count": 311,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Prospera Credit Union, BDC"
+            },
+            {
+              "rank": 3,
+              "investor_name": "Aimforthemoon",
+              "country": "Netherlands",
+              "overall_investments_count": 29,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "De Volksbank, Rabobank"
+            },
+            {
+              "rank": 4,
+              "investor_name": "GxPartners",
+              "country": "Japan",
+              "overall_investments_count": 41,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Bank of Okinawa, Mitsubishi UFJ"
+            },
+            {
+              "rank": 5,
+              "investor_name": "Legend Star",
+              "country": "China",
+              "overall_investments_count": 215,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Hankou Bank, Shanghai Rural Commercial Bank"
+            },
+            {
+              "rank": 6,
+              "investor_name": "MassChallenge",
+              "country": "United States",
+              "overall_investments_count": 2899,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Sandbox Wealth ($1.3M), Bankdepot"
+            },
+            {
+              "rank": 7,
+              "investor_name": "Nuvolab",
+              "country": "Italy",
+              "overall_investments_count": 18,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Intesa Sanpaolo, Credit Agricole"
+            },
+            {
+              "rank": 8,
+              "investor_name": "ØPP",
+              "country": "Belgium",
+              "overall_investments_count": 11,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Nagelmackers, ING"
+            },
+            {
+              "rank": 9,
+              "investor_name": "TechAlliance",
+              "country": "Canada",
+              "overall_investments_count": 110,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "BMO, Libro Credit Union"
+            },
+            {
+              "rank": 10,
+              "investor_name": "Techstars",
+              "country": "United States",
+              "overall_investments_count": 4676,
+              "investments_in_feed_count": 2,
+              "notable_investments_in_feed": "Leaf Global Fintech ($145K), Xodus ($20.0K)"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: *Feed = Banks. The number in bracket refers to the total funding raised by the company."
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "investors",
+          "dashboard_subtab": "most_active_investors_accelerators_incubators"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 23,
+      "page_headline": "Acquisitions",
+      "section_key": "acquisitions",
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Contents",
+        "Acquisitions",
+        "Acquisition Trends",
+        "List of Acquisitions",
+        "Most Active Acquirers"
+      ],
+      "charts": [],
+      "notes": []
+    },
+    {
+      "page_number": 24,
+      "page_headline": "Quick Snapshot - Acquisitions",
+      "section_key": "acquisitions",
+      "subsection_key": "acquisition_trends",
+      "page_type": "snapshot_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Key Stats",
+          "chart_title": "Key Stats",
+          "chart_type": "kpi_cards",
+          "suggested_chart_type": "stat_cards",
+          "data": [
+            {
+              "metric_key": "total_acquisitions",
+              "label": "# Total Acquisitions",
+              "value": 1437,
+              "unit": "count"
+            },
+            {
+              "metric_key": "avg_years_from_first_funding_to_acq",
+              "label": "Avg. yrs from first funding to Acq.",
+              "value": 15.2,
+              "unit": "years"
+            },
+            {
+              "metric_key": "avg_funding_raised_before_acq",
+              "label": "Avg. Funding raised before Acq.",
+              "value": 53.6,
+              "unit": "usd_millions"
+            },
+            {
+              "metric_key": "avg_acq_price",
+              "label": "Avg. Acq. Price",
+              "value": 776,
+              "unit": "usd_millions"
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": null,
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "acquisition_trends"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Y-o-Y Acquisition Trends",
+          "chart_title": "Y-o-Y Acquisition Trends",
+          "chart_type": "bar_line_combo",
+          "suggested_chart_type": "bar_line_combo",
+          "data": [
+            {
+              "year": 2021,
+              "acquisitions_count": 135,
+              "avg_acquisition_price_usd_millions": 1200,
+              "is_ytd": false
+            },
+            {
+              "year": 2022,
+              "acquisitions_count": 137,
+              "avg_acquisition_price_usd_millions": 1200,
+              "is_ytd": false
+            },
+            {
+              "year": 2023,
+              "acquisitions_count": 57,
+              "avg_acquisition_price_usd_millions": 328,
+              "is_ytd": false
+            },
+            {
+              "year": 2024,
+              "acquisitions_count": 92,
+              "avg_acquisition_price_usd_millions": 1000,
+              "is_ytd": false
+            },
+            {
+              "year": 2025,
+              "acquisitions_count": 55,
+              "avg_acquisition_price_usd_millions": 1000,
+              "is_ytd": true
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": "usd_millions",
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "acquisition_trends"
+        },
+        {
+          "panel_order": 3,
+          "panel_label": "All-time Top Acquisitions",
+          "chart_title": "All-time Top Acquisitions",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "Merrill Lynch",
+              "meta_display": "(1990, New York City)",
+              "acq_price_usd_billions": 50.0
+            },
+            {
+              "rank": 2,
+              "company_display": "LCL",
+              "meta_display": "(1863, Paris)",
+              "acq_price_usd_billions": 20.0
+            },
+            {
+              "rank": 3,
+              "company_display": "St.George Bank",
+              "meta_display": "(1937, Sydney)",
+              "acq_price_usd_billions": 17.5
+            },
+            {
+              "rank": 4,
+              "company_display": "Bank of the West",
+              "meta_display": "(1874, San Francisco)",
+              "acq_price_usd_billions": 16.3
+            },
+            {
+              "rank": 5,
+              "company_display": "IndyMac Bank",
+              "meta_display": "(1936, Pasadena)",
+              "acq_price_usd_billions": 13.9
+            },
+            {
+              "rank": 6,
+              "company_display": "First Horizon Nati..",
+              "meta_display": "(1864, Memphis)",
+              "acq_price_usd_billions": 13.4
+            },
+            {
+              "rank": 7,
+              "company_display": "BBVA in the USA",
+              "meta_display": "(1964, Birmingham)",
+              "acq_price_usd_billions": 11.6
+            },
+            {
+              "rank": 8,
+              "company_display": "Ingdirect.com",
+              "meta_display": "(1996)",
+              "acq_price_usd_billions": 9.0
+            },
+            {
+              "rank": 9,
+              "company_display": "Ahli United Bank",
+              "meta_display": "(1966, London)",
+              "acq_price_usd_billions": 8.8
+            },
+            {
+              "rank": 10,
+              "company_display": "Nanyang Commercial..",
+              "meta_display": "(1949, Hong Kong)",
+              "acq_price_usd_billions": 8.8
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Truncated company labels are preserved exactly as shown in the PDF where applicable."
+          ],
+          "value_unit": "usd_billions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "acquisition_trends"
+        },
+        {
+          "panel_order": 4,
+          "panel_label": "Top Investors by # Acq. Exits",
+          "chart_title": "Top Investors by # Acq. Exits",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "investor_name": "Castle Creek Capital",
+              "acq_exits_count": 14,
+              "notable_acq_display": "Guaranty Bank, Independent.."
+            },
+            {
+              "rank": 2,
+              "investor_name": "IFC",
+              "acq_exits_count": 13,
+              "notable_acq_display": "Ameriabank, Alpha Bank, I&.."
+            },
+            {
+              "rank": 3,
+              "investor_name": "Endicott Group",
+              "acq_exits_count": 13,
+              "notable_acq_display": "TriState Capital Bank, Com.."
+            },
+            {
+              "rank": 4,
+              "investor_name": "FMO",
+              "acq_exits_count": 11,
+              "notable_acq_display": "Ameriabank, Sidian Bank, S.."
+            },
+            {
+              "rank": 5,
+              "investor_name": "Patriot Financial Partn..",
+              "acq_exits_count": 11,
+              "notable_acq_display": "United Community Bank, Cen.."
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Truncated labels are preserved exactly as shown in the PDF."
+          ],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "acquisition_trends"
+        },
+        {
+          "panel_order": 5,
+          "panel_label": "Acquisitions Distribution by Acq. Price",
+          "chart_title": "Acquisitions Distribution by Acq. Price",
+          "chart_type": "histogram",
+          "suggested_chart_type": "bar_chart",
+          "data": [
+            {
+              "price_range_display": "$0-250M",
+              "acquisitions_count": 392
+            },
+            {
+              "price_range_display": "$250-500M",
+              "acquisitions_count": 51
+            },
+            {
+              "price_range_display": "$500-750M",
+              "acquisitions_count": 27
+            },
+            {
+              "price_range_display": "$750M-1B",
+              "acquisitions_count": 20
+            },
+            {
+              "price_range_display": ">$1B",
+              "acquisitions_count": 71
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "acquisition_trends"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 25,
+      "page_headline": "List of Acquisitions (1/2)",
+      "section_key": "acquisitions",
+      "subsection_key": "list_of_acquisitions",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Back to index"
+      ],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "List of Acquisitions (1/2)",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "Dogwood State Bank",
+              "meta_display": "(2018, United States)",
+              "acquirer_display": "TowneBank",
+              "acq_date_display": "Aug 2025",
+              "acq_price_usd_millions": 476
+            },
+            {
+              "rank": 2,
+              "company_display": "BankFinancial",
+              "meta_display": "(1924, United States)",
+              "acquirer_display": "First Financial Bank",
+              "acq_date_display": "Aug 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 3,
+              "company_display": "Thomas County Federal",
+              "meta_display": "(1934, United States)",
+              "acquirer_display": "Colony Bank",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": 86
+            },
+            {
+              "rank": 4,
+              "company_display": "Heritage Bank",
+              "meta_display": "(1924, United States)",
+              "acquirer_display": "OnPath",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 5,
+              "company_display": "ONE Swiss bank",
+              "meta_display": "(1984, Switzerland)",
+              "acquirer_display": "Gonet & Cie",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 6,
+              "company_display": "Signature Bank of Georgia",
+              "meta_display": "(2005, United States, $18M)",
+              "acquirer_display": "First Community Corporation",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 7,
+              "company_display": "Veritex Bank",
+              "meta_display": "(2009, United States, $41M)",
+              "acquirer_display": "Huntington National Bank",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": 1900
+            },
+            {
+              "rank": 8,
+              "company_display": "OTP Group",
+              "meta_display": "(1949, Hungary)",
+              "acquirer_display": "Alixio Group",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 9,
+              "company_display": "Progressive Bank",
+              "meta_display": "(1975, United States)",
+              "acquirer_display": "Business First Bank",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 10,
+              "company_display": "Presence Bank",
+              "meta_display": "(1919, United States)",
+              "acquirer_display": "Wayne Bank",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Rows with 'NA' in the PDF are normalized to null."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "list_of_acquisitions"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 26,
+      "page_headline": "List of Acquisitions (2/2)",
+      "section_key": "acquisitions",
+      "subsection_key": "list_of_acquisitions",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [
+        "View all 1437 companies on Tracxn Platform",
+        "Back to index"
+      ],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "List of Acquisitions (2/2)",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "Cornerstone Community Bank",
+              "meta_display": "(2015, United States)",
+              "acquirer_display": "Plumas Bank",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 2,
+              "company_display": "Magnolia State Bank",
+              "meta_display": "(1975, United States)",
+              "acquirer_display": "BankFirst",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 3,
+              "company_display": "TSB Bank",
+              "meta_display": "(1812, United Kingdom)",
+              "acquirer_display": "Santander",
+              "acq_date_display": "Jul 2025",
+              "acq_price_usd_millions": 3600
+            },
+            {
+              "rank": 4,
+              "company_display": "Cetelem",
+              "meta_display": "(1953, Argentina)",
+              "acquirer_display": "Revolut",
+              "acq_date_display": "Jun 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 5,
+              "company_display": "Guaranty Bank & Trust",
+              "meta_display": "(1913, United States, $7M)",
+              "acquirer_display": "Glacier Bancorp",
+              "acq_date_display": "Jun 2025",
+              "acq_price_usd_millions": 476
+            },
+            {
+              "rank": 6,
+              "company_display": "Holladay Bank And Trust",
+              "meta_display": "(1974, United States)",
+              "acquirer_display": "Redemption Holding",
+              "acq_date_display": "Jun 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 7,
+              "company_display": "novobanco",
+              "meta_display": "(2014, Portugal)",
+              "acquirer_display": "Groupe BPCE",
+              "acq_date_display": "Jun 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 8,
+              "company_display": "Sumac Microfinance Bank",
+              "meta_display": "(2004, Kenya)",
+              "acquirer_display": "Moniepoint",
+              "acq_date_display": "Jun 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 9,
+              "company_display": "Legacy Bank and Trust",
+              "meta_display": "(1907, United States)",
+              "acquirer_display": "Southern Bancorp",
+              "acq_date_display": "Jun 2025",
+              "acq_price_usd_millions": null
+            },
+            {
+              "rank": 10,
+              "company_display": "SBI Sumishin Net Bank",
+              "meta_display": "(2007, Japan)",
+              "acquirer_display": "docomo.ne.jp",
+              "acq_date_display": "May 2025",
+              "acq_price_usd_millions": 2900
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Rows with 'NA' in the PDF are normalized to null."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "list_of_acquisitions"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 27,
+      "page_headline": "Most Active Acquirers",
+      "section_key": "acquisitions",
+      "subsection_key": "most_active_acquirers",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "Most Active Acquirers",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "acquirer_name": "Access Bank",
+              "country": "Nigeria",
+              "acq_count": 13,
+              "average_acq_price_usd_millions": 444,
+              "companies_acquired_display": "Bidvest Bank ($159M), Standard Chartered Angola, Standard Chartered Bank Sierra Leone, National Bank +9 more"
+            },
+            {
+              "rank": 2,
+              "acquirer_name": "Seacoast National Bank",
+              "country": "United States",
+              "acq_count": 11,
+              "average_acq_price_usd_millions": 970,
+              "companies_acquired_display": "Heartland National Bank, Professional Bank ($489M), Drummond Community Bank, Apollo Bank ($168M) +7 more"
+            },
+            {
+              "rank": 3,
+              "acquirer_name": "Glacier Bancorp",
+              "country": "United States",
+              "acq_count": 10,
+              "average_acq_price_usd_millions": 2000,
+              "companies_acquired_display": "Guaranty Bank & Trust ($476M), Bank of Idaho ($245M), Wheatland Bank, Altabancorp ($934M) +6 more"
+            },
+            {
+              "rank": 4,
+              "acquirer_name": "First Citizens Bank",
+              "country": "United States",
+              "acq_count": 9,
+              "average_acq_price_usd_millions": 375,
+              "companies_acquired_display": "SVB, Gwinnett Community Bank ($2.3M), Securant Bank, Entegra Bank ($220M) +5 more"
+            },
+            {
+              "rank": 5,
+              "acquirer_name": "Home BancShares",
+              "country": "United States",
+              "acq_count": 9,
+              "average_acq_price_usd_millions": 1100,
+              "companies_acquired_display": "Happy Bancshares, Happy State Bank, Stonegate Bank ($778M), Liberty National Bank ($280M) +5 more"
+            },
+            {
+              "rank": 6,
+              "acquirer_name": "United Community Bank",
+              "country": "United States",
+              "acq_count": 8,
+              "average_acq_price_usd_millions": 940,
+              "companies_acquired_display": "Reliant Bank ($517M), Aquesta Bank ($131M), Four Oaks Bank ($124M), First National Bank of South Miami ($116M) +4 more"
+            },
+            {
+              "rank": 7,
+              "acquirer_name": "The First Bank",
+              "country": "United States",
+              "acq_count": 8,
+              "average_acq_price_usd_millions": 199,
+              "companies_acquired_display": "SGB, First Florida Bank, Florida Parishes Bank ($86.1M), Farmers and Merchants Bank ($80.0M) +4 more"
+            },
+            {
+              "rank": 8,
+              "acquirer_name": "Heartland Financial USA",
+              "country": "United States",
+              "acq_count": 8,
+              "average_acq_price_usd_millions": 1000,
+              "companies_acquired_display": "AimBank ($280M), Citywide Banks ($212M), Firstbank & Trust ($203M), Bank of Blue Valley ($93.9M) +4 more"
+            },
+            {
+              "rank": 9,
+              "acquirer_name": "CenterState Bank",
+              "country": "United States",
+              "acq_count": 8,
+              "average_acq_price_usd_millions": 1500,
+              "companies_acquired_display": "National Bank of Commerce ($850M), CharterBank, Harbor Community Bank Florida ($417M), Platinum Bank +4 more"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Numbers in bracket indicate the Acquisition Price of the company."
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": "usd_millions",
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "acquisitions",
+          "dashboard_subtab": "most_active_acquirers"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 28,
+      "page_headline": "IPOs",
+      "section_key": "ipos",
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Contents",
+        "IPOs",
+        "IPO Trends",
+        "List of IPOs"
+      ],
+      "charts": [],
+      "notes": []
+    },
+    {
+      "page_number": 29,
+      "page_headline": "Quick Snapshot - IPOs",
+      "section_key": "ipos",
+      "subsection_key": "ipo_trends",
+      "page_type": "snapshot_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Key Stats",
+          "chart_title": "Key Stats",
+          "chart_type": "kpi_cards",
+          "suggested_chart_type": "stat_cards",
+          "data": [
+            {
+              "metric_key": "total_ipos",
+              "label": "# Total IPOs",
+              "value": 1177,
+              "unit": "count"
+            },
+            {
+              "metric_key": "avg_years_from_first_funding_to_ipo",
+              "label": "Avg. yrs from first funding to IPO",
+              "value": 17.7,
+              "unit": "years"
+            },
+            {
+              "metric_key": "avg_funding_raised_before_ipo",
+              "label": "Avg. Funding raised before IPO",
+              "value": 436,
+              "unit": "usd_millions"
+            },
+            {
+              "metric_key": "avg_ipo_mcap",
+              "label": "Avg. IPO Mcap",
+              "value": 136,
+              "unit": "valuation_usd_billions"
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": null,
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "ipos",
+          "dashboard_subtab": "ipo_trends"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Y-o-Y IPO Trends",
+          "chart_title": "Y-o-Y IPO Trends",
+          "chart_type": "bar_line_combo",
+          "suggested_chart_type": "bar_line_combo",
+          "data": [
+            {
+              "year": 2021,
+              "ipos_count": 30,
+              "avg_ipo_mcap_usd_millions": 1800,
+              "is_ytd": false
+            },
+            {
+              "year": 2022,
+              "ipos_count": 15,
+              "avg_ipo_mcap_usd_millions": 643,
+              "is_ytd": false
+            },
+            {
+              "year": 2023,
+              "ipos_count": 10,
+              "avg_ipo_mcap_usd_millions": 223,
+              "is_ytd": false
+            },
+            {
+              "year": 2024,
+              "ipos_count": 10,
+              "avg_ipo_mcap_usd_millions": 338000,
+              "is_ytd": false
+            },
+            {
+              "year": 2025,
+              "ipos_count": 8,
+              "avg_ipo_mcap_usd_millions": 817,
+              "is_ytd": true
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "The PDF visibly shows the 2024 average IPO Mcap label as '$338B' and it is preserved as shown."
+          ],
+          "value_unit": "count",
+          "secondary_value_unit": "usd_millions",
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "ipos",
+          "dashboard_subtab": "ipo_trends"
+        },
+        {
+          "panel_order": 3,
+          "panel_label": "All-time Top IPOs",
+          "chart_title": "All-time Top IPOs",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "National Bank of K..",
+              "meta_display": "(1952, Kuwait City)",
+              "ipo_mcap_usd_billions": 27473.6
+            },
+            {
+              "rank": 2,
+              "company_display": "MTS Bank",
+              "meta_display": "(2011, Moscow, $164M)",
+              "ipo_mcap_usd_billions": 2349.0
+            },
+            {
+              "rank": 3,
+              "company_display": "Shanghai Pudong De..",
+              "meta_display": "(1992, Shanghai)",
+              "ipo_mcap_usd_billions": 211
+            },
+            {
+              "rank": 4,
+              "company_display": "Bank of the Philip..",
+              "meta_display": "(1851, Makati)",
+              "ipo_mcap_usd_billions": 189
+            },
+            {
+              "rank": 5,
+              "company_display": "Bank of China",
+              "meta_display": "(1912, Beijing)",
+              "ipo_mcap_usd_billions": 144
+            },
+            {
+              "rank": 6,
+              "company_display": "National Commercia..",
+              "meta_display": "(1953, Jeddah)",
+              "ipo_mcap_usd_billions": 64.2
+            },
+            {
+              "rank": 7,
+              "company_display": "China Minsheng Bank",
+              "meta_display": "(1996, Beijing)",
+              "ipo_mcap_usd_billions": 50.9
+            },
+            {
+              "rank": 8,
+              "company_display": "Eastern Bank",
+              "meta_display": "(1818, Lynn)",
+              "ipo_mcap_usd_billions": 46.1
+            },
+            {
+              "rank": 9,
+              "company_display": "Bank of Georgia",
+              "meta_display": "(1903, Tbilisi)",
+              "ipo_mcap_usd_billions": 42.3
+            },
+            {
+              "rank": 10,
+              "company_display": "Bank of Jiangsu",
+              "meta_display": "(2007, Nanjing)",
+              "ipo_mcap_usd_billions": 24.6
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Truncated company labels are preserved exactly as shown in the PDF where applicable."
+          ],
+          "value_unit": "ipo_mcap_usd_billions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "ipos",
+          "dashboard_subtab": "ipo_trends"
+        },
+        {
+          "panel_order": 4,
+          "panel_label": "Top Investors by # IPO Exits",
+          "chart_title": "Top Investors by # IPO Exits",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "investor_name": "European Union",
+              "ipo_exits_count": 29,
+              "notable_ipos_display": "Alpha Bank, Bank of Ireland.."
+            },
+            {
+              "rank": 2,
+              "investor_name": "Patriot Financial Partners",
+              "ipo_exits_count": 24,
+              "notable_ipos_display": "First National Bank, Origin.."
+            },
+            {
+              "rank": 3,
+              "investor_name": "Endicott Group",
+              "ipo_exits_count": 19,
+              "notable_ipos_display": "Equity Bank, Metropolitan C.."
+            },
+            {
+              "rank": 4,
+              "investor_name": "IFC Asset Management Company",
+              "ipo_exits_count": 15,
+              "notable_ipos_display": "Bandhan Bank, Bank Muscat, .."
+            },
+            {
+              "rank": 5,
+              "investor_name": "IFC",
+              "ipo_exits_count": 14,
+              "notable_ipos_display": "AU Small Finance Bank, Ujji.."
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Truncated labels are preserved exactly as shown in the PDF."
+          ],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "ipos",
+          "dashboard_subtab": "ipo_trends"
+        },
+        {
+          "panel_order": 5,
+          "panel_label": "IPOs Distribution by IPO Mcap",
+          "chart_title": "IPOs Distribution by IPO Mcap",
+          "chart_type": "histogram",
+          "suggested_chart_type": "bar_chart",
+          "data": [
+            {
+              "mcap_range_display": "$0-250M",
+              "ipos_count": 109
+            },
+            {
+              "mcap_range_display": "$250-500M",
+              "ipos_count": 40
+            },
+            {
+              "mcap_range_display": "$500-750M",
+              "ipos_count": 17
+            },
+            {
+              "mcap_range_display": "$750M-1B",
+              "ipos_count": 3
+            },
+            {
+              "mcap_range_display": ">$1B",
+              "ipos_count": 60
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "ipos",
+          "dashboard_subtab": "ipo_trends"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 30,
+      "page_headline": "List of IPOs (1/2)",
+      "section_key": "ipos",
+      "subsection_key": "list_of_ipos",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Back to index"
+      ],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "List of IPOs (1/2)",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "Avidia Bank",
+              "meta_display": "(2007, United States, $53M)",
+              "investors_display": null,
+              "ipo_date_display": "Aug 2025",
+              "ipo_mcap_usd_millions": null
+            },
+            {
+              "rank": 2,
+              "company_display": "CoastalStates Bank",
+              "meta_display": "(2004, United States, $116M)",
+              "investors_display": "Patriot Financial Partners",
+              "ipo_date_display": "Jul 2025",
+              "ipo_mcap_usd_millions": 257
+            },
+            {
+              "rank": 3,
+              "company_display": "Triodos Bank",
+              "meta_display": "(1980, Netherlands, $6M)",
+              "investors_display": "Schroders, Big Society .., +6 more",
+              "ipo_date_display": "Jun 2025",
+              "ipo_mcap_usd_millions": 499
+            },
+            {
+              "rank": 4,
+              "company_display": "Winchester Savings Bank",
+              "meta_display": "(1871, United States)",
+              "investors_display": null,
+              "ipo_date_display": "May 2025",
+              "ipo_mcap_usd_millions": 93
+            },
+            {
+              "rank": 5,
+              "company_display": "HomeTrust Bank",
+              "meta_display": "(1926, United States)",
+              "investors_display": null,
+              "ipo_date_display": "Feb 2025",
+              "ipo_mcap_usd_millions": null
+            },
+            {
+              "rank": 6,
+              "company_display": "Northpointe Bank",
+              "meta_display": "(1999, United States, $120M)",
+              "investors_display": "Castle Creek Capital",
+              "ipo_date_display": "Feb 2025",
+              "ipo_mcap_usd_millions": 497
+            },
+            {
+              "rank": 7,
+              "company_display": "Magnolia Bank",
+              "meta_display": "(1919, United States)",
+              "investors_display": null,
+              "ipo_date_display": "Jan 2025",
+              "ipo_mcap_usd_millions": 8
+            },
+            {
+              "rank": 8,
+              "company_display": "Yibin City Commercial Bank",
+              "meta_display": "(2006, China)",
+              "investors_display": null,
+              "ipo_date_display": "Jan 2025",
+              "ipo_mcap_usd_millions": 4400
+            },
+            {
+              "rank": 9,
+              "company_display": "OptimumBank",
+              "meta_display": "(2000, United States, $8M)",
+              "investors_display": null,
+              "ipo_date_display": "Dec 2024",
+              "ipo_mcap_usd_millions": null
+            },
+            {
+              "rank": 10,
+              "company_display": "Trøndelag Sparebank",
+              "meta_display": "(1864, Norway)",
+              "investors_display": null,
+              "ipo_date_display": "Dec 2024",
+              "ipo_mcap_usd_millions": 42
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Rows with '-' in the PDF are normalized to null."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "ipos",
+          "dashboard_subtab": "list_of_ipos"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 31,
+      "page_headline": "List of IPOs (2/2)",
+      "section_key": "ipos",
+      "subsection_key": "list_of_ipos",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [
+        "View all 1177 companies on Tracxn Platform",
+        "Back to index"
+      ],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "List of IPOs (2/2)",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "company_display": "Fidelity Bank",
+              "meta_display": "(1908, United States)",
+              "investors_display": null,
+              "ipo_date_display": "Oct 2024",
+              "ipo_mcap_usd_millions": 198
+            },
+            {
+              "rank": 2,
+              "company_display": "Chain Bridge Bank",
+              "meta_display": "(2007, United States, $19M)",
+              "investors_display": null,
+              "ipo_date_display": "Oct 2024",
+              "ipo_mcap_usd_millions": 41
+            },
+            {
+              "rank": 3,
+              "company_display": "Fifth District Savings Bank",
+              "meta_display": "(1926, United States)",
+              "investors_display": null,
+              "ipo_date_display": "Aug 2024",
+              "ipo_mcap_usd_millions": null
+            },
+            {
+              "rank": 4,
+              "company_display": "MTS Bank",
+              "meta_display": "(2011, Russia, $164M)",
+              "investors_display": "Sistema",
+              "ipo_date_display": "Apr 2024",
+              "ipo_mcap_usd_millions": 2349000
+            },
+            {
+              "rank": 5,
+              "company_display": "Kasikornbank",
+              "meta_display": "(1945, Thailand, $20M)",
+              "investors_display": "Woori Bank, BCcard",
+              "ipo_date_display": "Apr 2024",
+              "ipo_mcap_usd_millions": null
+            },
+            {
+              "rank": 6,
+              "company_display": "Jana Small Finance Bank",
+              "meta_display": "(1999, India, $1.1B)",
+              "investors_display": "Amansa Capital, Volrado.., +64 more",
+              "ipo_date_display": "Feb 2024",
+              "ipo_mcap_usd_millions": 521
+            },
+            {
+              "rank": 7,
+              "company_display": "Capital Small Finance Bank",
+              "meta_display": "(2016, India, $52M)",
+              "investors_display": "ICICI Prudential Life.., +13 more",
+              "ipo_date_display": "Feb 2024",
+              "ipo_mcap_usd_millions": 253
+            },
+            {
+              "rank": 8,
+              "company_display": "Kaspi",
+              "meta_display": "(1997, Kazakhstan)",
+              "investors_display": "Baring Ventures",
+              "ipo_date_display": "Jan 2024",
+              "ipo_mcap_usd_millions": 17400
+            },
+            {
+              "rank": 9,
+              "company_display": "Needham Bank",
+              "meta_display": "(1892, United States)",
+              "investors_display": null,
+              "ipo_date_display": "Dec 2023",
+              "ipo_mcap_usd_millions": 275
+            },
+            {
+              "rank": 10,
+              "company_display": "Sovcombank",
+              "meta_display": "(1991, Russia, $300M)",
+              "investors_display": "Russia-China Investme.., +2 more",
+              "ipo_date_display": "Dec 2023",
+              "ipo_mcap_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [
+            "Rows with '-' in the PDF are normalized to null.",
+            "Billion-denominated IPO market caps are normalized into usd_millions."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "ipos",
+          "dashboard_subtab": "list_of_ipos"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 32,
+      "page_headline": "Companies",
+      "section_key": "companies",
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Contents",
+        "Companies",
+        "Companies by Geography",
+        "Companies by Team Background - College wise",
+        "Companies by Team Background - Company wise"
+      ],
+      "charts": [],
+      "notes": []
+    },
+    {
+      "page_number": 33,
+      "page_headline": "Companies by Geography",
+      "section_key": "companies",
+      "subsection_key": "companies_by_geography",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Distribution by Country - Companies founded",
+          "chart_title": "Distribution by Country - Companies founded",
+          "chart_type": "stacked_horizontal_bar",
+          "suggested_chart_type": "stacked_bar_horizontal",
+          "data": [
+            {
+              "country": "United States",
+              "unfunded_companies": 11884,
+              "funded_companies": 1336,
+              "total_companies": 13220
+            },
+            {
+              "country": "United Kingdom",
+              "unfunded_companies": 1259,
+              "funded_companies": 42,
+              "total_companies": 1301
+            },
+            {
+              "country": "India",
+              "unfunded_companies": 1141,
+              "funded_companies": 61,
+              "total_companies": 1202
+            },
+            {
+              "country": "Germany",
+              "unfunded_companies": 1080,
+              "funded_companies": 25,
+              "total_companies": 1105
+            },
+            {
+              "country": "Nigeria",
+              "unfunded_companies": 350,
+              "funded_companies": 30,
+              "total_companies": 380
+            },
+            {
+              "country": "China",
+              "unfunded_companies": 179,
+              "funded_companies": 69,
+              "total_companies": 248
+            },
+            {
+              "country": "Indonesia",
+              "unfunded_companies": 157,
+              "funded_companies": 37,
+              "total_companies": 194
+            },
+            {
+              "country": "Italy",
+              "unfunded_companies": 124,
+              "funded_companies": 39,
+              "total_companies": 163
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "country",
+          "estimated": false,
+          "dashboard_tab": "companies",
+          "dashboard_subtab": "companies_by_geography"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": "Top Cities by Companies founded",
+          "chart_title": "Top Cities by Companies founded",
+          "chart_type": "ranking_list",
+          "suggested_chart_type": "bar_chart_horizontal",
+          "data": [
+            {
+              "rank": 1,
+              "city": "London",
+              "companies_count": 527
+            },
+            {
+              "rank": 2,
+              "city": "New York City",
+              "companies_count": 330
+            },
+            {
+              "rank": 3,
+              "city": "Moscow",
+              "companies_count": 154
+            },
+            {
+              "rank": 4,
+              "city": "Lagos",
+              "companies_count": 136
+            },
+            {
+              "rank": 5,
+              "city": "Chicago",
+              "companies_count": 122
+            },
+            {
+              "rank": 6,
+              "city": "Mumbai",
+              "companies_count": 121
+            },
+            {
+              "rank": 7,
+              "city": "Jakarta",
+              "companies_count": 107
+            },
+            {
+              "rank": 8,
+              "city": "Dallas",
+              "companies_count": 91
+            },
+            {
+              "rank": 9,
+              "city": "Nairobi",
+              "companies_count": 67
+            },
+            {
+              "rank": 10,
+              "city": "Beijing",
+              "companies_count": 23
+            }
+          ],
+          "source": null,
+          "footnotes": [],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "city",
+          "estimated": false,
+          "dashboard_tab": "companies",
+          "dashboard_subtab": "companies_by_geography"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 34,
+      "page_headline": "Companies by Team Background - College wise",
+      "section_key": "companies",
+      "subsection_key": "companies_by_team_background_college_wise",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Distribution by Team Background",
+          "chart_title": "Distribution by Team Background",
+          "chart_type": "stacked_horizontal_bar",
+          "suggested_chart_type": "stacked_bar_horizontal",
+          "data": [
+            {
+              "team_background": "Stanford University",
+              "unfunded_companies": 3,
+              "funded_companies": 4,
+              "total_companies": 7
+            },
+            {
+              "team_background": "Stanford Business School",
+              "unfunded_companies": 1,
+              "funded_companies": 4,
+              "total_companies": 5
+            },
+            {
+              "team_background": "University of Cambridge",
+              "unfunded_companies": 1,
+              "funded_companies": 3,
+              "total_companies": 4
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "unfunded_companies": 2,
+              "funded_companies": 2,
+              "total_companies": 4
+            },
+            {
+              "team_background": "HEC Paris",
+              "unfunded_companies": 1,
+              "funded_companies": 2,
+              "total_companies": 3
+            },
+            {
+              "team_background": "Wharton School",
+              "unfunded_companies": 1,
+              "funded_companies": 2,
+              "total_companies": 3
+            },
+            {
+              "team_background": "Harvard University",
+              "unfunded_companies": 1,
+              "funded_companies": 1,
+              "total_companies": 2
+            },
+            {
+              "team_background": "IIM Ahmedabad",
+              "unfunded_companies": 0,
+              "funded_companies": 2,
+              "total_companies": 2
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "companies",
+          "dashboard_subtab": "companies_by_team_background_college_wise"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": null,
+          "chart_title": "Example Companies by Team Background",
+          "chart_type": "example_company_list",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "team_background": "Stanford University",
+              "company_display": "Beneficial Sta..",
+              "company_total_funding_usd_millions": 218
+            },
+            {
+              "team_background": "Stanford University",
+              "company_display": "SeaBank",
+              "company_total_funding_usd_millions": 75.0
+            },
+            {
+              "team_background": "Stanford University",
+              "company_display": "OneCalifornia ..",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "Stanford Business School",
+              "company_display": "Beneficial Sta..",
+              "company_total_funding_usd_millions": 218
+            },
+            {
+              "team_background": "Stanford Business School",
+              "company_display": "SeaBank",
+              "company_total_funding_usd_millions": 75.0
+            },
+            {
+              "team_background": "Stanford Business School",
+              "company_display": "Capital One",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "University of Cambridge",
+              "company_display": "Fino Payments ..",
+              "company_total_funding_usd_millions": 35.0
+            },
+            {
+              "team_background": "University of Cambridge",
+              "company_display": "EDANBANK",
+              "company_total_funding_usd_millions": 1.9
+            },
+            {
+              "team_background": "University of Cambridge",
+              "company_display": "Platinum Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "company_display": "Ujjivan Small ..",
+              "company_total_funding_usd_millions": 154
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "company_display": "Los Andes",
+              "company_total_funding_usd_millions": 10.0
+            },
+            {
+              "team_background": "University of Pennsylvania",
+              "company_display": "illimity",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "HEC Paris",
+              "company_display": "Memo Bank",
+              "company_total_funding_usd_millions": 45.8
+            },
+            {
+              "team_background": "HEC Paris",
+              "company_display": "Margo Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "HEC Paris",
+              "company_display": "AfrAsia Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "Wharton School",
+              "company_display": "Ujjivan Small ..",
+              "company_total_funding_usd_millions": 154
+            },
+            {
+              "team_background": "Wharton School",
+              "company_display": "Los Andes",
+              "company_total_funding_usd_millions": 10.0
+            },
+            {
+              "team_background": "Wharton School",
+              "company_display": "Frontier Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "Harvard University",
+              "company_display": "SVB",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "Harvard University",
+              "company_display": "OneCalifornia ..",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "IIM Ahmedabad",
+              "company_display": "Fincare",
+              "company_total_funding_usd_millions": 126
+            },
+            {
+              "team_background": "IIM Ahmedabad",
+              "company_display": "Dunia Finance",
+              "company_total_funding_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [
+            "Example companies are mapped to team-background rows based on visual row alignment in the page layout.",
+            "Some rows have fewer visible example companies than others."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": true,
+          "dashboard_tab": "companies",
+          "dashboard_subtab": "companies_by_team_background_college_wise"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 35,
+      "page_headline": "Companies by Team Background - Company wise",
+      "section_key": "companies",
+      "subsection_key": "companies_by_team_background_company_wise",
+      "page_type": "mixed_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": "Distribution by Team Background",
+          "chart_title": "Distribution by Team Background",
+          "chart_type": "stacked_horizontal_bar",
+          "suggested_chart_type": "stacked_bar_horizontal",
+          "data": [
+            {
+              "team_background": "Morgan Stanley",
+              "unfunded_companies": 0,
+              "funded_companies": 2,
+              "total_companies": 2
+            },
+            {
+              "team_background": "Goldman Sachs",
+              "unfunded_companies": 0,
+              "funded_companies": 1,
+              "total_companies": 1
+            },
+            {
+              "team_background": "Google",
+              "unfunded_companies": 0,
+              "funded_companies": 1,
+              "total_companies": 1
+            },
+            {
+              "team_background": "McKinsey",
+              "unfunded_companies": 0,
+              "funded_companies": 1,
+              "total_companies": 1
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [],
+          "value_unit": "count",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "companies",
+          "dashboard_subtab": "companies_by_team_background_company_wise"
+        },
+        {
+          "panel_order": 2,
+          "panel_label": null,
+          "chart_title": "Example Companies by Team Background",
+          "chart_type": "example_company_list",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "team_background": "Morgan Stanley",
+              "company_display": "Custodia",
+              "company_total_funding_usd_millions": 52.4
+            },
+            {
+              "team_background": "Morgan Stanley",
+              "company_display": "Sandhills Stat..",
+              "company_total_funding_usd_millions": 19.2
+            },
+            {
+              "team_background": "Goldman Sachs",
+              "company_display": "Deutsche Bank",
+              "company_total_funding_usd_millions": null
+            },
+            {
+              "team_background": "Google",
+              "company_display": "Dbank",
+              "company_total_funding_usd_millions": 17.6
+            },
+            {
+              "team_background": "McKinsey",
+              "company_display": "Deutsche Bank",
+              "company_total_funding_usd_millions": null
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "Note: Number in the bracket is the Total Funding raised by the Company"
+          ],
+          "notes": [
+            "Example companies are mapped to team-background rows based on visual alignment in the page layout."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": null,
+          "geo_scope": "global",
+          "estimated": true,
+          "dashboard_tab": "companies",
+          "dashboard_subtab": "companies_by_team_background_company_wise"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "page_number": 36,
+      "page_headline": "Business Models",
+      "section_key": "business_models",
+      "subsection_key": null,
+      "page_type": "contents_page",
+      "key_insight": null,
+      "text_blocks": [
+        "Contents",
+        "Business Models",
+        "Top Funded Business Models",
+        "News",
+        "Taxonomy"
+      ],
+      "charts": [],
+      "notes": [
+        "This contents page spans both the Business Models and News sections."
+      ]
+    },
+    {
+      "page_number": 37,
+      "page_headline": "Top Funded Business Models - last 1 year",
+      "section_key": "business_models",
+      "subsection_key": "top_funded_business_models",
+      "page_type": "table_page",
+      "key_insight": null,
+      "text_blocks": [],
+      "charts": [
+        {
+          "panel_order": 1,
+          "panel_label": null,
+          "chart_title": "Top Funded Business Models - last 1 year",
+          "chart_type": "ranking_table",
+          "suggested_chart_type": "table",
+          "data": [
+            {
+              "rank": 1,
+              "rank_change_from_previous_1y": 0,
+              "business_model": "Commercial Banks",
+              "funding_usd_millions": 311,
+              "rounds_count": 31,
+              "top_funding_round_company_display": "Commercial Ban..",
+              "top_funding_round_meta_display": "(2003, United States)",
+              "top_funding_round_amount_usd_millions": 119,
+              "top_funding_round_type_display": "Series D"
+            },
+            {
+              "rank": 2,
+              "rank_change_from_previous_1y": 0,
+              "business_model": "Microfinance Banks",
+              "funding_usd_millions": 11.4,
+              "rounds_count": 1,
+              "top_funding_round_company_display": "Shivalik Small..",
+              "top_funding_round_meta_display": "(1997, India)",
+              "top_funding_round_amount_usd_millions": 11.4,
+              "top_funding_round_type_display": "Series B"
+            }
+          ],
+          "source": null,
+          "footnotes": [
+            "* Rank is based on $Invested in last 1 year in the Business Model. ▲- Indicates change in Rank from previous 1 year."
+          ],
+          "notes": [
+            "The PDF includes navigational 'Link' text after each top funding round detail; it is treated as navigational text and not as data."
+          ],
+          "value_unit": "usd_millions",
+          "secondary_value_unit": "count",
+          "geo_scope": "global",
+          "estimated": false,
+          "dashboard_tab": "business_models",
+          "dashboard_subtab": "top_funded_business_models"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+"processed_pages": "Pages 19-33",
+"pages": [
+{
+"page_number": 19,
+"page_headline": "In Q4'25, US VC-backed companies raised $91.15 billion across 3,378 deals",
+"executive_summary": {
+"text": "In Q4'25, US VC-backed companies raised $91.15 billion across 3,378 deals"
+}
+},
+{
+"page_number": 20,
+"page_headline": "Red hot Al space propels VC investment in the US to four-year high",
+"executive_summary": {
+"overview": "US venture capital investment remained resilient in Q4'25 despite significant headwinds, including an extended government shutdown and a sharp decline in quarterly deal volume. On a full-year basis, total US VC investment reached a four-year high of $339.4 billion, falling just short of the record set in 2021.",
+"ai_continues_to_power_vc_market": "Al continued to dominate VC investment trends in the US during Q4'25, with the top eight deals together accounting for over $32 billion in investment. Anthropic raised the largest funding round of the quarter ($15 billion), followed by a $6.2 billion raise by Project Prometheus, a $2.3 billion raise by Anysphere, and a $2 billion raise by Reflection Al. The breadth of value propositions by the Al companies that attracted $1 billion+ funding rounds in Q4'25 is notable-ranging from LLM-focused firms and traditional and renewable energy-backed Al infrastructure companies to startups focused on Al-enabled coding solutions, agentic Al platforms, and the development of industry solutions. This diversity highlights how rapidly the Al space is evolving and how investors are pouring their attention and investment - into companies with transformative Al solutions or entrepreneurs they believe will be able to create them. At the same time, companies with Al wrappings have predominantly seen investment wane as VC investors have become more intentional with their Al investments.",
+"first_time_financing_activity": "The significant degree of uncertainty over the course of 2025 led VC investors in the US to remain cautious, with many prioritizing late-stage deals or holding back funding against the need to bolster their portfolio companies given the continued possibility of delayed exits. While first time financing value hit a record high in 2025 - driven primarily by large first-time financing rounds for Al startups, such as the $6.2 billion raise by Project Prometheus - the volume of first-time financing rounds was quite soft for much of the year. The tide began to turn in Q4'25, with the number of first-time financing rounds ticking up amid growing optimism for exits. As exits continue to materialize, first-time financing volume should continue to improve as capital gets reinvested in the market.",
+"ipo_door_open": "Despite disruption from the US federal government shutdown in Q4'25, investor sentiment continues to suggest that the IPO window remains open for high-quality companies with durable business models and clear paths to profitability. During Q2'25 and Q3'25, several US IPOs delivered strong debuts, with robust first-day trading performance. However, post-IPO performance for many of these companies has since moderated, indicating that pent-up demand contributed to a degree of frothiness, with early trading pops not fully reflective of underlying company fundamentals. Even so, the US IPO environment remains on an upward trajectory, with increased activity expected in the first half of 2026 as a growing cohort of IPO-ready companies move towards exit. One key uncertainty in the IPO market is the timing and sequencing of exits by large, Al-centric companies. While the prospect of blockbuster Al IPOs is compelling, such offerings could absorb a disproportionate share of investor attention and capital, potentially crowding out demand for non-Al issuers. How and when these Al-driven exits materialize and their impact on broader IPO activity will be an important dynamic to watch over the coming year."
+}
+},
+{
+"page_number": 21,
+"page_headline": "Red hot Al space propels VC investment in the US to four-year high, cont'd.",
+"executive_summary": {
+"m_and_a_activity": "M&A activity in the US was notably robust in 2025, particularly in contrast to the subdued environment of 2024. A significant share of this activity was driven by large corporates increasingly favoring buy over build strategies, as the pace of innovation has outstripped their ability to develop solutions internally at the speed the market now demands. For many corporates, the pressure to innovate is already elevated and expected to intensify further, pointing to continued strength in M&A activity heading into 2026. At the same time, becoming and remaining a public company has grown more complex, costly and uncertain, especially for businesses without proven, profitable operating models. As a result, an increasing number of startups are prioritizing high-quality M&A exits with well-capitalized acquirers over the uncertainty and execution risk associated with pursuing an IPO.",
+"trends_to_watch": "Heading into 2026, US venture capital investment is expected to remain strong, with Al-focused companies continuing to attract outsized funding rounds. Activity across other segments of the private capital markets is also expected to increase, as more companies favor the flexibility of remaining private over pursuing a public listing. M&A deal value is anticipated to rise as companies across industries increasingly turn to acquisitions to accelerate innovation and mitigate the risk of falling behind. Traditional corporate venture capital investment is likewise expected to remain elevated over the coming year. IPO activity in the US is also likely to continue its recovery, supported by a sizable backlog of IPO-ready companies. In parallel, a growing number of startups are investing in IPO readiness initiatives such as strengthening financial reporting capabilities and upskilling finance teams in anticipation of potential public offerings in 2026 and 2027. Looking ahead, secondary transactions are also expected to gain momentum in 2026, alongside continued use of special purpose vehicles as alternative liquidity pathways."
+},
+"key_insight": "The only thing certain right now is uncertainty. But when it comes to VC investment, we're seeing investors becoming much more comfortable with the constant state of uncertainty, and most are trying hard to put their money to work. 'The show must go on' is very much a theme we're seeing. Outside of suppressed deal volume, the fundamentals of investing in the US remain strong. I think we're going to see a lot of VC deal activity heading into 2026 and potentially into 2027. - Samuel Lush, Managing Director, Private Equity Group KPMG in the US"
+},
+{
+"page_number": 22,
+"page_headline": "Billions keep flowing towards Al, unchecked",
+"key_insight": "What's really interesting here in the US is that deal value for 2025 came very close to the level we saw in 2021, which we all agreed was an anomaly. This despite a much lower volume of deals. The trend speaks to how much larger the deals have been this year and what that looks like next to normal levels of activity. And it's not surprising really given the capital intensiveness of the Al space. And I think that going to keep going because I don't think there'll be a slowdown in terms of building data centres or the level of compute power that's going to be needed. - Shivani Sopory, Audit Partner KPMG in the US",
+"charts": {
+"venture_financing_in_the_us": {
+"chart_title": "Venture financing in the US 2019-Q4'25",
+"suggested_chart_type": "Composed Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "Deal counts (total and by stage) are visually estimated. Deal values are extracted from explicit chart labels.",
+"data": [
+{ "period": "2019_q1", "deal_value_b": 42.1, "deal_count": 3800, "pre_seed_seed": 1400, "early_vc": 1200, "later_vc": 1000, "venture_growth": 200 },
+{ "period": "2019_q2", "deal_value_b": 39.3, "deal_count": 3300, "pre_seed_seed": 1200, "early_vc": 1100, "later_vc": 850, "venture_growth": 150 },
+{ "period": "2019_q3", "deal_value_b": 39.3, "deal_count": 3400, "pre_seed_seed": 1300, "early_vc": 1100, "later_vc": 850, "venture_growth": 150 },
+{ "period": "2019_q4", "deal_value_b": 35.4, "deal_count": 3300, "pre_seed_seed": 1250, "early_vc": 1100, "later_vc": 800, "venture_growth": 150 },
+{ "period": "2020_q1", "deal_value_b": 39.5, "deal_count": 4000, "pre_seed_seed": 1500, "early_vc": 1200, "later_vc": 1100, "venture_growth": 200 },
+{ "period": "2020_q2", "deal_value_b": 39.1, "deal_count": 3000, "pre_seed_seed": 1100, "early_vc": 900, "later_vc": 850, "venture_growth": 150 },
+{ "period": "2020_q3", "deal_value_b": 49.1, "deal_count": 3300, "pre_seed_seed": 1200, "early_vc": 1000, "later_vc": 900, "venture_growth": 200 },
+{ "period": "2020_q4", "deal_value_b": 47.9, "deal_count": 3600, "pre_seed_seed": 1400, "early_vc": 1100, "later_vc": 900, "venture_growth": 200 },
+{ "period": "2021_q1", "deal_value_b": 79.6, "deal_count": 5100, "pre_seed_seed": 1800, "early_vc": 1600, "later_vc": 1450, "venture_growth": 250 },
+{ "period": "2021_q2", "deal_value_b": 87.2, "deal_count": 4700, "pre_seed_seed": 1750, "early_vc": 1400, "later_vc": 1300, "venture_growth": 250 },
+{ "period": "2021_q3", "deal_value_b": 90.6, "deal_count": 4800, "pre_seed_seed": 1750, "early_vc": 1500, "later_vc": 1300, "venture_growth": 250 },
+{ "period": "2021_q4", "deal_value_b": 100.8, "deal_count": 5000, "pre_seed_seed": 1900, "early_vc": 1600, "later_vc": 1250, "venture_growth": 250 },
+{ "period": "2022_q1", "deal_value_b": 80.7, "deal_count": 5600, "pre_seed_seed": 2100, "early_vc": 1700, "later_vc": 1500, "venture_growth": 300 },
+{ "period": "2022_q2", "deal_value_b": 71.4, "deal_count": 4600, "pre_seed_seed": 1800, "early_vc": 1400, "later_vc": 1200, "venture_growth": 200 },
+{ "period": "2022_q3", "deal_value_b": 45.1, "deal_count": 4000, "pre_seed_seed": 1600, "early_vc": 1250, "later_vc": 1000, "venture_growth": 150 },
+{ "period": "2022_q4", "deal_value_b": 39.1, "deal_count": 3800, "pre_seed_seed": 1450, "early_vc": 1250, "later_vc": 950, "venture_growth": 150 },
+{ "period": "2023_q1", "deal_value_b": 55.5, "deal_count": 4300, "pre_seed_seed": 1500, "early_vc": 1300, "later_vc": 1300, "venture_growth": 200 },
+{ "period": "2023_q2", "deal_value_b": 37.3, "deal_count": 3700, "pre_seed_seed": 1400, "early_vc": 1100, "later_vc": 1050, "venture_growth": 150 },
+{ "period": "2023_q3", "deal_value_b": 36.1, "deal_count": 3500, "pre_seed_seed": 1350, "early_vc": 1000, "later_vc": 1000, "venture_growth": 150 },
+{ "period": "2023_q4", "deal_value_b": 39.9, "deal_count": 3600, "pre_seed_seed": 1300, "early_vc": 1100, "later_vc": 1000, "venture_growth": 200 },
+{ "period": "2024_q1", "deal_value_b": 37.8, "deal_count": 4100, "pre_seed_seed": 1450, "early_vc": 1350, "later_vc": 1100, "venture_growth": 200 },
+{ "period": "2024_q2", "deal_value_b": 51.6, "deal_count": 3800, "pre_seed_seed": 1400, "early_vc": 1200, "later_vc": 1050, "venture_growth": 150 },
+{ "period": "2024_q3", "deal_value_b": 42.5, "deal_count": 3500, "pre_seed_seed": 1350, "early_vc": 1000, "later_vc": 1000, "venture_growth": 150 },
+{ "period": "2024_q4", "deal_value_b": 81.9, "deal_count": 3500, "pre_seed_seed": 1250, "early_vc": 1100, "later_vc": 950, "venture_growth": 200 },
+{ "period": "2025_q1", "deal_value_b": 91.9, "deal_count": 4000, "pre_seed_seed": 1300, "early_vc": 1300, "later_vc": 1100, "venture_growth": 300 },
+{ "period": "2025_q2", "deal_value_b": 77.0, "deal_count": 3500, "pre_seed_seed": 1150, "early_vc": 1150, "later_vc": 1000, "venture_growth": 200 },
+{ "period": "2025_q3", "deal_value_b": 78.7, "deal_count": 3600, "pre_seed_seed": 1200, "early_vc": 1250, "later_vc": 900, "venture_growth": 250 },
+{ "period": "2025_q4", "deal_value_b": 91.15, "deal_count": 3378, "pre_seed_seed": 1100, "early_vc": 1150, "later_vc": 878, "venture_growth": 250 }
+]
+}
+}
+},
+{
+"page_number": 23,
+"page_headline": "Optimism is returning, gradually",
+"charts": {
+"median_deal_size_by_stage": {
+"chart_title": "Median deal size ($M) by stage in the US 2019-2025*",
+"suggested_chart_type": "Line Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "2025 values are explicit. Previous years are visually estimated.",
+"data": [
+{ "period": "2019", "pre_seed_seed": 1.5, "early_vc": 3.5, "later_vc": 6.0, "venture_growth": 15.0 },
+{ "period": "2020", "pre_seed_seed": 1.5, "early_vc": 4.0, "later_vc": 6.2, "venture_growth": 18.0 },
+{ "period": "2021", "pre_seed_seed": 2.0, "early_vc": 6.8, "later_vc": 10.0, "venture_growth": 37.0 },
+{ "period": "2022", "pre_seed_seed": 2.1, "early_vc": 5.2, "later_vc": 8.5, "venture_growth": 21.0 },
+{ "period": "2023", "pre_seed_seed": 2.2, "early_vc": 4.0, "later_vc": 5.7, "venture_growth": 14.0 },
+{ "period": "2024", "pre_seed_seed": 2.5, "early_vc": 5.0, "later_vc": 7.0, "venture_growth": 11.2 },
+{ "period": "2025", "pre_seed_seed": 2.9, "early_vc": 7.0, "later_vc": 9.2, "venture_growth": 18.0 }
+]
+},
+"up_flat_down_rounds": {
+"chart_title": "Up, flat or down rounds in the US 2019-2025*",
+"suggested_chart_type": "100% Stacked Column Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "Values are visually estimated.",
+"data": [
+{ "period": "2019", "down": 11, "flat": 5, "up": 84 },
+{ "period": "2020", "down": 11, "flat": 6, "up": 83 },
+{ "period": "2021", "down": 7, "flat": 4, "up": 89 },
+{ "period": "2022", "down": 7, "flat": 5, "up": 88 },
+{ "period": "2023", "down": 14, "flat": 10, "up": 76 },
+{ "period": "2024", "down": 15, "flat": 9, "up": 76 },
+{ "period": "2025", "down": 14, "flat": 6, "up": 80 }
+]
+}
+}
+},
+{
+"page_number": 24,
+"page_headline": "Deal sizes continue to exhibit steady growth",
+"charts": {
+"median_deal_size_by_series": {
+"chart_title": "Median deal size ($M) by series in the US 2019-2025*",
+"suggested_chart_type": "Line Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "2025 values are explicit. Previous years are visually estimated.",
+"data": [
+{ "period": "2019", "pre_seed": 0.5, "angel": 0.2, "seed": 2.0, "a": 7.0, "b": 18.0, "c": 27.0, "d_plus": 50.0 },
+{ "period": "2020", "pre_seed": 0.5, "angel": 0.2, "seed": 2.2, "a": 7.5, "b": 20.0, "c": 35.0, "d_plus": 55.0 },
+{ "period": "2021", "pre_seed": 0.5, "angel": 0.2, "seed": 2.5, "a": 10.0, "b": 30.0, "c": 53.0, "d_plus": 100.0 },
+{ "period": "2022", "pre_seed": 0.5, "angel": 0.2, "seed": 2.5, "a": 11.5, "b": 27.0, "c": 50.0, "d_plus": 105.0 },
+{ "period": "2023", "pre_seed": 0.5, "angel": 0.2, "seed": 2.5, "a": 10.0, "b": 22.0, "c": 33.0, "d_plus": 55.0 },
+{ "period": "2024", "pre_seed": 0.5, "angel": 0.2, "seed": 3.0, "a": 12.0, "b": 26.0, "c": 44.0, "d_plus": 91.0 },
+{ "period": "2025", "pre_seed": 0.5, "angel": 0.2, "seed": 3.5, "a": 15.0, "b": 33.8, "c": 54.0, "d_plus": 100.0 }
+]
+}
+}
+},
+{
+"page_number": 25,
+"page_headline": "Later-stage valuations are returning to 2021 levels",
+"charts": {
+"median_pre_money_valuation_by_series": {
+"chart_title": "Median pre-money valuation ($M) by series in the US 2019-2025*",
+"suggested_chart_type": "Line Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "2025 values are explicit. Previous years are visually estimated.",
+"data": [
+{ "period": "2019", "pre_seed": 6.0, "angel": 4.0, "seed": 8.0, "a": 20.0, "b": 65.0, "c": 125.0, "d_plus": 345.0 },
+{ "period": "2020", "pre_seed": 6.0, "angel": 4.0, "seed": 9.0, "a": 22.0, "b": 70.0, "c": 165.0, "d_plus": 400.0 },
+{ "period": "2021", "pre_seed": 7.0, "angel": 5.0, "seed": 12.0, "a": 33.0, "b": 100.0, "c": 280.0, "d_plus": 950.0 },
+{ "period": "2022", "pre_seed": 7.0, "angel": 6.0, "seed": 14.0, "a": 38.0, "b": 110.0, "c": 260.0, "d_plus": 750.0 },
+{ "period": "2023", "pre_seed": 6.0, "angel": 5.0, "seed": 11.0, "a": 32.0, "b": 85.0, "c": 150.0, "d_plus": 350.0 },
+{ "period": "2024", "pre_seed": 7.0, "angel": 5.0, "seed": 13.0, "a": 38.0, "b": 105.0, "c": 220.0, "d_plus": 590.0 },
+{ "period": "2025", "pre_seed": 8.3, "angel": 6.6, "seed": 16.0, "a": 49.0, "b": 145.0, "c": 316.3, "d_plus": 856.5 }
+]
+}
+}
+},
+{
+"page_number": 26,
+"page_headline": "Pre-seed proportions stay strong as mega-rounds skew VC invested tallies",
+"charts": {
+"deal_share_by_series_count": {
+"chart_title": "Deal share by series in the US 2019-2025*, number of closed deals",
+"suggested_chart_type": "100% Stacked Column Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "Values are visually estimated to sum to 100%.",
+"data": [
+{ "period": "2019", "pre_seed": 8, "seed": 40, "angel": 10, "a": 23, "b": 10, "c": 5, "d_plus": 4 },
+{ "period": "2020", "pre_seed": 8, "seed": 40, "angel": 9, "a": 24, "b": 10, "c": 5, "d_plus": 4 },
+{ "period": "2021", "pre_seed": 8, "seed": 41, "angel": 6, "a": 24, "b": 11, "c": 5, "d_plus": 5 },
+{ "period": "2022", "pre_seed": 9, "seed": 45, "angel": 6, "a": 23, "b": 10, "c": 5, "d_plus": 2 },
+{ "period": "2023", "pre_seed": 9, "seed": 48, "angel": 8, "a": 21, "b": 8, "c": 4, "d_plus": 2 },
+{ "period": "2024", "pre_seed": 11, "seed": 47, "angel": 6, "a": 21, "b": 8, "c": 4, "d_plus": 3 },
+{ "period": "2025", "pre_seed": 11, "seed": 45, "angel": 6, "a": 21, "b": 9, "c": 4, "d_plus": 4 }
+]
+},
+"deal_share_by_series_value": {
+"chart_title": "Deal share by series in the US 2019-2025*, VC invested ($B)",
+"suggested_chart_type": "100% Stacked Column Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise. As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+"note": "Values are visually estimated to sum to 100%.",
+"data": [
+{ "period": "2019", "pre_seed": 0, "seed": 7, "angel": 1, "a": 22, "b": 23, "c": 15, "d_plus": 32 },
+{ "period": "2020", "pre_seed": 0, "seed": 7, "angel": 1, "a": 22, "b": 22, "c": 18, "d_plus": 30 },
+{ "period": "2021", "pre_seed": 0, "seed": 4, "angel": 1, "a": 20, "b": 22, "c": 19, "d_plus": 34 },
+{ "period": "2022", "pre_seed": 0, "seed": 12, "angel": 0, "a": 24, "b": 23, "c": 17, "d_plus": 24 },
+{ "period": "2023", "pre_seed": 0, "seed": 13, "angel": 0, "a": 24, "b": 21, "c": 16, "d_plus": 26 },
+{ "period": "2024", "pre_seed": 0, "seed": 10, "angel": 0, "a": 21, "b": 24, "c": 16, "d_plus": 29 },
+{ "period": "2025", "pre_seed": 0, "seed": 8, "angel": 0, "a": 16, "b": 16, "c": 13, "d_plus": 47 }
+]
+}
+}
+},
+{
+"page_number": 27,
+"page_headline": "The broadening AI ecosystem sees software dollars invested surge",
+"charts": {
+"venture_financing_sector_count": {
+"chart_title": "Venture financing by sector in the US 2019-2025*, number of closed deals",
+"suggested_chart_type": "100% Stacked Column Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise.",
+"note": "Values are visually estimated to sum to 100%.",
+"data": [
+{ "period": "2019", "energy": 2, "hc_devices_supplies": 4, "hc_services_systems": 9, "it_hardware": 4, "media": 3, "other": 5, "pharma_biotech": 7, "software": 36, "consumer_goods_services": 16, "commercial_products_services": 13, "transportation": 1 },
+{ "period": "2020", "energy": 2, "hc_devices_supplies": 5, "hc_services_systems": 8, "it_hardware": 4, "media": 3, "other": 5, "pharma_biotech": 8, "software": 36, "consumer_goods_services": 15, "commercial_products_services": 13, "transportation": 1 },
+{ "period": "2021", "energy": 2, "hc_devices_supplies": 5, "hc_services_systems": 7, "it_hardware": 3, "media": 3, "other": 6, "pharma_biotech": 8, "software": 38, "consumer_goods_services": 14, "commercial_products_services": 13, "transportation": 1 },
+{ "period": "2022", "energy": 3, "hc_devices_supplies": 4, "hc_services_systems": 7, "it_hardware": 3, "media": 3, "other": 7, "pharma_biotech": 6, "software": 39, "consumer_goods_services": 13, "commercial_products_services": 14, "transportation": 1 },
+{ "period": "2023", "energy": 3, "hc_devices_supplies": 4, "hc_services_systems": 8, "it_hardware": 4, "media": 2, "other": 7, "pharma_biotech": 6, "software": 38, "consumer_goods_services": 12, "commercial_products_services": 15, "transportation": 1 },
+{ "period": "2024", "energy": 3, "hc_devices_supplies": 4, "hc_services_systems": 8, "it_hardware": 4, "media": 2, "other": 6, "pharma_biotech": 6, "software": 39, "consumer_goods_services": 12, "commercial_products_services": 15, "transportation": 1 },
+{ "period": "2025", "energy": 3, "hc_devices_supplies": 3, "hc_services_systems": 8, "it_hardware": 4, "media": 2, "other": 6, "pharma_biotech": 6, "software": 39, "consumer_goods_services": 10, "commercial_products_services": 18, "transportation": 1 }
+]
+},
+"venture_financing_sector_value": {
+"chart_title": "Venture financing by sector in the US 2019-2025*, VC invested ($B)",
+"suggested_chart_type": "100% Stacked Column Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise.",
+"note": "Values are visually estimated to sum to 100%.",
+"data": [
+{ "period": "2019", "energy": 2, "hc_devices_supplies": 3, "hc_services_systems": 6, "it_hardware": 4, "media": 2, "other": 4, "pharma_biotech": 14, "software": 32, "consumer_goods_services": 12, "commercial_products_services": 15, "transportation": 6 },
+{ "period": "2020", "energy": 2, "hc_devices_supplies": 3, "hc_services_systems": 6, "it_hardware": 4, "media": 2, "other": 5, "pharma_biotech": 16, "software": 34, "consumer_goods_services": 10, "commercial_products_services": 13, "transportation": 5 },
+{ "period": "2021", "energy": 2, "hc_devices_supplies": 2, "hc_services_systems": 5, "it_hardware": 3, "media": 2, "other": 5, "pharma_biotech": 14, "software": 36, "consumer_goods_services": 8, "commercial_products_services": 16, "transportation": 7 },
+{ "period": "2022", "energy": 4, "hc_devices_supplies": 2, "hc_services_systems": 5, "it_hardware": 3, "media": 2, "other": 6, "pharma_biotech": 12, "software": 36, "consumer_goods_services": 8, "commercial_products_services": 14, "transportation": 8 },
+{ "period": "2023", "energy": 4, "hc_devices_supplies": 3, "hc_services_systems": 6, "it_hardware": 3, "media": 1, "other": 4, "pharma_biotech": 13, "software": 36, "consumer_goods_services": 7, "commercial_products_services": 15, "transportation": 8 },
+{ "period": "2024", "energy": 4, "hc_devices_supplies": 3, "hc_services_systems": 5, "it_hardware": 4, "media": 1, "other": 4, "pharma_biotech": 11, "software": 38, "consumer_goods_services": 7, "commercial_products_services": 14, "transportation": 9 },
+{ "period": "2025", "energy": 4, "hc_devices_supplies": 2, "hc_services_systems": 4, "it_hardware": 4, "media": 1, "other": 4, "pharma_biotech": 9, "software": 47, "consumer_goods_services": 6, "commercial_products_services": 14, "transportation": 5 }
+]
+}
+}
+},
+{
+"page_number": 28,
+"page_headline": "The US sees a record for first-time financing deal value as AI booms",
+"charts": {
+"corporate_participation": {
+"chart_title": "Corporate participation in venture deals in the US 2019-Q4'25",
+"suggested_chart_type": "Composed Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise.",
+"note": "Deal count (line) is visually estimated. Deal values (bars) are extracted from labels.",
+"data": [
+{ "period": "2019_q1", "deal_value_b": 18.3, "deal_count": 720 },
+{ "period": "2019_q2", "deal_value_b": 17.2, "deal_count": 680 },
+{ "period": "2019_q3", "deal_value_b": 17.4, "deal_count": 670 },
+{ "period": "2019_q4", "deal_value_b": 13.5, "deal_count": 610 },
+{ "period": "2020_q1", "deal_value_b": 18.0, "deal_count": 720 },
+{ "period": "2020_q2", "deal_value_b": 19.9, "deal_count": 620 },
+{ "period": "2020_q3", "deal_value_b": 26.0, "deal_count": 710 },
+{ "period": "2020_q4", "deal_value_b": 22.3, "deal_count": 730 },
+{ "period": "2021_q1", "deal_value_b": 39.5, "deal_count": 950 },
+{ "period": "2021_q2", "deal_value_b": 41.3, "deal_count": 1070 },
+{ "period": "2021_q3", "deal_value_b": 45.4, "deal_count": 1100 },
+{ "period": "2021_q4", "deal_value_b": 48.8, "deal_count": 1130 },
+{ "period": "2022_q1", "deal_value_b": 36.3, "deal_count": 1250 },
+{ "period": "2022_q2", "deal_value_b": 33.2, "deal_count": 1050 },
+{ "period": "2022_q3", "deal_value_b": 20.2, "deal_count": 900 },
+{ "period": "2022_q4", "deal_value_b": 18.0, "deal_count": 780 },
+{ "period": "2023_q1", "deal_value_b": 34.5, "deal_count": 820 },
+{ "period": "2023_q2", "deal_value_b": 15.5, "deal_count": 700 },
+{ "period": "2023_q3", "deal_value_b": 18.1, "deal_count": 670 },
+{ "period": "2023_q4", "deal_value_b": 17.1, "deal_count": 630 },
+{ "period": "2024_q1", "deal_value_b": 18.0, "deal_count": 690 },
+{ "period": "2024_q2", "deal_value_b": 21.6, "deal_count": 670 },
+{ "period": "2024_q3", "deal_value_b": 20.4, "deal_count": 690 },
+{ "period": "2024_q4", "deal_value_b": 45.8, "deal_count": 670 },
+{ "period": "2025_q1", "deal_value_b": 65.4, "deal_count": 650 },
+{ "period": "2025_q2", "deal_value_b": 41.6, "deal_count": 590 },
+{ "period": "2025_q3", "deal_value_b": 37.6, "deal_count": 560 },
+{ "period": "2025_q4", "deal_value_b": 52.1, "deal_count": 530 }
+]
+},
+"first_time_financings": {
+"chart_title": "First-time venture financings of companies in the US 2019-2025*",
+"suggested_chart_type": "Composed Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise.",
+"note": "Deal count (line) is visually estimated. Deal values (bars) are extracted from labels.",
+"data": [
+{ "period": "2019", "deal_value_b": 15.0, "deal_count": 3900 },
+{ "period": "2020", "deal_value_b": 14.7, "deal_count": 4000 },
+{ "period": "2021", "deal_value_b": 23.2, "deal_count": 5600 },
+{ "period": "2022", "deal_value_b": 24.2, "deal_count": 5300 },
+{ "period": "2023", "deal_value_b": 16.5, "deal_count": 4600 },
+{ "period": "2024", "deal_value_b": 17.2, "deal_count": 4600 },
+{ "period": "2025", "deal_value_b": 29.8, "deal_count": 4700 }
+]
+}
+}
+},
+{
+"page_number": 29,
+"page_headline": "2025 sees steady climb back to health for exits - but will it suffice?",
+"charts": {
+"venture_backed_exit_activity": {
+"chart_title": "Venture-backed exit activity in the US 2019-Q4'25",
+"suggested_chart_type": "Composed Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise.",
+"note": "Exit count (line) is visually estimated. Exit values (bars) are extracted from labels.",
+"data": [
+{ "period": "2019_q1", "exit_value_b": 64.8, "exit_count": 350 },
+{ "period": "2019_q2", "exit_value_b": 145.4, "exit_count": 380 },
+{ "period": "2019_q3", "exit_value_b": 55.4, "exit_count": 320 },
+{ "period": "2019_q4", "exit_value_b": 36.4, "exit_count": 310 },
+{ "period": "2020_q1", "exit_value_b": 29.0, "exit_count": 340 },
+{ "period": "2020_q2", "exit_value_b": 40.6, "exit_count": 230 },
+{ "period": "2020_q3", "exit_value_b": 115.3, "exit_count": 300 },
+{ "period": "2020_q4", "exit_value_b": 155.1, "exit_count": 430 },
+{ "period": "2021_q1", "exit_value_b": 185.5, "exit_count": 480 },
+{ "period": "2021_q2", "exit_value_b": 234.7, "exit_count": 500 },
+{ "period": "2021_q3", "exit_value_b": 220.9, "exit_count": 520 },
+{ "period": "2021_q4", "exit_value_b": 223.2, "exit_count": 580 },
+{ "period": "2022_q1", "exit_value_b": 53.6, "exit_count": 450 },
+{ "period": "2022_q2", "exit_value_b": 43.4, "exit_count": 390 },
+{ "period": "2022_q3", "exit_value_b": 31.4, "exit_count": 320 },
+{ "period": "2022_q4", "exit_value_b": 22.3, "exit_count": 290 },
+{ "period": "2023_q1", "exit_value_b": 23.9, "exit_count": 350 },
+{ "period": "2023_q2", "exit_value_b": 18.8, "exit_count": 290 },
+{ "period": "2023_q3", "exit_value_b": 48.4, "exit_count": 280 },
+{ "period": "2023_q4", "exit_value_b": 25.8, "exit_count": 270 },
+{ "period": "2024_q1", "exit_value_b": 38.2, "exit_count": 300 },
+{ "period": "2024_q2", "exit_value_b": 40.8, "exit_count": 310 },
+{ "period": "2024_q3", "exit_value_b": 29.3, "exit_count": 310 },
+{ "period": "2024_q4", "exit_value_b": 46.3, "exit_count": 360 },
+{ "period": "2025_q1", "exit_value_b": 60.4, "exit_count": 370 },
+{ "period": "2025_q2", "exit_value_b": 68.8, "exit_count": 380 },
+{ "period": "2025_q3", "exit_value_b": 75.0, "exit_count": 360 },
+{ "period": "2025_q4", "exit_value_b": 93.6, "exit_count": 310 }
+]
+}
+}
+},
+{
+"page_number": 30,
+"page_headline": "Public listings return, even with a year-end push thwarted by government shutdown",
+"charts": {
+"exit_activity_count_by_type": {
+"chart_title": "Venture-backed exit activity (#) by type in the US 2019-2025*",
+"suggested_chart_type": "Stacked Column Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise.",
+"note": "Values are visually estimated.",
+"data": [
+{ "period": "2019", "acquisition": 980, "buyout": 260, "public_listing": 110 },
+{ "period": "2020", "acquisition": 870, "buyout": 270, "public_listing": 140 },
+{ "period": "2021", "acquisition": 1320, "buyout": 420, "public_listing": 320 },
+{ "period": "2022", "acquisition": 1050, "buyout": 340, "public_listing": 80 },
+{ "period": "2023", "acquisition": 830, "buyout": 270, "public_listing": 90 },
+{ "period": "2024", "acquisition": 920, "buyout": 280, "public_listing": 60 },
+{ "period": "2025", "acquisition": 1020, "buyout": 320, "public_listing": 70 }
+]
+},
+"exit_activity_value_by_type": {
+"chart_title": "Venture-backed exit activity ($B) by type in the US 2019-2025*",
+"suggested_chart_type": "Stacked Column Chart",
+"source": "Venture Pulse, Q4'25, Global Analysis of Venture Funding, KPMG Private Enterprise.",
+"note": "Values are visually estimated.",
+"data": [
+{ "period": "2019", "acquisition": 95, "buyout": 25, "public_listing": 180 },
+{ "period": "2020", "acquisition": 105, "buyout": 25, "public_listing": 210 },
+{ "period": "2021", "acquisition": 150, "buyout": 50, "public_listing": 660 },
+{ "period": "2022", "acquisition": 80, "buyout": 30, "public_listing": 40 },
+{ "period": "2023", "acquisition": 60, "buyout": 25, "public_listing": 30 },
+{ "period": "2024", "acquisition": 80, "buyout": 30, "public_listing": 45 },
+{ "period": "2025", "acquisition": 140, "buyout": 40, "public_listing": 120 }
+]
+}
+}
+},
+    {
+      "page_number": 31,
+      "page_headline": "The fundraising cycle remains at low ebb",
+      "key_insight": {
+        "quote": "As investors evaluate VC performance, a point of caution in this current mega-round environment is concentration risk. The capital intensity of AI companies is an order of magnitude larger than previous cycles and comes against a backdrop of limited liquidity and a muted fundraising environment. If an investment doesn't hit, it may be difficult to cover these large checks with performance in a fund's remaining portfolio.",
+        "quote_author": "Scott Burger, Partner, KPMG in the US"
+      },
+      "charts": {
+        "venture_fundraising": {
+          "chart_title": "US venture fundraising 2019-2025*",
+          "suggested_chart_type": "Composed Chart (Bar + Line with Dual Y-Axes)",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "Capital raised ($B) values are exact. Fund count values are high-fidelity visual estimates based on the right Y-axis scale (0 to 2,000).",
+          "data": [
+            { "year": "2019", "capital_raised_billions": 69.4, "fund_count": 800 },
+            { "year": "2020", "capital_raised_billions": 92.7, "fund_count": 950 },
+            { "year": "2021", "capital_raised_billions": 169.7, "fund_count": 1650 },
+            { "year": "2022", "capital_raised_billions": 222.9, "fund_count": 1750 },
+            { "year": "2023", "capital_raised_billions": 106.0, "fund_count": 1350 },
+            { "year": "2024", "capital_raised_billions": 101.3, "fund_count": 950 },
+            { "year": "2025", "capital_raised_billions": 66.1, "fund_count": 550 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 32,
+      "page_headline": "LPs focus on experienced, midsized funds",
+      "charts": {
+        "fundraising_by_size_count": {
+          "chart_title": "Venture fundraising (#) by size in the US 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "1b_plus": 1, "500m_1b": 3, "250m_500m": 6, "100m_250m": 16, "50m_100m": 17, "under_50m": 57 },
+            { "year": "2020", "1b_plus": 2, "500m_1b": 5, "250m_500m": 6, "100m_250m": 15, "50m_100m": 12, "under_50m": 60 },
+            { "year": "2021", "1b_plus": 2, "500m_1b": 4, "250m_500m": 8, "100m_250m": 15, "50m_100m": 13, "under_50m": 58 },
+            { "year": "2022", "1b_plus": 3, "500m_1b": 3, "250m_500m": 7, "100m_250m": 13, "50m_100m": 14, "under_50m": 60 },
+            { "year": "2023", "1b_plus": 2, "500m_1b": 4, "250m_500m": 5, "100m_250m": 12, "50m_100m": 14, "under_50m": 63 },
+            { "year": "2024", "1b_plus": 2, "500m_1b": 3, "250m_500m": 7, "100m_250m": 15, "50m_100m": 14, "under_50m": 59 },
+            { "year": "2025", "1b_plus": 2, "500m_1b": 3, "250m_500m": 8, "100m_250m": 17, "50m_100m": 14, "under_50m": 56 }
+          ]
+        },
+        "fundraising_by_size_value": {
+          "chart_title": "Venture fundraising ($B) by size in the US 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "1b_plus": 23, "500m_1b": 20, "250m_500m": 16, "100m_250m": 22, "50m_100m": 11, "under_50m": 8 },
+            { "year": "2020", "1b_plus": 30, "500m_1b": 24, "250m_500m": 16, "100m_250m": 18, "50m_100m": 6, "under_50m": 6 },
+            { "year": "2021", "1b_plus": 32, "500m_1b": 21, "250m_500m": 17, "100m_250m": 18, "50m_100m": 6, "under_50m": 6 },
+            { "year": "2022", "1b_plus": 52, "500m_1b": 14, "250m_500m": 13, "100m_250m": 11, "50m_100m": 6, "under_50m": 4 },
+            { "year": "2023", "1b_plus": 29, "500m_1b": 24, "250m_500m": 14, "100m_250m": 20, "50m_100m": 6, "under_50m": 7 },
+            { "year": "2024", "1b_plus": 49, "500m_1b": 15, "250m_500m": 12, "100m_250m": 13, "50m_100m": 7, "under_50m": 4 },
+            { "year": "2025", "1b_plus": 35, "500m_1b": 18, "250m_500m": 17, "100m_250m": 18, "50m_100m": 6, "under_50m": 6 }
+          ]
+        }
+      }
+    },
+    {
+      "page_number": 33,
+      "page_headline": "Capital allocators remain cautious at best",
+      "charts": {
+        "first_time_vs_follow_on_count": {
+          "chart_title": "First-time vs. follow-on funds (#) in the US 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "first_time": 27, "follow_on": 73 },
+            { "year": "2020", "first_time": 28, "follow_on": 72 },
+            { "year": "2021", "first_time": 28, "follow_on": 72 },
+            { "year": "2022", "first_time": 27, "follow_on": 73 },
+            { "year": "2023", "first_time": 27, "follow_on": 73 },
+            { "year": "2024", "first_time": 22, "follow_on": 78 },
+            { "year": "2025", "first_time": 17, "follow_on": 83 }
+          ]
+        },
+        "first_time_vs_follow_on_value": {
+          "chart_title": "First-time vs. follow-on funds ($B) in the US 2019-2025*",
+          "suggested_chart_type": "100% Stacked Column Chart",
+          "source": "Source: Venture Pulse, Q4 25, Global Analysis of Venture Funding, KPMG Private Enterprise. *As of December 31, 2025. Data provided by PitchBook, January 19, 2026.",
+          "note": "All values are high-fidelity visual estimates based on the Y-axis scale. Columns sum exactly to 100%.",
+          "data": [
+            { "year": "2019", "first_time": 13, "follow_on": 87 },
+            { "year": "2020", "first_time": 11, "follow_on": 89 },
+            { "year": "2021", "first_time": 14, "follow_on": 86 },
+            { "year": "2022", "first_time": 8, "follow_on": 92 },
+            { "year": "2023", "first_time": 17, "follow_on": 83 },
+            { "year": "2024", "first_time": 7, "follow_on": 93 },
+            { "year": "2025", "first_time": 10, "follow_on": 90 }
+          ]
+        }
+      }
+    }
+
+]
+}
+
+

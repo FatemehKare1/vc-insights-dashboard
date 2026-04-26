@@ -1,0 +1,1425 @@
+[
+  {
+    "data": "techstars.com",
+    "section": "company_name"
+  },
+  {
+    "data": {
+      "city": "Not found",
+      "name": "Not found",
+      "country": "Not found",
+      "founded_year": "Not found"
+    },
+    "section": "company_basic_details"
+  },
+  {
+    "data": {
+      "Team Members": {
+        "value": "154",
+        "details": "Dave Cass & more"
+      },
+      "Portfolio IPOs": {
+        "value": "23",
+        "details": "Spotify & more"
+      },
+      "Portfolio Count": {
+        "value": "4.71K",
+        "details": "Spotify & more"
+      },
+      "Portfolio Unicorns": {
+        "value": "18",
+        "details": "Ramp & more"
+      },
+      "Top Rounds of Entry": {
+        "value": "Seed",
+        "details": "and 13 more"
+      },
+      "Portfolio Soonicorns": {
+        "value": "59",
+        "details": "Preply & more"
+      },
+      "Portfolio Acquisitions": {
+        "value": "485",
+        "details": "Squarespace & more"
+      },
+      "Deals in last 12 months": {
+        "value": "46",
+        "details": "PeakMetrics & more"
+      },
+      "Top Sectors in Portfolio": {
+        "value": "Enterprise Applications",
+        "details": "and 43 more"
+      },
+      "Top Locations in Portfolio": {
+        "value": "United States",
+        "details": "and 88 more"
+      }
+    },
+    "section": "key_metrics"
+  },
+  {
+    "data": {
+      "sectors": [],
+      "description": null,
+      "subsidiaries": [],
+      "company_details": {
+        "social": [
+          "https://linkedin.com/company/techstars/about",
+          "https://twitter.com/techstars",
+          "https://facebook.com/techstars",
+          "http://techstars.com/the-line"
+        ],
+        "website": "http://techstars.com/",
+        "key_people": [],
+        "first_covered_on": null
+      },
+      "mobile_applications": [],
+      "associated_legal_entities": [
+        {
+          "cin": "E",
+          "address": "C",
+          "location": "Denmark",
+          "latest_financials": null,
+          "legal_entity_name": "T",
+          "associated_company": "Techstars",
+          "incorporation_date": "Jan 08, 2020"
+        },
+        {
+          "cin": "E",
+          "address": "C",
+          "location": "United States",
+          "latest_financials": null,
+          "legal_entity_name": "T",
+          "associated_company": "Techstars",
+          "incorporation_date": "Oct 18, 2019"
+        },
+        {
+          "cin": "E",
+          "address": "C",
+          "location": "Germany",
+          "latest_financials": null,
+          "legal_entity_name": "T",
+          "associated_company": "Techstars",
+          "incorporation_date": "Jan 12, 2015"
+        }
+      ]
+    },
+    "section": "about"
+  },
+  {
+    "data": [
+      {
+        "rank": 1,
+        "stage": "Public",
+        "location": "Stockholm",
+        "app_rating": "4.30",
+        "company_name": "Spotify",
+        "founded_year": 2006,
+        "tracxn_score": 87,
+        "latest_revenue": "$14.3B",
+        "mobile_reviews": "37M",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "3650M",
+        "investment_status": "Active",
+        "news_articles_growth": "800 (10.3%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "18.5K",
+        "mobile_reviews_growth": "20K (3%)",
+        "latest_employee_growth": "2.8K (18%)",
+        "news_articles_all_time": "8K",
+        "marquee_customer_mentions": "86"
+      },
+      {
+        "rank": 2,
+        "stage": "Series E",
+        "location": "New York City",
+        "app_rating": "4.70",
+        "company_name": "Ramp",
+        "founded_year": 2019,
+        "tracxn_score": 85,
+        "latest_revenue": "-",
+        "mobile_reviews": "3K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "300K",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (32.1%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "2.09K",
+        "mobile_reviews_growth": "500 (26%)",
+        "latest_employee_growth": "334 (19%)",
+        "news_articles_all_time": "400",
+        "marquee_customer_mentions": "10"
+      },
+      {
+        "rank": 3,
+        "stage": "Public",
+        "location": "Seattle",
+        "app_rating": "4.80",
+        "company_name": "Remitly",
+        "founded_year": 2011,
+        "tracxn_score": 84,
+        "latest_revenue": "-",
+        "mobile_reviews": "1.5M",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "30M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (11.8%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "3.36K",
+        "mobile_reviews_growth": "250K (16%)",
+        "latest_employee_growth": "317 (10%)",
+        "news_articles_all_time": "500",
+        "marquee_customer_mentions": "6"
+      },
+      {
+        "rank": 4,
+        "stage": "Acquired",
+        "location": "United States",
+        "app_rating": "4.39",
+        "company_name": "Squarespace",
+        "founded_year": 2003,
+        "tracxn_score": 84,
+        "latest_revenue": "$1.01B",
+        "mobile_reviews": "8K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "800K",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (10.9%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "2.08K",
+        "mobile_reviews_growth": "300 (4%)",
+        "latest_employee_growth": "201 (11%)",
+        "news_articles_all_time": "400",
+        "marquee_customer_mentions": "14"
+      },
+      {
+        "rank": 5,
+        "stage": "Public",
+        "location": "Shoreditch",
+        "app_rating": "4.80",
+        "company_name": "Wise",
+        "founded_year": 2011,
+        "tracxn_score": 83,
+        "latest_revenue": "$11.6K",
+        "mobile_reviews": "1.9M",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "33M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (14.1%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "10K",
+        "mobile_reviews_growth": "300K (19%)",
+        "latest_employee_growth": "3.06K (44%)",
+        "news_articles_all_time": "800",
+        "marquee_customer_mentions": "5"
+      },
+      {
+        "rank": 6,
+        "stage": "Public",
+        "location": "Austin",
+        "app_rating": "3.14",
+        "company_name": "Oracle",
+        "founded_year": 1977,
+        "tracxn_score": 83,
+        "latest_revenue": "$57.4B",
+        "mobile_reviews": "20K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "8.4M",
+        "investment_status": "Active",
+        "news_articles_growth": "2K (18.3%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "162K",
+        "mobile_reviews_growth": "2K (8%)",
+        "latest_employee_growth": "-",
+        "news_articles_all_time": "15K",
+        "marquee_customer_mentions": "190"
+      },
+      {
+        "rank": 7,
+        "stage": "Acquired",
+        "location": "New York City",
+        "app_rating": "4.10",
+        "company_name": "ClassPass",
+        "founded_year": 2013,
+        "tracxn_score": 81,
+        "latest_revenue": "-",
+        "mobile_reviews": "25K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "3M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (1.2%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "817",
+        "mobile_reviews_growth": "2K (5%)",
+        "latest_employee_growth": "168 (26%)",
+        "news_articles_all_time": "300",
+        "marquee_customer_mentions": "7"
+      },
+      {
+        "rank": 8,
+        "stage": "Public",
+        "location": "Lehi",
+        "app_rating": "4.08",
+        "company_name": "Owlet",
+        "founded_year": 2013,
+        "tracxn_score": 81,
+        "latest_revenue": "$78.1M",
+        "mobile_reviews": "25K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "1.1M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (18.1%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "211",
+        "mobile_reviews_growth": "2K (25%)",
+        "latest_employee_growth": "127 (151%)",
+        "news_articles_all_time": "300",
+        "marquee_customer_mentions": "1"
+      },
+      {
+        "rank": 9,
+        "stage": "Public",
+        "location": "New York City",
+        "app_rating": "5.00",
+        "company_name": "DigitalOcean",
+        "founded_year": 2011,
+        "tracxn_score": 80,
+        "latest_revenue": "$781M",
+        "mobile_reviews": "100",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "100",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (19.5%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "2.44K",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "514 (27%)",
+        "news_articles_all_time": "600",
+        "marquee_customer_mentions": "13"
+      },
+      {
+        "rank": 10,
+        "stage": "Acquired",
+        "location": "Atlanta",
+        "app_rating": "",
+        "company_name": "SalesLoft",
+        "founded_year": 2011,
+        "tracxn_score": 79,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (9.3%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "1.14K",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-149 (-12%)",
+        "news_articles_all_time": "300",
+        "marquee_customer_mentions": "6"
+      },
+      {
+        "rank": 11,
+        "stage": "Public",
+        "location": "New York City",
+        "app_rating": "4.20",
+        "company_name": "Latch",
+        "founded_year": 2014,
+        "tracxn_score": 78,
+        "latest_revenue": "$45M",
+        "mobile_reviews": "20K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "300K",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (0.5%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "208",
+        "mobile_reviews_growth": "2K (11%)",
+        "latest_employee_growth": "25 (14%)",
+        "news_articles_all_time": "200",
+        "marquee_customer_mentions": "2"
+      },
+      {
+        "rank": 12,
+        "stage": "Public",
+        "location": "San Francisco",
+        "app_rating": "",
+        "company_name": "Twilio",
+        "founded_year": 2008,
+        "tracxn_score": 78,
+        "latest_revenue": "$4.46B",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "200 (12.7%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "6.6K",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "175 (3%)",
+        "news_articles_all_time": "2K",
+        "marquee_customer_mentions": "35"
+      },
+      {
+        "rank": 13,
+        "stage": "Acquired",
+        "location": "Chicago",
+        "app_rating": "4.70",
+        "company_name": "SpotHero",
+        "founded_year": 2011,
+        "tracxn_score": 77,
+        "latest_revenue": "-",
+        "mobile_reviews": "20K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "3M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (17.9%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "295",
+        "mobile_reviews_growth": "2K (11%)",
+        "latest_employee_growth": "26 (10%)",
+        "news_articles_all_time": "200",
+        "marquee_customer_mentions": "5"
+      },
+      {
+        "rank": 14,
+        "stage": "Series E",
+        "location": "San Mateo",
+        "app_rating": "2.75",
+        "company_name": "Verkada",
+        "founded_year": 2016,
+        "tracxn_score": 77,
+        "latest_revenue": "-",
+        "mobile_reviews": "600",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "400K",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (27.0%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "2.65K",
+        "mobile_reviews_growth": "100 (12%)",
+        "latest_employee_growth": "217 (9%)",
+        "news_articles_all_time": "200",
+        "marquee_customer_mentions": "5"
+      },
+      {
+        "rank": 15,
+        "stage": "Series F",
+        "location": "New York City",
+        "app_rating": "",
+        "company_name": "Chainalysis",
+        "founded_year": 2014,
+        "tracxn_score": 77,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (6.0%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "773",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-45 (-6%)",
+        "news_articles_all_time": "500",
+        "marquee_customer_mentions": "1"
+      },
+      {
+        "rank": 16,
+        "stage": "Public",
+        "location": "Taipei",
+        "app_rating": "",
+        "company_name": "Appier Technologies",
+        "founded_year": 2012,
+        "tracxn_score": 76,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (15.6%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "861",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "7 (1%)",
+        "news_articles_all_time": "200",
+        "marquee_customer_mentions": "2"
+      },
+      {
+        "rank": 17,
+        "stage": "Acquired",
+        "location": "Denver",
+        "app_rating": "4.10",
+        "company_name": "GoSpotCheck",
+        "founded_year": 2011,
+        "tracxn_score": 76,
+        "latest_revenue": "-",
+        "mobile_reviews": "2K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "300K",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (28.6%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "74",
+        "mobile_reviews_growth": "100 (4%)",
+        "latest_employee_growth": "11 (17%)",
+        "news_articles_all_time": "100",
+        "marquee_customer_mentions": "2"
+      },
+      {
+        "rank": 18,
+        "stage": "Acquired",
+        "location": "London",
+        "app_rating": "3.90",
+        "company_name": "Monese",
+        "founded_year": 2013,
+        "tracxn_score": 76,
+        "latest_revenue": "$60.7M",
+        "mobile_reviews": "150K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "7.5M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (0.8%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "148",
+        "mobile_reviews_growth": "4K (3%)",
+        "latest_employee_growth": "-9 (-6%)",
+        "news_articles_all_time": "300",
+        "marquee_customer_mentions": "2"
+      },
+      {
+        "rank": 19,
+        "stage": "Acquired",
+        "location": "Boston",
+        "app_rating": "",
+        "company_name": "PillPack",
+        "founded_year": 2013,
+        "tracxn_score": 75,
+        "latest_revenue": "-",
+        "mobile_reviews": "0",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "0",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (0.5%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "679",
+        "mobile_reviews_growth": "0",
+        "latest_employee_growth": "-",
+        "news_articles_all_time": "200",
+        "marquee_customer_mentions": "1"
+      },
+      {
+        "rank": 20,
+        "stage": "Series A",
+        "location": "London",
+        "app_rating": "3.80",
+        "company_name": "Cuvva",
+        "founded_year": 2014,
+        "tracxn_score": 75,
+        "latest_revenue": "$35M",
+        "mobile_reviews": "30K",
+        "portfolio_type": "Investment",
+        "mobile_downloads": "3M",
+        "investment_status": "Active",
+        "news_articles_growth": "100 (5.6%)",
+        "total_equity_funding": "-",
+        "latest_employee_count": "101",
+        "mobile_reviews_growth": "3K (9%)",
+        "latest_employee_growth": "-23 (-19%)",
+        "news_articles_all_time": "100",
+        "marquee_customer_mentions": "1"
+      }
+    ],
+    "section": "portfolio_leaderboard"
+  },
+  {
+    "data": [
+      {
+        "rank": 1,
+        "num_batches": "4",
+        "program_name": "ABN AMRO & Techstars Future of Finance Accelerator",
+        "num_funded_cos": "19",
+        "notable_companies": "Lendorse, Flowpay",
+        "num_incubated_cos": "28"
+      },
+      {
+        "rank": 2,
+        "num_batches": "1",
+        "program_name": "ABN AMRO Techstars",
+        "num_funded_cos": "11",
+        "notable_companies": "Dfns, Vinter",
+        "num_incubated_cos": "11"
+      },
+      {
+        "rank": 3,
+        "num_batches": "2",
+        "program_name": "ARM Labs Lagos Techstars Accelerator",
+        "num_funded_cos": "20",
+        "notable_companies": "Towntalk, Keble",
+        "num_incubated_cos": "20"
+      },
+      {
+        "rank": 4,
+        "num_batches": "1",
+        "program_name": "Adelaide",
+        "num_funded_cos": "8",
+        "notable_companies": "Daitum, Teamgage",
+        "num_incubated_cos": "8"
+      },
+      {
+        "rank": 5,
+        "num_batches": "2",
+        "program_name": "Air Force",
+        "num_funded_cos": "13",
+        "notable_companies": "Vermeer, Cleo Robotics",
+        "num_incubated_cos": "13"
+      },
+      {
+        "rank": 6,
+        "num_batches": "2",
+        "program_name": "Air Force Accelerator",
+        "num_funded_cos": "6",
+        "notable_companies": "PeakMetrics, Southie",
+        "num_incubated_cos": "6"
+      },
+      {
+        "rank": 7,
+        "num_batches": "2",
+        "program_name": "Alabama EnergyTech",
+        "num_funded_cos": "16",
+        "notable_companies": "Project Canary, Birdstop",
+        "num_incubated_cos": "16"
+      },
+      {
+        "rank": 8,
+        "num_batches": "1",
+        "program_name": "Alchemist Blockchain",
+        "num_funded_cos": "7",
+        "notable_companies": "Embleema, Alkemi",
+        "num_incubated_cos": "7"
+      },
+      {
+        "rank": 9,
+        "num_batches": "1",
+        "program_name": "Alchemist Blockchain Techstars Accelerator",
+        "num_funded_cos": "1",
+        "notable_companies": "Trixta",
+        "num_incubated_cos": "1"
+      },
+      {
+        "rank": 10,
+        "num_batches": "3",
+        "program_name": "Alexa",
+        "num_funded_cos": "24",
+        "notable_companies": "Pulse Labs, Spiral",
+        "num_incubated_cos": "24"
+      },
+      {
+        "rank": 11,
+        "num_batches": "2",
+        "program_name": "Alexa Accelerator",
+        "num_funded_cos": "2",
+        "notable_companies": "Comet, Jargon",
+        "num_incubated_cos": "2"
+      },
+      {
+        "rank": 12,
+        "num_batches": "1",
+        "program_name": "Alexa Next Stage",
+        "num_funded_cos": "4",
+        "notable_companies": "Lingvist, Symbl",
+        "num_incubated_cos": "4"
+      },
+      {
+        "rank": 13,
+        "num_batches": "1",
+        "program_name": "Allied Space",
+        "num_funded_cos": "7",
+        "notable_companies": "Kayhan Space, Cognitive Space",
+        "num_incubated_cos": "7"
+      },
+      {
+        "rank": 14,
+        "num_batches": "9",
+        "program_name": "Anywhere",
+        "num_funded_cos": "56",
+        "notable_companies": "Trust and Will, DNSFilter",
+        "num_incubated_cos": "63"
+      },
+      {
+        "rank": 15,
+        "num_batches": "2",
+        "program_name": "Arcadis",
+        "num_funded_cos": "16",
+        "notable_companies": "Irys, Iomob",
+        "num_incubated_cos": "16"
+      },
+      {
+        "rank": 16,
+        "num_batches": "6",
+        "program_name": "Atlanta",
+        "num_funded_cos": "48",
+        "notable_companies": "PadSplit, MailChimp",
+        "num_incubated_cos": "48"
+      },
+      {
+        "rank": 17,
+        "num_batches": "11",
+        "program_name": "Austin",
+        "num_funded_cos": "92",
+        "notable_companies": "Optimizely, LawnStarter",
+        "num_incubated_cos": "94"
+      },
+      {
+        "rank": 18,
+        "num_batches": "1",
+        "program_name": "Austin (City)",
+        "num_funded_cos": "1",
+        "notable_companies": "The 2.0 Collective",
+        "num_incubated_cos": "1"
+      },
+      {
+        "rank": 19,
+        "num_batches": "1",
+        "program_name": "Autonomous Tech",
+        "num_funded_cos": "9",
+        "notable_companies": "OmniPreSense, 14bis Supply Tracking",
+        "num_incubated_cos": "9"
+      },
+      {
+        "rank": 20,
+        "num_batches": "2",
+        "program_name": "BSH Future Home",
+        "num_funded_cos": "17",
+        "notable_companies": "Ate, ckbk",
+        "num_incubated_cos": "17"
+      },
+      {
+        "rank": 21,
+        "num_batches": "1",
+        "program_name": "BSH Future Home Accelerator",
+        "num_funded_cos": "1",
+        "notable_companies": "Ome",
+        "num_incubated_cos": "1"
+      },
+      {
+        "rank": 22,
+        "num_batches": "3",
+        "program_name": "Bangalore",
+        "num_funded_cos": "21",
+        "notable_companies": "Aftershoot, oDoc",
+        "num_incubated_cos": "21"
+      },
+      {
+        "rank": 23,
+        "num_batches": "7",
+        "program_name": "Barclays",
+        "num_funded_cos": "61",
+        "notable_companies": "Cuvva, Ravelin Technology",
+        "num_incubated_cos": "61"
+      },
+      {
+        "rank": 24,
+        "num_batches": "2",
+        "program_name": "Barclays Accelerator Tel Aviv",
+        "num_funded_cos": "4",
+        "notable_companies": "Kard, Salaryo",
+        "num_incubated_cos": "4"
+      },
+      {
+        "rank": 25,
+        "num_batches": "2",
+        "program_name": "Barclays Cape Town",
+        "num_funded_cos": "21",
+        "notable_companies": "Flexpay, SimbaPay",
+        "num_incubated_cos": "21"
+      },
+      {
+        "rank": 26,
+        "num_batches": "6",
+        "program_name": "Barclays NYC",
+        "num_funded_cos": "57",
+        "notable_companies": "Chainalysis, Novo",
+        "num_incubated_cos": "57"
+      },
+      {
+        "rank": 27,
+        "num_batches": "4",
+        "program_name": "Barclays Tel Aviv",
+        "num_funded_cos": "34",
+        "notable_companies": "Cubbit, SafeHouse",
+        "num_incubated_cos": "34"
+      },
+      {
+        "rank": 28,
+        "num_batches": "11",
+        "program_name": "Berlin",
+        "num_funded_cos": "81",
+        "notable_companies": "Preply, Rasa",
+        "num_incubated_cos": "88"
+      },
+      {
+        "rank": 29,
+        "num_batches": "1",
+        "program_name": "Berlin Autumn",
+        "num_funded_cos": "1",
+        "notable_companies": "Redivivum",
+        "num_incubated_cos": "1"
+      },
+      {
+        "rank": 30,
+        "num_batches": "19",
+        "program_name": "Boston",
+        "num_funded_cos": "194",
+        "notable_companies": "PillPack, SparkCharge",
+        "num_incubated_cos": "202"
+      },
+      {
+        "rank": 31,
+        "num_batches": "17",
+        "program_name": "Boulder",
+        "num_funded_cos": "163",
+        "notable_companies": "Ramp, DigitalOcean",
+        "num_incubated_cos": "163"
+      },
+      {
+        "rank": 32,
+        "num_batches": "5",
+        "program_name": "Build in Tulsa Techstars Accelerator",
+        "num_funded_cos": "36",
+        "notable_companies": "Gamr, NaviSavi",
+        "num_incubated_cos": "44"
+      },
+      {
+        "rank": 33,
+        "num_batches": "10",
+        "program_name": "Chicago",
+        "num_funded_cos": "87",
+        "notable_companies": "TradingView, Safello",
+        "num_incubated_cos": "87"
+      },
+      {
+        "rank": 34,
+        "num_batches": "1",
+        "program_name": "Chicago JP Morgan",
+        "num_funded_cos": "1",
+        "notable_companies": "Daedalus",
+        "num_incubated_cos": "1"
+      },
+      {
+        "rank": 35,
+        "num_batches": "4",
+        "program_name": "Cloud",
+        "num_funded_cos": "44",
+        "notable_companies": "DataRobot, Cloudability",
+        "num_incubated_cos": "44"
+      },
+      {
+        "rank": 36,
+        "num_batches": "1",
+        "program_name": "Colliers Proptech Accelerator",
+        "num_funded_cos": "3",
+        "notable_companies": "RefineRE, SPCE Group",
+        "num_incubated_cos": "3"
+      },
+      {
+        "rank": 37,
+        "num_batches": "4",
+        "program_name": "Comcast",
+        "num_funded_cos": "33",
+        "notable_companies": "Respeecher, GameOn",
+        "num_incubated_cos": "33"
+      },
+      {
+        "rank": 38,
+        "num_batches": "4",
+        "program_name": "Comcast NBCUniversal LIFT Labs Accelerator",
+        "num_funded_cos": "16",
+        "notable_companies": "Peek, Imaginario",
+        "num_incubated_cos": "16"
+      },
+      {
+        "rank": 39,
+        "num_batches": "1",
+        "program_name": "Connection",
+        "num_funded_cos": "10",
+        "notable_companies": "Gastrograph, Quantac",
+        "num_incubated_cos": "10"
+      },
+      {
+        "rank": 40,
+        "num_batches": "1",
+        "program_name": "Detroit",
+        "num_funded_cos": "11",
+        "notable_companies": "Airspace Link, Alpha Drive",
+        "num_incubated_cos": "11"
+      },
+      {
+        "rank": 41,
+        "num_batches": "2",
+        "program_name": "Disney",
+        "num_funded_cos": "20",
+        "notable_companies": "Sphero, Tyffon",
+        "num_incubated_cos": "20"
+      },
+      {
+        "rank": 42,
+        "num_batches": "2",
+        "program_name": "Dubai",
+        "num_funded_cos": "18",
+        "notable_companies": "Vivoo, Klasha",
+        "num_incubated_cos": "18"
+      },
+      {
+        "rank": 43,
+        "num_batches": "3",
+        "program_name": "Eastern Pacific",
+        "num_funded_cos": "54",
+        "notable_companies": "Cron AI, Seabound",
+        "num_incubated_cos": "54"
+      },
+      {
+        "rank": 44,
+        "num_batches": "2",
+        "program_name": "Eastern Pacific Accelerator",
+        "num_funded_cos": "3",
+        "notable_companies": "Captain's Eye, MARLO",
+        "num_incubated_cos": "3"
+      },
+      {
+        "rank": 45,
+        "num_batches": "1",
+        "program_name": "Emory Founder Catalyst Program",
+        "num_funded_cos": "1",
+        "notable_companies": "Subscription Intern",
+        "num_incubated_cos": "1"
+      },
+      {
+        "rank": 46,
+        "num_batches": "4",
+        "program_name": "Energy",
+        "num_funded_cos": "32",
+        "notable_companies": "Twelve, RatedPower",
+        "num_incubated_cos": "32"
+      },
+      {
+        "rank": 47,
+        "num_batches": "4",
+        "program_name": "Equinor & Techstars Energy Accelerator",
+        "num_funded_cos": "12",
+        "notable_companies": "Enurgen, DeepStream",
+        "num_incubated_cos": "12"
+      },
+      {
+        "rank": 48,
+        "num_batches": "2",
+        "program_name": "Equitech",
+        "num_funded_cos": "14",
+        "notable_companies": "Femly, Ecomap",
+        "num_incubated_cos": "15"
+      },
+      {
+        "rank": 49,
+        "num_batches": "4",
+        "program_name": "Excelerate Labs",
+        "num_funded_cos": "29",
+        "notable_companies": "SpotHero, Sheeva Technologies",
+        "num_incubated_cos": "29"
+      },
+      {
+        "rank": 50,
+        "num_batches": "4",
+        "program_name": "Farm to Fork",
+        "num_funded_cos": "37",
+        "notable_companies": "H2Ok Innovations, EcoPlant",
+        "num_incubated_cos": "38"
+      },
+      {
+        "rank": 51,
+        "num_batches": "1",
+        "program_name": "Filecoin",
+        "num_funded_cos": "12",
+        "notable_companies": "TransCrypts, Statwig",
+        "num_incubated_cos": "12"
+      },
+      {
+        "rank": 52,
+        "num_batches": "4",
+        "program_name": "Healthcare",
+        "num_funded_cos": "37",
+        "notable_companies": "Tasso, Deep 6 AI",
+        "num_incubated_cos": "37"
+      }
+    ],
+    "section": "incubator_programs"
+  },
+  {
+    "data": [
+      {
+        "batch": "2022 T2",
+        "program": "NYC",
+        "end_date": "30-06-2022",
+        "start_date": "11-04-2022",
+        "num_funded_cos": "7",
+        "notable_companies": "VESTI, Torche",
+        "num_incubated_cos": "7"
+      },
+      {
+        "batch": "2022 T2",
+        "program": "Sports",
+        "end_date": "07-07-2022",
+        "start_date": "11-04-2022",
+        "num_funded_cos": "11",
+        "notable_companies": "Gamepl, Rewire Fitness App",
+        "num_incubated_cos": "11"
+      },
+      {
+        "batch": "2022 T2",
+        "program": "Tel Aviv",
+        "end_date": "29-06-2022",
+        "start_date": "28-03-2022",
+        "num_funded_cos": "12",
+        "notable_companies": "Virtue Health, Tegarti",
+        "num_incubated_cos": "12"
+      },
+      {
+        "batch": "2022 T2",
+        "program": "Filecoin",
+        "end_date": "16-06-2022",
+        "start_date": "21-03-2022",
+        "num_funded_cos": "12",
+        "notable_companies": "TransCrypts, Statwig",
+        "num_incubated_cos": "12"
+      },
+      {
+        "batch": "2022 T2",
+        "program": "Energy",
+        "end_date": "16-06-2022",
+        "start_date": "21-03-2022",
+        "num_funded_cos": "8",
+        "notable_companies": "ElectricFish, powertrust",
+        "num_incubated_cos": "8"
+      },
+      {
+        "batch": "2022 T2",
+        "program": "Los Angeles",
+        "end_date": "16-06-2022",
+        "start_date": "21-03-2022",
+        "num_funded_cos": "11",
+        "notable_companies": "Rwazi, Hormona",
+        "num_incubated_cos": "11"
+      },
+      {
+        "batch": "2022 T1",
+        "program": "Stanley",
+        "end_date": "25-05-2022",
+        "start_date": "14-02-2022",
+        "num_funded_cos": "8",
+        "notable_companies": "MOLG, Revolute Robotics",
+        "num_incubated_cos": "8"
+      },
+      {
+        "batch": "2022 T1",
+        "program": "Austin",
+        "end_date": "-",
+        "start_date": "10-01-2022",
+        "num_funded_cos": "12",
+        "notable_companies": "Rainwalk Technology, The Mentor Method",
+        "num_incubated_cos": "12"
+      },
+      {
+        "batch": "2021 T6",
+        "program": "Eastern Pacific",
+        "end_date": "-",
+        "start_date": "22-11-2021",
+        "num_funded_cos": "6",
+        "notable_companies": "Seabound, Graphite Innovation & Technologies",
+        "num_incubated_cos": "6"
+      },
+      {
+        "batch": "2021 T3",
+        "program": "Kansas City",
+        "end_date": "-",
+        "start_date": "07-06-2021",
+        "num_funded_cos": "3",
+        "notable_companies": "PMI Ratw Pro, AlgenAir",
+        "num_incubated_cos": "3"
+      },
+      {
+        "batch": "2018 Q3",
+        "program": "Comcast",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "11",
+        "notable_companies": "Eye Candy Lab, Trapica",
+        "num_incubated_cos": "11"
+      },
+      {
+        "batch": "2019 Q3",
+        "program": "Comcast",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "7",
+        "notable_companies": "Respeecher, GameOn",
+        "num_incubated_cos": "7"
+      },
+      {
+        "batch": "2020 T1",
+        "program": "Social Impact",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "9",
+        "notable_companies": "Blue Studios, BestFit",
+        "num_incubated_cos": "10"
+      },
+      {
+        "batch": "2020 T6",
+        "program": "Eastern Pacific",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "12",
+        "notable_companies": "Klaim AI, MealMe",
+        "num_incubated_cos": "12"
+      },
+      {
+        "batch": "2019 Q4",
+        "program": "Eastern Pacific",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "36",
+        "notable_companies": "Cron AI, Koala",
+        "num_incubated_cos": "36"
+      },
+      {
+        "batch": "2018 Q4",
+        "program": "Energy",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "9",
+        "notable_companies": "Twelve, RatedPower",
+        "num_incubated_cos": "9"
+      },
+      {
+        "batch": "2021 T1",
+        "program": "Energy",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "9",
+        "notable_companies": "Ecolectro, Vortex bladeless",
+        "num_incubated_cos": "9"
+      },
+      {
+        "batch": "2019 Q4",
+        "program": "Energy",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "6",
+        "notable_companies": "RagnaRock Geo, SeeO2 Energy",
+        "num_incubated_cos": "6"
+      },
+      {
+        "batch": "2017 Q4",
+        "program": "Barclays NYC",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "10",
+        "notable_companies": "Novo, RealBlocks",
+        "num_incubated_cos": "10"
+      },
+      {
+        "batch": "2016 Summer",
+        "program": "Barclays NYC",
+        "end_date": "-",
+        "start_date": "-",
+        "num_funded_cos": "11",
+        "notable_companies": "Morty, StackSource",
+        "num_incubated_cos": "11"
+      }
+    ],
+    "section": "incubator_batches"
+  },
+  {
+    "data": [
+      {
+        "batch": "2019 Q1",
+        "sector": "FinTech",
+        "program": "Boulder",
+        "location": "New York",
+        "company_name": "Ramp",
+        "founded_year": "2019",
+        "tracxn_score": 85,
+        "company_stage": "Series E",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Provider of a platform for spend management, corporate cards, and payables",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2011 Fall",
+        "sector": "FinTech",
+        "program": "Seattle",
+        "location": "Washington",
+        "company_name": "Remitly",
+        "founded_year": "2011",
+        "tracxn_score": 84,
+        "company_stage": "Public",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Provider of international money transfer services with multiple delivery options",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2011 Winter",
+        "sector": "Enterprise Infrastructure",
+        "program": "NYC",
+        "location": "Texas",
+        "company_name": "Oracle",
+        "founded_year": "1977",
+        "tracxn_score": 83,
+        "company_stage": "Public",
+        "latest_revenue": "57.4B",
+        "latest_valuation": "-",
+        "short_description": "Hybrid cloud infrastructure platform",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2012 Summer",
+        "sector": "HealthTech",
+        "program": "NYC",
+        "location": "New York",
+        "company_name": "ClassPass",
+        "founded_year": "2013",
+        "tracxn_score": 81,
+        "company_stage": "Acquired",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Membership programs for fitness classes across multiple gyms",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2013",
+        "sector": "High Tech",
+        "program": "R/GA",
+        "location": "Utah",
+        "company_name": "Owlet",
+        "founded_year": "2013",
+        "tracxn_score": 81,
+        "company_stage": "Public",
+        "latest_revenue": "78.1M",
+        "latest_valuation": "-",
+        "short_description": "Provider of wearable socks for baby monitoring",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2012 Summer",
+        "sector": "Enterprise Infrastructure",
+        "program": "Boulder",
+        "location": "New York",
+        "company_name": "DigitalOcean",
+        "founded_year": "2011",
+        "tracxn_score": 80,
+        "company_stage": "Public",
+        "latest_revenue": "781M",
+        "latest_valuation": "-",
+        "short_description": "Provider of cloud infrastructure, virtual machines, and managed database hosting",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2012 Summer",
+        "sector": "Enterprise Applications",
+        "program": "Boulder",
+        "location": "Georgia",
+        "company_name": "SalesLoft",
+        "founded_year": "2011",
+        "tracxn_score": 79,
+        "company_stage": "Acquired",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Sales prospecting and engagement tool for enterprises",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2015",
+        "sector": "High Tech",
+        "program": "R/GA",
+        "location": "New York",
+        "company_name": "Latch",
+        "founded_year": "2014",
+        "tracxn_score": 78,
+        "company_stage": "Public",
+        "latest_revenue": "45M",
+        "latest_valuation": "-",
+        "short_description": "Provider of cloud-based smart locks for residential and commercial places",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2012",
+        "sector": "Consumer",
+        "program": "Excelerate Labs",
+        "location": "Illinois",
+        "company_name": "SpotHero",
+        "founded_year": "2011",
+        "tracxn_score": 77,
+        "company_stage": "Acquired",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Provider of a platform for booking parking spots and related services",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2015 Summer",
+        "sector": "FinTech",
+        "program": "Barclays NYC",
+        "location": "New York",
+        "company_name": "Chainalysis",
+        "founded_year": "2014",
+        "tracxn_score": 77,
+        "company_stage": "Series F",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Blockchain data platform providing crypto insights",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2011 Summer",
+        "sector": "Retail",
+        "program": "Boulder",
+        "location": "Colorado",
+        "company_name": "GoSpotCheck",
+        "founded_year": "2011",
+        "tracxn_score": 76,
+        "company_stage": "Acquired",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Mobile task management and image recognition platform for field teams",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "Unknown",
+        "sector": "Enterprise Applications",
+        "program": "Techstars A&I Program",
+        "location": "New York",
+        "company_name": "Bitly",
+        "founded_year": "2008",
+        "tracxn_score": 76,
+        "company_stage": "Series D",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Provider of URL shortening, QR code generation, and link management",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2013 Spring",
+        "sector": "HealthTech",
+        "program": "Boston",
+        "location": "Massachusetts",
+        "company_name": "PillPack",
+        "founded_year": "2013",
+        "tracxn_score": 75,
+        "company_stage": "Acquired",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Subscription based medicine ordering platform",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2016 Winter",
+        "sector": "Auto Tech",
+        "program": "Barclays",
+        "location": "United Kingdom",
+        "company_name": "Cuvva",
+        "founded_year": "2014",
+        "tracxn_score": 75,
+        "company_stage": "Series A",
+        "latest_revenue": "35M",
+        "latest_valuation": "-",
+        "short_description": "Online usage-based car insurance solutions",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2013 Spring",
+        "sector": "FinTech",
+        "program": "Chicago",
+        "location": "United Kingdom",
+        "company_name": "TradingView",
+        "founded_year": "2011",
+        "tracxn_score": 75,
+        "company_stage": "Series C",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "App-based multi-asset charting and technical analysis platform for traders",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "Techstars 2020",
+        "sector": "FinTech",
+        "program": "Techstars & Western Union Accelerator",
+        "location": "California",
+        "company_name": "Vested Finance",
+        "founded_year": "2015",
+        "tracxn_score": 75,
+        "company_stage": "Series A",
+        "latest_revenue": "755K",
+        "latest_valuation": "-",
+        "short_description": "Online trading and investment platform",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2015 Summer",
+        "sector": "EdTech",
+        "program": "Berlin",
+        "location": "Massachusetts",
+        "company_name": "Preply",
+        "founded_year": "2012",
+        "tracxn_score": 74,
+        "company_stage": "Series D",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Platform connects language learners with online tutors for personalized lessons",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2018 Q1",
+        "sector": "Energy Tech",
+        "program": "Boston",
+        "location": "Massachusetts",
+        "company_name": "SparkCharge",
+        "founded_year": "2014",
+        "tracxn_score": 74,
+        "company_stage": "Series A",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Provider of charging solutions for electric vehicles",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2011 Fall",
+        "sector": "Enterprise Applications",
+        "program": "Seattle",
+        "location": "Washington",
+        "company_name": "Outreach",
+        "founded_year": "2014",
+        "tracxn_score": 74,
+        "company_stage": "Series G",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Provider of an AI revenue workflow platform for sales teams",
+        "total_equity_funding": "-"
+      },
+      {
+        "batch": "2013 Fall",
+        "sector": "Enterprise Applications",
+        "program": "Seattle",
+        "location": "Washington",
+        "company_name": "Skilljar",
+        "founded_year": "2013",
+        "tracxn_score": 73,
+        "company_stage": "Acquired",
+        "latest_revenue": "-",
+        "latest_valuation": "-",
+        "short_description": "Cloud based customer onboarding and training platform",
+        "total_equity_funding": "-"
+      }
+    ],
+    "section": "incubated_companies"
+  }
+]
